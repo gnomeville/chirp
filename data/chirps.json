@@ -199,7 +199,9 @@
         "who": "cecil",
         "text": "Darling, it was served with dessert."
       }
-    ]
+    ],
+    "image": "assets/cecil-cake.jpg",
+    "alt": "Cecil’s lavish multi-tiered wedding cake on a formal reception display."
   },
   {
     "id": "cecil103",
@@ -332,13 +334,25 @@
   {
     "id": "cecil-websterphoto",
     "who": "cecil",
-    "text": "My attorney has been drinking again. He's currently negotiating with a lampshade.\n\n#AttorneyAtHisWitsEnd",
-    "image": "assets/webster-photo.jpg",
-    "alt": "A fuzzy black spider on a desk beside a lampshade",
+    "text": "A perfectly civilized evening with my legal counsel. I cannot imagine why the club has declined to renew our memberships.\n\n#LampshadeIncident #NoFurtherComment #AgainstAdviceOfCounsel",
+    "image": "assets/cecil-lampshade-incident.jpg",
+    "alt": "Cecil reclines as a skull in a burgundy leather club chair, while Webster the spider wears a stolen miniature lampshade near tiny cocktail glasses.",
     "replies": [
       {
         "who": "webster",
-        "text": "This photograph was taken during privileged negotiations."
+        "text": "I have no recollection of this photograph."
+      },
+      {
+        "who": "cecil",
+        "text": "Darling, you're wearing the evidence."
+      },
+      {
+        "who": "webster",
+        "text": "I am requesting its immediate removal."
+      },
+      {
+        "who": "cecil",
+        "text": "From Chirp or your head?"
       }
     ]
   },
@@ -375,17 +389,19 @@
     "replies": [
       {
         "who": "webster",
-        "text": "The complaint concerns your use of a flamethrower during a children's birthday party."
+        "text": "The complaint concerns the cake's aggressive unveiling."
       },
       {
         "who": "cecil",
-        "text": "It was a gender reveal, darling."
+        "text": "Darling, it was a gender reveal."
       },
       {
         "who": "webster",
         "text": "That does not improve matters."
       }
-    ]
+    ],
+    "image": "assets/cecil-gender-reveal.jpg",
+    "alt": "A pink-and-blue gender reveal cake exploding midair at an elegant reception, with Cecil’s skull and a formally dressed Webster nearby."
   },
   {
     "id": "webster-ceremony",
@@ -591,17 +607,23 @@
   {
     "id": "cecil-luncheon",
     "who": "cecil",
-    "text": "The committee luncheon has been postponed because the mayor says I was never invited. Darling, invitations are for people who need permission. #KnowYourWorth #StandardsCheerfullyDisregarded",
+    "text": "A tremendous honor to provide the centerpiece for today’s Mayoral Luncheon. The mayor calls it a civic contribution. My invoice calls it something else.\n\n#MayoralLuncheon #WineGate #StandardsCheerfullyDisregarded",
     "replies": [
       {
         "who": "webster",
-        "text": "You do need permission."
+        "text": "For the record, the cake was not donated."
       },
       {
         "who": "cecil",
-        "text": "And yet here I am."
+        "text": "DARLING, NEITHER WAS MY TIME."
+      },
+      {
+        "who": "mayor",
+        "text": "The Finance Department has requested clarification regarding the meaning of “generous.”"
       }
-    ]
+    ],
+    "image": "assets/cecil-mayoral-luncheon.jpg",
+    "alt": "Mayor Thimblewick raises red wine beside Cecil and Webster in a municipal banquet hall, with two bottles of Château Gnomeville and a deep-green tiered cake behind them."
   },
   {
     "id": "lucy-mayor",
@@ -615,6 +637,112 @@
       {
         "who": "lucy",
         "text": "It was a ribbon cutting."
+      }
+    ]
+  },
+  {
+    "id": "cecil-sponsored-glamour",
+    "who": "cecil",
+    "text": "Darlings, several of you have inquired about my magnificent physique.\n\nFor tonight’s portrait session I partnered with Borrowed Limbs™, premier providers of temporary anatomical elegance.\n\nThe hands are exquisite. The knees are regrettable.\n\n#ad #sponsored #BorrowedLimbs #BodyByAppointment",
+    "image": "assets/cecil-glamour-sponsored.jpg",
+    "alt": "Cecil poses extravagantly for a sponsored glamour portrait with a rented skeleton body.",
+    "replies": [
+      {
+        "who": "webster",
+        "text": "Client failed to disclose that the rental agreement includes a substantial security deposit and a prohibition against dancing."
+      },
+      {
+        "who": "cecil",
+        "text": "Darling, the hips are insured."
+      }
+    ]
+  },
+  {
+    "id": "cecil-everyday-glamour",
+    "who": "cecil",
+    "text": "A quiet evening at home. No appointments, no critics, and absolutely no need to rent a body.\n\nElegance is not an anatomical requirement.\n\n#EverydayGlamour #StandardsCheerfullyDisregarded",
+    "image": "assets/cecil-glamour-everyday.jpg",
+    "alt": "Cecil, just an ivory skull wearing glamorous sunglasses and a cravat, rests on an embroidered velvet cushion against black velvet drapery in golden-hour light.",
+    "replies": [
+      {
+        "who": "webster",
+        "text": "I am relieved that the body rental deposit has been returned."
+      },
+      {
+        "who": "cecil",
+        "text": "Only after I disputed the knee surcharge."
+      }
+    ]
+  },
+  {
+    "id": "cecil-quality-control",
+    "who": "cecil",
+    "text": "Another exhausting day overseeing the creative process at Twisted Sisters Café.\n\nI have rejected seventeen designs today. Productivity has never been higher.\n\n#CakeDecoratingTsar #QualityControl #StandardsCheerfullyDisregarded",
+    "image": "assets/cecil-quality-control.jpg",
+    "alt": "Cecil, only a skull, wears jeweled sunglasses and a chef’s toque in a clean commercial kitchen beside his familiar partly decorated cake; Webster wears a miniature chef’s hat and takes notes.",
+    "replies": [
+      {
+        "who": "webster",
+        "text": "My client has not physically touched a cake in eleven months."
+      },
+      {
+        "who": "cecil",
+        "text": "It's called DELEGATION."
+      }
+    ]
+  },
+  {
+    "id": "cecil-one-cake",
+    "who": "webster",
+    "text": "For the record, my client possesses precisely one cake mold.\n\n#SignatureStyle #CakeDecoratingTsar",
+    "replies": [
+      {
+        "who": "cecil",
+        "text": "IT’S CALLED HAVING A SIGNATURE STYLE, YOU UNCULTURED ARACHNID."
+      },
+      {
+        "who": "webster",
+        "text": "This response is not a denial."
+      }
+    ]
+  },
+  {
+    "id": "cecil-different-pearls",
+    "who": "webster",
+    "text": "Is this not the same cake you presented at the Henderson wedding?\n\n#WeddingCakeDrama #SignatureStyle",
+    "replies": [
+      {
+        "who": "cecil",
+        "text": "No, darling. That one had PEARLS."
+      },
+      {
+        "who": "webster",
+        "text": "This one also has pearls."
+      },
+      {
+        "who": "cecil",
+        "text": "Different pearls."
+      }
+    ]
+  },
+  {
+    "id": "mayor-luncheon-statement",
+    "who": "mayor",
+    "text": "A tremendous success at today’s Mayoral Luncheon. I wish to thank Cecil Glowbones for his generous contribution to our festivities.\n\nThe Finance Department has requested clarification regarding the meaning of “generous.” I have referred them to the appropriate committee.\n\n#MayoralLuncheon #GnomevilleForward",
+    "image": "assets/cecil-mayoral-luncheon.jpg",
+    "alt": "Official Mayoral Luncheon publicity photograph featuring Mayor Thimblewick, Cecil, Webster, Château Gnomeville bottles and a deep green cake.",
+    "replies": [
+      {
+        "who": "webster",
+        "text": "For the record, the cake was not donated."
+      },
+      {
+        "who": "cecil",
+        "text": "DARLING, NEITHER WAS MY TIME."
+      },
+      {
+        "who": "duck",
+        "text": "Please submit itemized receipts on Form 17B."
       }
     ]
   }
