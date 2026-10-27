@@ -2,7 +2,7 @@
   {
     "id": "c001",
     "who": "cecil",
-    "text": "A gentleman asked whether my frosting was stiff enough.\n\nDarling, I've been dead for YEARS.",
+    "text": "A gentleman asked whether my frosting was stiff enough.\n\nDarling, I've been dead for YEARS.\n\n#FrostingGate #DeadSerious",
     "replies": [
       {
         "who": "shirley",
@@ -98,7 +98,7 @@
   {
     "id": "c009",
     "who": "cecil",
-    "text": "My piping technique has been called 'aggressive.' Darling, that was the POINT.",
+    "text": "My piping technique has been called 'aggressive.' Darling, that was the POINT.\n\n#PipingWithAuthority",
     "replies": [
       {
         "who": "webster",
@@ -146,7 +146,7 @@
   {
     "id": "c013",
     "who": "cecil",
-    "text": "I was told to keep my comments tasteful. I've never been so insulted.",
+    "text": "I was told to keep my comments tasteful. I've never been so insulted.\n\n#TasteIsSubjective",
     "replies": [
       {
         "who": "shirley",
@@ -174,7 +174,7 @@
   {
     "id": "cecil101",
     "who": "cecil",
-    "text": "The trouble with tasteful people is that they so rarely have any. Taste, I mean.",
+    "text": "The trouble with tasteful people is that they so rarely have any. Taste, I mean.\n\n#TasteIsSubjective",
     "replies": [
       {
         "who": "shirley",
@@ -189,7 +189,7 @@
   {
     "id": "cecil102",
     "who": "cecil",
-    "text": "My cake has three tiers, seven roses, and one restraining order. I call it a wedding.",
+    "text": "My cake has three tiers, seven roses, and one restraining order. I call it a wedding.\n\n#WeddingCakeDrama #StandardsCheerfullyDisregarded",
     "replies": [
       {
         "who": "webster",
@@ -204,7 +204,7 @@
   {
     "id": "cecil103",
     "who": "cecil",
-    "text": "Somebody called my decorations excessive. I removed one pearl. I hope they are satisfied.",
+    "text": "Somebody called my decorations excessive. I removed one pearl. I hope they are satisfied.\n\n#UnderstatedIsOverrated",
     "replies": [
       {
         "who": "lucy",
@@ -219,7 +219,7 @@
   {
     "id": "cecil104",
     "who": "cecil",
-    "text": "I have been asked to host a workshop on professional conduct. Evidently the qualifications committee has also died.",
+    "text": "I have been asked to host a workshop on professional conduct. Evidently the qualifications committee has also died.\n\n#QuestionableQualifications",
     "replies": [
       {
         "who": "duck",
@@ -234,7 +234,7 @@
   {
     "id": "cecil105",
     "who": "cecil",
-    "text": "The mayor requested a discreet cake for a private function. I asked if the emergency wine fund would be paying. Silence.",
+    "text": "The mayor requested a discreet cake for a private function. I asked if the emergency wine fund would be paying. Silence.\n\n#WineGate #MunicipalAffairs",
     "replies": [
       {
         "who": "mayor",
@@ -249,7 +249,7 @@
   {
     "id": "cecil106",
     "who": "cecil",
-    "text": "I don’t gossip. I simply provide the public with information they were too timid to request.",
+    "text": "I don’t gossip. I simply provide the public with information they were too timid to request.\n\n#PublicServiceAnnouncement",
     "replies": [
       {
         "who": "toni",
@@ -264,7 +264,7 @@
   {
     "id": "cecil107",
     "who": "cecil",
-    "text": "I was going to make something understated today. Then I remembered who I am.",
+    "text": "I was going to make something understated today. Then I remembered who I am.\n\n#UnderstatedIsOverrated",
     "replies": [
       {
         "who": "rook",
@@ -280,7 +280,7 @@
     "id": "cecil-pinned",
     "who": "cecil",
     "pinned": true,
-    "text": "Welcome, darlings. Before you follow me, understand three things:\n\nI don't do subtle.\n\nI don't do refunds.\n\nAnd I certainly don't do sheet cakes.\n\n💋",
+    "text": "Welcome, darlings. Before you follow me, understand three things:\n\nI don't do subtle.\n\nI don't do refunds.\n\nAnd I certainly don't do sheet cakes.\n\n💋\n\n#StandardsCheerfullyDisregarded #AskCecil",
     "replies": [
       {
         "who": "webster",
@@ -314,7 +314,7 @@
   {
     "id": "cecil-cakephoto",
     "who": "cecil",
-    "text": "The bride requested something understated. I declined.",
+    "text": "The bride requested something understated. I declined.\n\n#UnderstatedIsOverrated #CakeDecorating",
     "image": "assets/cecil-cake.jpg",
     "alt": "An extravagantly decorated pink and black cake"
   },
@@ -332,7 +332,7 @@
   {
     "id": "cecil-websterphoto",
     "who": "cecil",
-    "text": "My attorney has been drinking again. He's currently negotiating with a lampshade.",
+    "text": "My attorney has been drinking again. He's currently negotiating with a lampshade.\n\n#AttorneyAtHisWitsEnd",
     "image": "assets/webster-photo.jpg",
     "alt": "A fuzzy black spider on a desk beside a lampshade",
     "replies": [
@@ -356,7 +356,7 @@
   {
     "id": "webster-list",
     "who": "cecil",
-    "text": "I've been informed that I require legal representation on this platform. Ridiculous. I've never done anything illegal in my life.",
+    "text": "I've been informed that I require legal representation on this platform. Ridiculous. I've never done anything illegal in my life.\n\n#AgainstAdviceOfCounsel",
     "replies": [
       {
         "who": "webster",
@@ -371,7 +371,7 @@
   {
     "id": "webster-gender-reveal",
     "who": "cecil",
-    "text": "I've been threatened with legal action again. Apparently excellence is intimidating.",
+    "text": "I've been threatened with legal action again. Apparently excellence is intimidating.\n\n#GenderRevealIncident",
     "replies": [
       {
         "who": "webster",
@@ -390,7 +390,7 @@
   {
     "id": "webster-ceremony",
     "who": "cecil",
-    "text": "I simply told the bride that her dress resembled an upholstered ottoman.",
+    "text": "I simply told the bride that her dress resembled an upholstered ottoman.\n\n#WeddingCakeDrama",
     "replies": [
       {
         "who": "webster",
