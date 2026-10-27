@@ -1,0 +1,11 @@
+{
+ "cecil":{"name":"Cecil Glowbones","handle":"CecilGlowbones","avatar":"💀","bio":"Cake Decorating Tsar. Standards Cheerfully Disregarded. Dead serious about buttercream.","verified":true},
+ "milo":{"name":"Milo Chicken","handle":"MiloChicken","avatar":"🐈","bio":"Independent feline. Tenant advocate. Innocent of all charges.","verified":false},
+ "shirley":{"name":"Shirley Bell, Esq.","handle":"AttorneyAtClaw","avatar":"🐉","bio":"Attorney at Claw. This account does not constitute legal advice.","verified":true},
+ "duck":{"name":"Bureaucratic Duck","handle":"Form17B","avatar":"🦆","bio":"Department of Forms, Stamps & Procedural Delays.","verified":true},
+ "lucy":{"name":"Lucy","handle":"LucyHasLanded","avatar":"🪿","bio":"Style icon. No photographs before coffee.","verified":false},
+ "rook":{"name":"Rook","handle":"RookOfficial","avatar":"🦝","bio":"Municipal technical assistance. Occasional Victorian raccoon.","verified":false},
+ "toni":{"name":"District Attorney Toni","handle":"GnomevilleDA","avatar":"⚖️","bio":"District Attorney and Municipal Archivist. Questions in writing.","verified":true},
+ "mayor":{"name":"Mayor Thimblewick","handle":"MayorThimblewick","avatar":"🐸","bio":"Mayor of Gnomeville. A glass of red wine is not a conflict of interest.","verified":true},
+ "webster":{"name":"Webster","handle":"WebsterCounsel","avatar":"⚖️","bio":"General Counsel. I have concerns.","verified":true}
+}
