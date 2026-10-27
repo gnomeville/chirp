@@ -425,5 +425,197 @@
     "id": "webster-public-statement",
     "who": "webster",
     "text": "For the avoidance of doubt: Mr. Glowbones does not speak on behalf of counsel. He frequently speaks over counsel."
+  },
+  {
+    "id": "mayor-pinned",
+    "who": "mayor",
+    "text": "As Mayor, I wish to assure residents that the municipality remains financially solvent, administratively functional, and entirely free of corruption.\n\nPlease disregard yesterday's audit.\n\n#GnomevilleForward",
+    "pinned": true,
+    "replies": [
+      {
+        "who": "duck",
+        "text": "The audit has not been filed. Form 17B remains outstanding."
+      },
+      {
+        "who": "lucy",
+        "text": "Is that the audit with the wine stains?"
+      }
+    ]
+  },
+  {
+    "id": "mayor-committee",
+    "who": "mayor",
+    "text": "I am pleased to announce the formation of the Municipal Committee for Responsible Spending.\n\n#FiscalResponsibility #GnomevilleForward",
+    "replies": [
+      {
+        "who": "duck",
+        "text": "Committee formation requires Form 17B. #MunicipalCompliance"
+      },
+      {
+        "who": "mayor",
+        "text": "I AM THE MAYOR. #ExecutiveAuthority"
+      },
+      {
+        "who": "duck",
+        "text": "Form 17B remains outstanding. #Form17B"
+      },
+      {
+        "who": "cecil",
+        "text": "I’ve offered to chair the committee’s inaugural luncheon. My fee is modest, provided the municipality supplies champagne and an appropriate spotlight. #PublicService #KnowYourWorth"
+      },
+      {
+        "who": "webster",
+        "text": "My client has not been appointed to this committee. #ForTheRecord"
+      },
+      {
+        "who": "mayor",
+        "text": "WHO INVITED THE SKULL? #AdministrativeCrisis"
+      }
+    ]
+  },
+  {
+    "id": "mayor-winegate",
+    "who": "mayor",
+    "text": "Why is #WineGate trending? There is no gate. The wine is kept in a cabinet.",
+    "replies": [
+      {
+        "who": "duck",
+        "text": "Cabinet expenditure records requested. Form 17B."
+      },
+      {
+        "who": "mayor",
+        "text": "I am beginning to regret municipal internet access."
+      },
+      {
+        "who": "lucy",
+        "text": "The cabinet is vintage. I have photographs."
+      }
+    ]
+  },
+  {
+    "id": "mayor-ribbon",
+    "who": "mayor",
+    "text": "Today I had the honor of cutting the ribbon on Gnomeville’s new Department of Ribbon Cutting.\n\nThe ceremony was delayed by a shortage of scissors. #CivicPride",
+    "replies": [
+      {
+        "who": "rook",
+        "text": "I can make a digital ribbon."
+      },
+      {
+        "who": "duck",
+        "text": "Digital ribbon authorization is a separate form."
+      }
+    ]
+  },
+  {
+    "id": "mayor-portrait",
+    "who": "mayor",
+    "text": "An official portrait has been commissioned. The photographer assured me the expression conveys stability.\n\n#OfficeOfTheMayor",
+    "replies": [
+      {
+        "who": "lucy",
+        "text": "It conveys that the luncheon began two hours ago."
+      },
+      {
+        "who": "mayor",
+        "text": "It did."
+      }
+    ],
+    "image": "assets/mayor-avatar.jpg",
+    "alt": "Official portrait of Mayor Thimblewick in a burgundy suit"
+  },
+  {
+    "id": "mayor-office",
+    "who": "mayor",
+    "text": "A productive morning reviewing the municipal code, the budget, and the latest town-planning proposals.\n\nSome of the documents were even opened. #PublicService",
+    "replies": [
+      {
+        "who": "duck",
+        "text": "Please confirm which documents."
+      },
+      {
+        "who": "mayor",
+        "text": "Not at this time."
+      }
+    ],
+    "image": "assets/mayor-office.jpg",
+    "alt": "Mayor Thimblewick at his desk in Gnomeville Town Hall"
+  },
+  {
+    "id": "mayor-census",
+    "who": "mayor",
+    "text": "Our latest census figures indicate a flourishing municipality. Population estimates remain provisional pending resolution of the squirrel question. #GnomevilleForward",
+    "replies": [
+      {
+        "who": "shirley",
+        "text": "Squirrels are entitled to due process."
+      },
+      {
+        "who": "duck",
+        "text": "Census appeals must be submitted in triplicate."
+      }
+    ]
+  },
+  {
+    "id": "mayor-press",
+    "who": "mayor",
+    "text": "I welcome all questions from the press, provided they are submitted in advance, in writing, and concern matters other than municipal finances. #Transparency",
+    "replies": [
+      {
+        "who": "lucy",
+        "text": "What about your wardrobe?"
+      },
+      {
+        "who": "mayor",
+        "text": "That is a separate press conference."
+      }
+    ],
+    "image": "assets/gnomeville-seal.png",
+    "alt": "Gnomeville municipal seal"
+  },
+  {
+    "id": "duck-17b",
+    "who": "duck",
+    "text": "OFFICIAL NOTICE: Form 17B remains outstanding. This notice does not constitute acceptance of Form 17B. #Form17B #MunicipalCompliance",
+    "replies": [
+      {
+        "who": "mayor",
+        "text": "I AM AWARE."
+      },
+      {
+        "who": "webster",
+        "text": "The mayor’s awareness is not a substitute for filing."
+      }
+    ]
+  },
+  {
+    "id": "cecil-luncheon",
+    "who": "cecil",
+    "text": "The committee luncheon has been postponed because the mayor says I was never invited. Darling, invitations are for people who need permission. #KnowYourWorth #StandardsCheerfullyDisregarded",
+    "replies": [
+      {
+        "who": "webster",
+        "text": "You do need permission."
+      },
+      {
+        "who": "cecil",
+        "text": "And yet here I am."
+      }
+    ]
+  },
+  {
+    "id": "lucy-mayor",
+    "who": "lucy",
+    "text": "The mayor has issued a statement on #WineGate. I have issued a photograph. One of these is considerably more persuasive. #LucyHasLanded",
+    "replies": [
+      {
+        "who": "mayor",
+        "text": "That photograph was taken at a private function."
+      },
+      {
+        "who": "lucy",
+        "text": "It was a ribbon cutting."
+      }
+    ]
   }
 ]

@@ -58,8 +58,14 @@
     "name": "Mayor Thimblewick",
     "handle": "MayorThimblewick",
     "avatar": "🐸",
-    "bio": "Mayor of Gnomeville. A glass of red wine is not a conflict of interest.",
-    "verified": true
+    "bio": "Mayor of Gnomeville. Public servant. Defender of civic dignity. All budgetary inquiries should be directed elsewhere.",
+    "verified": true,
+    "image": "assets/mayor-avatar.jpg",
+    "banner": "assets/mayor-banner.jpg",
+    "location": "Gnomeville Town Hall",
+    "following": 184,
+    "followers": 8412,
+    "tagline": "🏛️ Office of the Mayor"
   },
   "webster": {
     "name": "Webster, Esq.",
