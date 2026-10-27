@@ -275,5 +275,82 @@
         "text": "Make it twelve, darling. I am not a municipal spreadsheet."
       }
     ]
+  },
+  {
+    "id": "cecil-pinned",
+    "who": "cecil",
+    "pinned": true,
+    "text": "Welcome, darlings. Before you follow me, understand three things:\n\nI don't do subtle.\n\nI don't do refunds.\n\nAnd I certainly don't do sheet cakes.\n\n💋",
+    "replies": [
+      {
+        "who": "webster",
+        "text": "Please be advised that our refund policy is under review."
+      },
+      {
+        "who": "cecil",
+        "text": "Darling, so is your attitude."
+      }
+    ]
+  },
+  {
+    "id": "webster-breathing",
+    "who": "webster",
+    "text": "I have advised my client against posting this.",
+    "replies": [
+      {
+        "who": "cecil",
+        "text": "Darling, you've advised me against breathing."
+      },
+      {
+        "who": "webster",
+        "text": "You haven't breathed in thirty years."
+      },
+      {
+        "who": "cecil",
+        "text": "AND I'VE NEVER FELT BETTER."
+      }
+    ]
+  },
+  {
+    "id": "cecil-cakephoto",
+    "who": "cecil",
+    "text": "The bride requested something understated. I declined.",
+    "image": "assets/cecil-cake.jpg",
+    "alt": "An extravagantly decorated pink and black cake"
+  },
+  {
+    "id": "webster-counsel",
+    "who": "webster",
+    "text": "The phrase “against advice of counsel” is not a decorative flourish. It is my entire workload.",
+    "replies": [
+      {
+        "who": "cecil",
+        "text": "And you wear it beautifully, darling."
+      }
+    ]
+  },
+  {
+    "id": "cecil-websterphoto",
+    "who": "cecil",
+    "text": "My attorney has been drinking again. He's currently negotiating with a lampshade.",
+    "image": "assets/webster-photo.jpg",
+    "alt": "A fuzzy black spider on a desk beside a lampshade",
+    "replies": [
+      {
+        "who": "webster",
+        "text": "This photograph was taken during privileged negotiations."
+      }
+    ]
+  },
+  {
+    "id": "webster-retainer",
+    "who": "webster",
+    "text": "Please stop leaving retainers in the frosting. That is not what the word means.",
+    "replies": [
+      {
+        "who": "cecil",
+        "text": "Then the legal profession ought to choose less delicious terminology."
+      }
+    ]
   }
 ]

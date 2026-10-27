@@ -5,7 +5,12 @@
     "avatar": "💀",
     "bio": "Cake Decorating Tsar. Unlicensed cultural commentator. Dead serious about buttercream. Standards Cheerfully Disregarded. Compliments accepted; criticism returned to sender.",
     "verified": true,
-    "location": "Gnomeville, regrettably"
+    "location": "Gnomeville, regrettably",
+    "image": "assets/cecil-avatar.jpg",
+    "banner": "assets/cecil-banner.jpg",
+    "following": 86,
+    "followers": 2417,
+    "tagline": "💀 Cake Decorating Tsar · Founding Chirper"
   },
   "milo": {
     "name": "Milo Chicken",
@@ -59,8 +64,12 @@
   "webster": {
     "name": "Webster",
     "handle": "WebsterCounsel",
-    "avatar": "⚖️",
-    "bio": "General Counsel. I have concerns.",
-    "verified": true
+    "avatar": "🕷️",
+    "bio": "General Counsel, Gnomeville. Attorney. Eight legs. Zero patience. All statements by my client are made against advice of counsel.",
+    "verified": true,
+    "location": "Gnomeville Legal Department",
+    "following": 12,
+    "followers": 904,
+    "tagline": "⚖️ General Counsel · Eight legs, zero patience"
   }
 }
