@@ -352,5 +352,78 @@
         "text": "Then the legal profession ought to choose less delicious terminology."
       }
     ]
+  },
+  {
+    "id": "webster-list",
+    "who": "cecil",
+    "text": "I've been informed that I require legal representation on this platform. Ridiculous. I've never done anything illegal in my life.",
+    "replies": [
+      {
+        "who": "webster",
+        "text": "I have prepared a list."
+      },
+      {
+        "who": "cecil",
+        "text": "Darling, nobody likes a show-off."
+      }
+    ]
+  },
+  {
+    "id": "webster-gender-reveal",
+    "who": "cecil",
+    "text": "I've been threatened with legal action again. Apparently excellence is intimidating.",
+    "replies": [
+      {
+        "who": "webster",
+        "text": "The complaint concerns your use of a flamethrower during a children's birthday party."
+      },
+      {
+        "who": "cecil",
+        "text": "It was a gender reveal, darling."
+      },
+      {
+        "who": "webster",
+        "text": "That does not improve matters."
+      }
+    ]
+  },
+  {
+    "id": "webster-ceremony",
+    "who": "cecil",
+    "text": "I simply told the bride that her dress resembled an upholstered ottoman.",
+    "replies": [
+      {
+        "who": "webster",
+        "text": "You said it during the ceremony."
+      },
+      {
+        "who": "cecil",
+        "text": "Honesty is a virtue."
+      },
+      {
+        "who": "webster",
+        "text": "Timing is also a consideration."
+      }
+    ]
+  },
+  {
+    "id": "webster-allegations",
+    "who": "webster",
+    "text": "I have reviewed the allegations against my client.\n\nThey are substantially accurate.\n\nFortunately, accuracy is not the sole consideration in litigation."
+  },
+  {
+    "id": "webster-opposing-counsel",
+    "who": "webster",
+    "text": "Opposing counsel described my argument as unnecessarily aggressive.\n\nI reminded him that he was welcome to withdraw his objection at any time.\n\nHe did."
+  },
+  {
+    "id": "webster-court",
+    "who": "webster",
+    "text": "A courtroom is not a stage. I have explained this to my client. He has requested better lighting."
+  },
+  {
+    "id": "webster-public-statement",
+    "who": "webster",
+    "text": "For the avoidance of doubt: Mr. Glowbones does not speak on behalf of counsel. He frequently speaks over counsel."
   }
 ]

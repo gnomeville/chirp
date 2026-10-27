@@ -62,14 +62,14 @@
     "verified": true
   },
   "webster": {
-    "name": "Webster",
+    "name": "Webster, Esq.",
     "handle": "WebsterCounsel",
     "avatar": "🕷️",
-    "bio": "General Counsel, Gnomeville. Attorney. Eight legs. Zero patience. All statements by my client are made against advice of counsel.",
-    "verified": true,
-    "location": "Gnomeville Legal Department",
+    "bio": "Private Counsel to Cecil Glowbones. Litigation specialist.",
+    "verified": false,
+    "location": "Gnomeville",
     "following": 12,
-    "followers": 904,
-    "tagline": "⚖️ General Counsel · Eight legs, zero patience"
+    "followers": 312,
+    "image": "assets/webster-avatar.jpg"
   }
 }
