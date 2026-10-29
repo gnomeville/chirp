@@ -949,7 +949,17 @@
     "replies": [
       {
         "who": "lucy",
-        "text": "Pfft. As if. \n\n#narcissistmuch"
+        "text": "Pfft. As if. \n\n#narcissistmuch",
+        "id": "legacy-live-beacdc77-fa18-4b79-9f09-b08e616f2312-0",
+        "replies": [
+          {
+            "id": "reply-d6412e20-0f02-47c2-b9d0-7118980f3480",
+            "who": "bette",
+            "text": "Darling, no where did I say your name. \n\n#whoisthenarcissist?",
+            "createdAt": "2026-10-29T23:17:55.953Z",
+            "replies": []
+          }
+        ]
       }
     ]
   }
