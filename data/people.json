@@ -95,5 +95,173 @@
     "bio": "Stage legend. Glamour is not optional.",
     "verified": false,
     "location": "Gnomeville"
+  },
+  "cavanaugh": {
+    "name": "Mr. Cavanaugh",
+    "handle": "ProfessorCavanaugh",
+    "avatar": "📚",
+    "bio": "British former literature professor.",
+    "verified": false
+  },
+  "derpy": {
+    "name": "Derpy",
+    "handle": "DerpyDinosaur",
+    "avatar": "🦕",
+    "bio": "House resident; inseparable from Birthday Mouse.",
+    "verified": false
+  },
+  "birthdaymouse": {
+    "name": "Birthday Mouse",
+    "handle": "BirthdayMouse",
+    "avatar": "🐭",
+    "bio": "House resident; Derpy’s inseparable friend.",
+    "verified": false
+  },
+  "pawpaw": {
+    "name": "Paw-Paw",
+    "handle": "JudgePawPaw",
+    "avatar": "⚖️",
+    "bio": "Judge of Gnomeville.",
+    "verified": false
+  },
+  "gertie": {
+    "name": "Gertie Marrow",
+    "handle": "GertieMarrow",
+    "avatar": "💀",
+    "bio": "Gnomeville resident.",
+    "verified": false
+  },
+  "tony": {
+    "name": "Tony the Porch Lizard",
+    "handle": "TonyPorchLizard",
+    "avatar": "🦎",
+    "bio": "Musical entertainer for hire.",
+    "verified": false
+  },
+  "captainpeanuts": {
+    "name": "Captain Peanuts",
+    "handle": "CaptainPeanuts",
+    "avatar": "🐿️",
+    "bio": "Squirrel associated with porch damage.",
+    "verified": false
+  },
+  "captainnutters": {
+    "name": "Captain Nutters",
+    "handle": "CaptainNutters",
+    "avatar": "🐿️",
+    "bio": "Squirrel associated with Salty Pete.",
+    "verified": false
+  },
+  "saltypete": {
+    "name": "Salty Pete",
+    "handle": "SaltyPete",
+    "avatar": "⚓",
+    "bio": "Gnomeville resident.",
+    "verified": false
+  },
+  "hankswanson": {
+    "name": "Hank Swanson",
+    "handle": "HankSwanson",
+    "avatar": "🏛️",
+    "bio": "Former interim mayor of Gnomeville.",
+    "verified": false
+  },
+  "ollie": {
+    "name": "Ollie",
+    "handle": "OllieLibrary",
+    "avatar": "🦉",
+    "bio": "Librarian at Gnomeville Public Library.",
+    "verified": false
+  },
+  "bruce": {
+    "name": "Bruce",
+    "handle": "BruceGnomeville",
+    "avatar": "👀",
+    "bio": "Gnomeville resident.",
+    "verified": false
+  },
+  "eugene": {
+    "name": "Eugene",
+    "handle": "EugeneSkull",
+    "avatar": "💀",
+    "bio": "Friend of Paw-Paw.",
+    "verified": false
+  },
+  "rocky": {
+    "name": "Rocky the Raccoon",
+    "handle": "RockyRaccoon",
+    "avatar": "🦝",
+    "bio": "Fairground-area resident.",
+    "verified": false
+  },
+  "rudy": {
+    "name": "Rudy",
+    "handle": "RudyGnomeville",
+    "avatar": "🐾",
+    "bio": "Rocky’s maternal step-cousin.",
+    "verified": false
+  },
+  "francine": {
+    "name": "Francine Banditson-Vermicelli",
+    "handle": "GrammyFrancine",
+    "avatar": "🌼",
+    "bio": "Member of the Banditson–Vermicelli family.",
+    "verified": false
+  },
+  "theo": {
+    "name": "Theo Vermicelli",
+    "handle": "GrampyTheo",
+    "avatar": "🎩",
+    "bio": "Member of the Banditson–Vermicelli family.",
+    "verified": false
+  },
+  "angela": {
+    "name": "Angela Banditson",
+    "handle": "AngelaBanditson",
+    "avatar": "🌿",
+    "bio": "Rocky’s mother.",
+    "verified": false
+  },
+  "carol": {
+    "name": "Carol Vermicelli",
+    "handle": "CarolVermicelli",
+    "avatar": "🌷",
+    "bio": "Rudy’s mother.",
+    "verified": false
+  },
+  "helga": {
+    "name": "Helga",
+    "handle": "HelgaGnomeville",
+    "avatar": "🎭",
+    "bio": "Longtime neighborhood observer and performer.",
+    "verified": false
+  },
+  "liza": {
+    "name": "Liza Joy",
+    "handle": "LizaJoyDragon",
+    "avatar": "🐉",
+    "bio": "Dragon.",
+    "verified": false
+  },
+  "vlad": {
+    "name": "Vladislav Severin Varenne",
+    "handle": "BabyVladley",
+    "avatar": "🦇",
+    "bio": "Senior Director of Skeletal Positioning & Posthumous Articulation.",
+    "verified": false
+  },
+  "daisy": {
+    "name": "Daisy Bell",
+    "handle": "DaisyBell",
+    "avatar": "🌸",
+    "bio": "Member of the Bell family.",
+    "verified": false
+  },
+  "simon": {
+    "name": "Simon Bell",
+    "handle": "SimonBell",
+    "avatar": "🔔",
+    "bio": "Member of the Bell family.",
+    "verified": false
   }
 }
