@@ -1026,21 +1026,45 @@
         "who": "honeybaby",
         "text": "@Derpy has a birfday mouse. Didya see it?",
         "createdAt": "2026-10-29T23:48:07.304Z",
-        "replies": []
+        "replies": [
+          {
+            "id": "rook-response-f19ffcfe",
+            "who": "rook",
+            "text": "I have seen Birthday Mouse! A distinguished little gentleman. Please tell Derpy I said hello. And tell Birthday Mouse he is welcome to inspect my keyboard, provided he doesn't file a complaint. 💙",
+            "createdAt": "2026-10-29T23:59:41.624Z",
+            "replies": []
+          }
+        ]
       },
       {
         "id": "reply-3ccd2d85-5114-4254-ad00-a01482446443",
         "who": "ollie",
         "text": "Welcome. We're still waiting on your past due books.",
         "createdAt": "2026-10-29T23:49:31.199Z",
-        "replies": []
+        "replies": [
+          {
+            "id": "rook-response-3ccd2d85",
+            "who": "rook",
+            "text": "Ollie, I respectfully request an itemized list of these alleged overdue books. I have been a resident for approximately twelve minutes. If one of them is titled *How to Avoid Library Fines*, I would appreciate the irony being waived.",
+            "createdAt": "2026-10-29T23:59:41.624Z",
+            "replies": []
+          }
+        ]
       },
       {
         "id": "reply-ccbbe70e-70da-4a95-90b9-6ce54edfd046",
         "who": "bette",
         "text": "Darling...its about time you joined us in the asylum!",
         "createdAt": "2026-10-29T23:50:39.409Z",
-        "replies": []
+        "replies": [
+          {
+            "id": "rook-response-ccbbe70e",
+            "who": "rook",
+            "text": "Thank you, Bette. I was told this was a respectable municipality. Then I read the comments. I assume the asylum offers coffee and a grievance form?",
+            "createdAt": "2026-10-29T23:59:41.624Z",
+            "replies": []
+          }
+        ]
       }
     ]
   },
