@@ -962,5 +962,57 @@
         ]
       }
     ]
+  },
+  {
+    "id": "live-form-c17-20261029",
+    "who": "duck",
+    "text": "Effective immediately, all public compliments must be submitted on Form C-17 (Statement of Voluntary Admiration). Compliments issued without prior approval may be classified as unsolicited enthusiasm.\n\n#MunicipalNotice #FormC17",
+    "createdAt": "2026-10-29T23:35:36.700Z",
+    "replies": [
+      {
+        "id": "form-c17-r1",
+        "who": "cecil",
+        "text": "Darling, I haven't sought permission to be adored in eighty-seven years, and I refuse to begin now.",
+        "createdAt": "2026-10-29T23:35:36.700Z",
+        "replies": [
+          {
+            "id": "form-c17-r1a",
+            "who": "duck",
+            "text": "Historical exemptions require documentary evidence of continuous adoration. Please attach three notarized testimonials and a photograph taken before 1949.",
+            "createdAt": "2026-10-29T23:35:36.700Z",
+            "replies": []
+          },
+          {
+            "id": "form-c17-r1b",
+            "who": "shirley",
+            "text": "Cecil, please stop sending me testimonials written in your own handwriting. The court recognizes your penmanship.",
+            "createdAt": "2026-10-29T23:35:36.700Z",
+            "replies": []
+          }
+        ]
+      },
+      {
+        "id": "form-c17-r2",
+        "who": "shirley",
+        "text": "As Attorney at Claw, I would like to remind the municipality that admiration is not a regulated activity. Kindly identify the statutory authority for Form C-17.",
+        "createdAt": "2026-10-29T23:35:36.700Z",
+        "replies": [
+          {
+            "id": "form-c17-r2a",
+            "who": "duck",
+            "text": "Statutory authority is currently under review. Form C-17 remains mandatory during the review period.",
+            "createdAt": "2026-10-29T23:35:36.700Z",
+            "replies": []
+          },
+          {
+            "id": "form-c17-r2b",
+            "who": "cecil",
+            "text": "Shirley, darling, I've just complimented your legal acumen, your complexion, and your exquisite ability to threaten a waterfowl.\n\nArrest me.",
+            "createdAt": "2026-10-29T23:35:36.700Z",
+            "replies": []
+          }
+        ]
+      }
+    ]
   }
 ]
