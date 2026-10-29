@@ -77,5 +77,23 @@
     "following": 12,
     "followers": 312,
     "image": "assets/webster-avatar.jpg"
+  },
+  "bonesy": {
+    "name": "Bonesy",
+    "handle": "Bonesy",
+    "avatar": "💀",
+    "bio": "Veteran of the Gnomeville stage. Newly arrived. Remembers opening night.",
+    "verified": false,
+    "location": "Gnomeville",
+    "following": 37,
+    "followers": 128
+  },
+  "bette": {
+    "name": "Bette Moorecock",
+    "handle": "BetteMoorecock",
+    "avatar": "🦩",
+    "bio": "Stage legend. Glamour is not optional.",
+    "verified": false,
+    "location": "Gnomeville"
   }
 }
