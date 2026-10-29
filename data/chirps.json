@@ -785,5 +785,155 @@
         "text": "Please submit itemized receipts on Form 17B."
       }
     ]
+  },
+  {
+    "id": "phase1-01",
+    "who": "milo",
+    "text": "Management has once again confused ownership with occupancy. I live here. Therefore, everything is mine.\n\n#MiloVsManagement",
+    "replies": [
+      {
+        "who": "toni",
+        "text": "The District Attorney reminds you that occupying a countertop does not confer title."
+      },
+      {
+        "who": "shirley",
+        "text": "My client reserves the right to challenge the definition of countertop."
+      }
+    ]
+  },
+  {
+    "id": "phase1-02",
+    "who": "duck",
+    "text": "NOTICE: The Department of Forms has opened a public comment period concerning the length of the public comment period. Comments must be submitted before the period begins.\n\n#MunicipalAffairs",
+    "replies": [
+      {
+        "who": "rook",
+        "text": "The submission form returns an error."
+      },
+      {
+        "who": "duck",
+        "text": "Your error has been received and assigned a tracking number."
+      }
+    ]
+  },
+  {
+    "id": "phase1-03",
+    "who": "lucy",
+    "text": "To whoever photographed me taking out the rubbish: those were not slippers. They were archival footwear.\n\n#LucyHasLanded",
+    "replies": [
+      {
+        "who": "bette",
+        "text": "Darling, archival is what we call it when the feathers have seen better days."
+      },
+      {
+        "who": "lucy",
+        "text": "And some of us have seen an actual archive."
+      }
+    ]
+  },
+  {
+    "id": "phase1-04",
+    "who": "mayor",
+    "text": "Please stop calling my glass of red wine an official accessory. It is a personal possession, and I am entitled to have one.\n\n#WineGate",
+    "replies": [
+      {
+        "who": "duck",
+        "text": "A declaration of personal possessions is available in triplicate."
+      },
+      {
+        "who": "cecil",
+        "text": "Only one glass? How very restrained."
+      }
+    ]
+  },
+  {
+    "id": "phase1-05",
+    "who": "cecil",
+    "text": "My attorney says I must stop describing cake consultations as depositions. Apparently there is a difference.\n\n#CakeDecoratingTsar",
+    "replies": [
+      {
+        "who": "webster",
+        "text": "There is."
+      },
+      {
+        "who": "cecil",
+        "text": "You see? Always interrupting."
+      }
+    ]
+  },
+  {
+    "id": "phase1-06",
+    "who": "shirley",
+    "text": "Public service announcement: 'I saw it on Chirp' is not an evidentiary standard.\n\n#LegalAdvice",
+    "replies": [
+      {
+        "who": "toni",
+        "text": "The DA's office appreciates this clarification."
+      },
+      {
+        "who": "milo",
+        "text": "Objection. I saw it myself."
+      }
+    ]
+  },
+  {
+    "id": "phase1-07",
+    "who": "rook",
+    "text": "Municipal technology update: eleven residents are online. Four have threatened litigation. Two have asked whether the website can be printed.\n\n#GnomevilleOnline",
+    "replies": [
+      {
+        "who": "duck",
+        "text": "Printing requires Form 17B."
+      },
+      {
+        "who": "webster",
+        "text": "Please do not count my correspondence as a threat."
+      }
+    ]
+  },
+  {
+    "id": "phase1-08",
+    "who": "bette",
+    "text": "A rumor is circulating that Lucy's wardrobe rivals mine. I welcome healthy competition, provided it is not photographed from my good side.\n\n#WardrobeWatch",
+    "replies": [
+      {
+        "who": "lucy",
+        "text": "All my sides are good sides."
+      },
+      {
+        "who": "cecil",
+        "text": "An inspiringly unverifiable claim."
+      }
+    ]
+  },
+  {
+    "id": "phase1-09",
+    "who": "toni",
+    "text": "For the final time: the District Attorney's office does not accept screenshots of anonymous polls as sworn testimony.\n\n#MunicipalJustice",
+    "replies": [
+      {
+        "who": "milo",
+        "text": "Then why does the poll say I am innocent?"
+      },
+      {
+        "who": "shirley",
+        "text": "We will discuss that privately."
+      }
+    ]
+  },
+  {
+    "id": "phase1-10",
+    "who": "webster",
+    "text": "I have been asked to review Chirp's terms of service. My principal recommendation is that my client read them.\n\n#AgainstAdviceOfCounsel",
+    "replies": [
+      {
+        "who": "cecil",
+        "text": "Darling, I never read reviews."
+      },
+      {
+        "who": "webster",
+        "text": "That is not what I said."
+      }
+    ]
   }
 ]
