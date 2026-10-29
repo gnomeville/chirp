@@ -263,5 +263,13 @@
     "avatar": "🔔",
     "bio": "Member of the Bell family.",
     "verified": false
+  },
+  "honeybaby": {
+    "name": "Honey Baby",
+    "handle": "HoneyBaby",
+    "avatar": "🦇",
+    "bio": "Official in-house bat. Derpy's cousin. A little shy. I like cuddles, blueberry cobbler, and Birthday Mouse. Have you seen Birthday Mouse?",
+    "verified": false,
+    "location": "The House, Gnomeville"
   }
 }
