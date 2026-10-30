@@ -352,5 +352,15 @@
     "bio": "Great Coffee, Worse Behavior. Independently owned by the Twisted Sisters.",
     "verified": true,
     "location": "Everywhere, all at once"
+  },
+  "milford": {
+    "name": "Milford P. Kin",
+    "handle": "MilfordPKin",
+    "avatar": "🎃",
+    "bio": "Seasonal visitor. Happy to be back. Father of Buford and Hubert. Please don't make a fuss.",
+    "verified": false,
+    "location": "Gnomeville (autumn visits)",
+    "following": 12,
+    "followers": 684
   }
 }
