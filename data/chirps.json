@@ -2831,5 +2831,37 @@
         "replies": []
       }
     ]
+  },
+  {
+    "id": "cecil-italian-scissors-20261030",
+    "who": "cecil",
+    "text": "Someone has stolen my good scissors.\n\n#CakeDecorating #Unacceptable",
+    "createdAt": "2026-10-30T10:58:00-05:00",
+    "replies": [
+      {
+        "who": "webster",
+        "text": "Please stop referring to evidence confiscated by the police as stolen property.",
+        "createdAt": "2026-10-30T11:02:00-05:00",
+        "replies": []
+      },
+      {
+        "who": "cecil",
+        "text": "THEY WERE ITALIAN.",
+        "createdAt": "2026-10-30T11:05:00-05:00",
+        "replies": []
+      },
+      {
+        "who": "stabler",
+        "text": "They were covered in frosting.",
+        "createdAt": "2026-10-30T11:09:00-05:00",
+        "replies": []
+      },
+      {
+        "who": "cecil",
+        "text": "THAT IS NOT A CRIME.",
+        "createdAt": "2026-10-30T11:12:00-05:00",
+        "replies": []
+      }
+    ]
   }
 ]
