@@ -362,5 +362,16 @@
     "location": "Gnomeville (autumn visits)",
     "following": 12,
     "followers": 684
+  },
+  "chateau": {
+    "name": "Château Gnomeville",
+    "handle": "ChateauGnomeville",
+    "avatar": "🍇",
+    "bio": "Estate winery · Est. 1823. Tastings, cellar tours, seasonal gatherings, and vintages worth lingering over. Official account managed by the Château's social media office.",
+    "verified": true,
+    "location": "Château Gnomeville · Gnomeville",
+    "following": 114,
+    "followers": 4862,
+    "tagline": "🍷 Estate winery since 1823 · Official"
   }
 }
