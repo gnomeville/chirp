@@ -373,5 +373,43 @@
     "following": 114,
     "followers": 4862,
     "tagline": "🍷 Estate winery since 1823 · Official"
+  },
+  "paulie": {
+    "name": "Paulie Moretti",
+    "handle": "PaulieMoretti",
+    "avatar": "🦩",
+    "bio": "Family first. Deliveries, logistics, and occasionally correcting my brother's geography. Nonna's favorite (don't tell Vinnie).",
+    "location": "Gnomeville",
+    "following": 94,
+    "followers": 683
+  },
+  "nonna": {
+    "name": "Nonna Carmela Moretti",
+    "handle": "NonnaCarmela",
+    "avatar": "👵",
+    "bio": "Gnome. Grandmother. Sauce authority. Eat something before you come over. No questions about the basement.",
+    "location": "Trattoria della Nonna · 14 Garlic Lane",
+    "following": 17,
+    "followers": 3251
+  },
+  "nonno": {
+    "name": "Giuseppe 'Peppino' Moretti",
+    "handle": "NonnoPeppino",
+    "avatar": "🦩",
+    "bio": "Napoli, Italia. Espresso, cards, and a good story. Married to Carmela, the smartest woman in any room.",
+    "location": "Outside the trattoria, usually",
+    "following": 42,
+    "followers": 790
+  },
+  "trattoria": {
+    "name": "Trattoria della Nonna",
+    "handle": "TrattoriaDellaNonna",
+    "avatar": "🍝",
+    "bio": "Family-owned since 1926. Handmade pasta, Sunday gravy, and a seat for everyone. 14 Garlic Lane, Gnomeville. Reservations warmly welcomed. ❤️",
+    "verified": true,
+    "location": "14 Garlic Lane · Gnomeville",
+    "following": 119,
+    "followers": 4160,
+    "tagline": "🍅 A century of family hospitality · Est. 1926"
   }
 }
