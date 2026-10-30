@@ -135,8 +135,12 @@
     "name": "Tony the Porch Lizard",
     "handle": "TonyPorchLizard",
     "avatar": "🦎",
-    "bio": "Musical entertainer for hire.",
-    "verified": false
+    "bio": "Old-school Vegas lounge singer. Sinatra, satin, and questionable company. Weekend sets at Trattoria della Nonna. Musical stylings for hire. No questions about the merchandise.",
+    "verified": false,
+    "location": "Gnomeville · Usually near a heat vent",
+    "following": 88,
+    "followers": 1842,
+    "tagline": "🎙️ Weekend crooner · Independent operator"
   },
   "captainpeanuts": {
     "name": "Captain Peanuts",
