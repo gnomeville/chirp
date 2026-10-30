@@ -1497,5 +1497,125 @@
         "replies": []
       }
     ]
+  },
+  {
+    "id": "archive-dec2025-porch-rave",
+    "who": "slimshady",
+    "text": "Third set starts in five. If you're not here, you're missing history.",
+    "createdAt": "2025-12-05T00:43:00-06:00",
+    "replies": [
+      {
+        "who": "vinnie",
+        "text": "Who's asking?",
+        "createdAt": "2025-12-05T00:46:00-06:00",
+        "replies": []
+      },
+      {
+        "who": "sunny",
+        "text": "WHO MOVED THE CHIPS?",
+        "createdAt": "2025-12-05T00:48:00-06:00",
+        "replies": []
+      },
+      {
+        "who": "tony",
+        "text": "I'm by the heat vent. Nobody bother me.",
+        "createdAt": "2025-12-05T00:51:00-06:00",
+        "replies": []
+      },
+      {
+        "who": "sal",
+        "text": "WHO TURNED OFF THE BASS? I WAS CROWD SURFING.",
+        "createdAt": "2025-12-05T00:54:00-06:00",
+        "replies": []
+      },
+      {
+        "who": "slimshady",
+        "text": "Sal, you fell off a flowerpot.",
+        "createdAt": "2025-12-05T00:56:00-06:00",
+        "replies": []
+      },
+      {
+        "who": "sal",
+        "text": "CROWD. SURFING.",
+        "createdAt": "2025-12-05T00:58:00-06:00",
+        "replies": []
+      }
+    ]
+  },
+  {
+    "id": "archive-dec2025-tony-bette-rumors",
+    "who": "bette",
+    "text": "I am aware of the rumors circulating about Saturday evening.\n\nI will not be addressing them.",
+    "createdAt": "2025-12-09T11:14:00-06:00",
+    "replies": [
+      {
+        "who": "tony",
+        "text": "Me neither.",
+        "createdAt": "2025-12-09T11:17:00-06:00",
+        "replies": []
+      },
+      {
+        "who": "lucy",
+        "text": "Interesting. Nobody asked either of you.",
+        "createdAt": "2025-12-09T11:19:00-06:00",
+        "replies": []
+      },
+      {
+        "who": "bette",
+        "text": "LUCY.",
+        "createdAt": "2025-12-09T11:22:00-06:00",
+        "replies": []
+      },
+      {
+        "who": "tony",
+        "text": "I was cold.",
+        "createdAt": "2025-12-09T11:24:00-06:00",
+        "replies": []
+      },
+      {
+        "who": "lucy",
+        "text": "Nobody asked that either.",
+        "createdAt": "2025-12-09T11:26:00-06:00",
+        "replies": []
+      },
+      {
+        "who": "bette",
+        "text": "I'M CALLING SHIRLEY.",
+        "createdAt": "2025-12-09T11:29:00-06:00",
+        "replies": []
+      }
+    ]
+  },
+  {
+    "id": "archive-dec2025-three-santas",
+    "who": "mayor",
+    "text": "The municipality wishes to clarify that there are currently three Santas in Gnomeville.\n\nOne is genuine. One is decorative.\n\nThe third is under investigation.",
+    "createdAt": "2025-12-16T09:12:00-06:00",
+    "replies": [
+      {
+        "who": "duck",
+        "text": "The unidentified Santa has failed to submit Form S-25, Application for Seasonal Identity Verification.",
+        "createdAt": "2025-12-16T09:16:00-06:00",
+        "replies": []
+      },
+      {
+        "who": "mayor",
+        "text": "Is that a real form?",
+        "createdAt": "2025-12-16T09:19:00-06:00",
+        "replies": []
+      },
+      {
+        "who": "duck",
+        "text": "It is now.",
+        "createdAt": "2025-12-16T09:21:00-06:00",
+        "replies": []
+      },
+      {
+        "who": "mayor",
+        "text": "I need a drink.",
+        "createdAt": "2025-12-16T09:24:00-06:00",
+        "replies": []
+      }
+    ]
   }
 ]
