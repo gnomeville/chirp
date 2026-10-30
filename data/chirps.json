@@ -2152,5 +2152,669 @@
     "createdAt": "2026-10-25T14:03:00-05:00",
     "text": "Someone has asked whether the nautical terminology in Fifty Knots of Desire is technically accurate.\n\nI assure you, every knot was tied with the utmost care.",
     "replies": []
+  },
+  {
+    "id": "archive-2026-0112-ollie-1",
+    "who": "ollie",
+    "text": "The library has acquired a new pencil sharpener. Please do not interpret this as permission to borrow the pencils.",
+    "createdAt": "2026-01-12T08:18:00-06:00",
+    "replies": [
+      {
+        "who": "cavanaugh",
+        "text": "An encouraging investment in literacy.",
+        "createdAt": "2026-01-12T08:24:00-06:00",
+        "replies": []
+      },
+      {
+        "who": "duck",
+        "text": "Please submit a capital equipment acquisition form.",
+        "createdAt": "2026-01-12T08:30:00-06:00",
+        "replies": []
+      },
+      {
+        "who": "ollie",
+        "text": "It cost ninety-nine cents.",
+        "createdAt": "2026-01-12T08:36:00-06:00",
+        "replies": []
+      }
+    ]
+  },
+  {
+    "id": "archive-2026-0124-cavanaugh-2",
+    "who": "cavanaugh",
+    "text": "Breakfast: toast, marmalade, and a perfectly respectable cup of tea. The marmalade has made a rather convincing attempt to escape.",
+    "createdAt": "2026-01-24T09:11:00-06:00",
+    "replies": [
+      {
+        "who": "bette",
+        "text": "DARLING, YOU NEED A NAPKIN.",
+        "createdAt": "2026-01-24T09:17:00-06:00",
+        "replies": []
+      },
+      {
+        "who": "cavanaugh",
+        "text": "I had one. The marmalade won.",
+        "createdAt": "2026-01-24T09:23:00-06:00",
+        "replies": []
+      }
+    ]
+  },
+  {
+    "id": "archive-2026-0203-derpy-3",
+    "who": "derpy",
+    "text": "I made Birthday Mouse a sandwich. It fell over. I made another one. That one fell over too.",
+    "createdAt": "2026-02-03T12:06:00-06:00",
+    "replies": [
+      {
+        "who": "birthdaymouse",
+        "text": "They were both very good sandwiches.",
+        "createdAt": "2026-02-03T12:12:00-06:00",
+        "replies": []
+      },
+      {
+        "who": "honeybaby",
+        "text": "Was there blueberry cobbler?",
+        "createdAt": "2026-02-03T12:18:00-06:00",
+        "replies": []
+      },
+      {
+        "who": "derpy",
+        "text": "No but there is now.",
+        "createdAt": "2026-02-03T12:24:00-06:00",
+        "replies": []
+      }
+    ]
+  },
+  {
+    "id": "archive-2026-0214-birthdaymouse-4",
+    "who": "birthdaymouse",
+    "text": "Happy Valentine's Day to everybody, especially Derpy, who made me a card with eleven hearts and one potato.",
+    "createdAt": "2026-02-14T18:44:00-06:00",
+    "replies": [
+      {
+        "who": "derpy",
+        "text": "The potato is also a heart.",
+        "createdAt": "2026-02-14T18:50:00-06:00",
+        "replies": []
+      },
+      {
+        "who": "liza",
+        "text": "I think it is beautiful.",
+        "createdAt": "2026-02-14T18:56:00-06:00",
+        "replies": []
+      },
+      {
+        "who": "birthdaymouse",
+        "text": "It is.",
+        "createdAt": "2026-02-14T19:02:00-06:00",
+        "replies": []
+      }
+    ]
+  },
+  {
+    "id": "archive-2026-0227-hankswanson-5",
+    "who": "hankswanson",
+    "text": "As former interim mayor, I would like to remind the public that I remain available for ceremonial ribbon cuttings.",
+    "createdAt": "2026-02-27T15:22:00-06:00",
+    "replies": [
+      {
+        "who": "mayor",
+        "text": "There are no ribbon cuttings scheduled.",
+        "createdAt": "2026-02-27T15:28:00-06:00",
+        "replies": []
+      },
+      {
+        "who": "hankswanson",
+        "text": "I have my own ribbon.",
+        "createdAt": "2026-02-27T15:34:00-06:00",
+        "replies": []
+      },
+      {
+        "who": "duck",
+        "text": "Please do not cut municipal property without authorization.",
+        "createdAt": "2026-02-27T15:40:00-06:00",
+        "replies": []
+      }
+    ]
+  },
+  {
+    "id": "archive-2026-0308-gertie-6",
+    "who": "gertie",
+    "text": "Someone left a very nice chair in the hallway. I sat in it. Apparently it was part of an ongoing argument.",
+    "createdAt": "2026-03-08T07:41:00-05:00",
+    "replies": [
+      {
+        "who": "cecil",
+        "text": "THAT WAS MY CHAIR.",
+        "createdAt": "2026-03-08T07:47:00-05:00",
+        "replies": []
+      },
+      {
+        "who": "gertie",
+        "text": "It's quite comfortable.",
+        "createdAt": "2026-03-08T07:53:00-05:00",
+        "replies": []
+      },
+      {
+        "who": "webster",
+        "text": "My client disputes the ownership of the hallway.",
+        "createdAt": "2026-03-08T07:59:00-05:00",
+        "replies": []
+      }
+    ]
+  },
+  {
+    "id": "archive-2026-0317-tony-7",
+    "who": "tony",
+    "text": "Available for birthdays, anniversaries, and tasteful porch performances. Requests accepted. Volume negotiable.",
+    "createdAt": "2026-03-17T11:35:00-05:00",
+    "replies": [
+      {
+        "who": "saltypete",
+        "text": "Lower.",
+        "createdAt": "2026-03-17T11:41:00-05:00",
+        "replies": []
+      },
+      {
+        "who": "bette",
+        "text": "HIGHER.",
+        "createdAt": "2026-03-17T11:47:00-05:00",
+        "replies": []
+      },
+      {
+        "who": "tony",
+        "text": "This is why I need a contract.",
+        "createdAt": "2026-03-17T11:53:00-05:00",
+        "replies": []
+      }
+    ]
+  },
+  {
+    "id": "archive-2026-0328-bruce-8",
+    "who": "bruce",
+    "text": "Is anyone else getting a strange rattling noise when the wind picks up, or is that just my window?",
+    "createdAt": "2026-03-28T13:02:00-05:00",
+    "replies": [
+      {
+        "who": "eugene",
+        "text": "Mine does it too.",
+        "createdAt": "2026-03-28T13:08:00-05:00",
+        "replies": []
+      },
+      {
+        "who": "captainpeanuts",
+        "text": "Not me.",
+        "createdAt": "2026-03-28T13:14:00-05:00",
+        "replies": []
+      },
+      {
+        "who": "bruce",
+        "text": "That was not reassuring.",
+        "createdAt": "2026-03-28T13:20:00-05:00",
+        "replies": []
+      }
+    ]
+  },
+  {
+    "id": "archive-2026-0406-pawpaw-9",
+    "who": "pawpaw",
+    "text": "Court will recess for lunch. Court has not yet convened. This is a scheduling decision.",
+    "createdAt": "2026-04-06T10:18:00-05:00",
+    "replies": [
+      {
+        "who": "shirley",
+        "text": "Your Honor, there are motions pending.",
+        "createdAt": "2026-04-06T10:24:00-05:00",
+        "replies": []
+      },
+      {
+        "who": "pawpaw",
+        "text": "They can pend after lunch.",
+        "createdAt": "2026-04-06T10:30:00-05:00",
+        "replies": []
+      },
+      {
+        "who": "milo",
+        "text": "I support this court.",
+        "createdAt": "2026-04-06T10:36:00-05:00",
+        "replies": []
+      }
+    ]
+  },
+  {
+    "id": "archive-2026-0419-eugene-10",
+    "who": "eugene",
+    "text": "Spent the afternoon looking for my glasses. Found them. They were in the one place I specifically said I had already checked.",
+    "createdAt": "2026-04-19T16:31:00-05:00",
+    "replies": [
+      {
+        "who": "pawpaw",
+        "text": "Case closed.",
+        "createdAt": "2026-04-19T16:37:00-05:00",
+        "replies": []
+      },
+      {
+        "who": "bruce",
+        "text": "Did you check there first?",
+        "createdAt": "2026-04-19T16:43:00-05:00",
+        "replies": []
+      },
+      {
+        "who": "eugene",
+        "text": "I decline to answer.",
+        "createdAt": "2026-04-19T16:49:00-05:00",
+        "replies": []
+      }
+    ]
+  },
+  {
+    "id": "archive-2026-0502-captainpeanuts-11",
+    "who": "captainpeanuts",
+    "text": "For the record, I have never damaged a porch. I merely disagree with its current shape.",
+    "createdAt": "2026-05-02T14:08:00-05:00",
+    "replies": [
+      {
+        "who": "gnomevillepd",
+        "text": "Please stop posting about the ongoing investigation.",
+        "createdAt": "2026-05-02T14:14:00-05:00",
+        "replies": []
+      },
+      {
+        "who": "captainnutters",
+        "text": "The shape was bad.",
+        "createdAt": "2026-05-02T14:20:00-05:00",
+        "replies": []
+      },
+      {
+        "who": "shirley",
+        "text": "Neither of you should be making statements.",
+        "createdAt": "2026-05-02T14:26:00-05:00",
+        "replies": []
+      }
+    ]
+  },
+  {
+    "id": "archive-2026-0516-captainnutters-12",
+    "who": "captainnutters",
+    "text": "Somebody has been leaving birdseed where the squirrels can see it but cannot reach it. This feels deliberate.",
+    "createdAt": "2026-05-16T09:54:00-05:00",
+    "replies": [
+      {
+        "who": "saltypete",
+        "text": "Good.",
+        "createdAt": "2026-05-16T10:00:00-05:00",
+        "replies": []
+      },
+      {
+        "who": "captainpeanuts",
+        "text": "I have a plan.",
+        "createdAt": "2026-05-16T10:06:00-05:00",
+        "replies": []
+      },
+      {
+        "who": "gnomevillepd",
+        "text": "Please do not.",
+        "createdAt": "2026-05-16T10:12:00-05:00",
+        "replies": []
+      }
+    ]
+  },
+  {
+    "id": "archive-2026-0529-helga-13",
+    "who": "helga",
+    "text": "A reminder that a good performance requires rehearsal. A loud performance requires only enthusiasm. We have rather a lot of the latter.",
+    "createdAt": "2026-05-29T20:10:00-05:00",
+    "replies": [
+      {
+        "who": "bette",
+        "text": "I FEEL PERSONALLY ADDRESSED.",
+        "createdAt": "2026-05-29T20:16:00-05:00",
+        "replies": []
+      },
+      {
+        "who": "helga",
+        "text": "Then the acoustics are excellent.",
+        "createdAt": "2026-05-29T20:22:00-05:00",
+        "replies": []
+      }
+    ]
+  },
+  {
+    "id": "archive-2026-0609-rocky-14",
+    "who": "rocky",
+    "text": "Morning report from the fairgrounds: one lost glove, two empty popcorn bags, and an extremely suspicious hot dog wrapper.",
+    "createdAt": "2026-06-09T08:24:00-05:00",
+    "replies": [
+      {
+        "who": "rudy",
+        "text": "That wrapper was already there.",
+        "createdAt": "2026-06-09T08:30:00-05:00",
+        "replies": []
+      },
+      {
+        "who": "francine",
+        "text": "Why would you know that?",
+        "createdAt": "2026-06-09T08:36:00-05:00",
+        "replies": []
+      },
+      {
+        "who": "rocky",
+        "text": "Exactly.",
+        "createdAt": "2026-06-09T08:42:00-05:00",
+        "replies": []
+      }
+    ]
+  },
+  {
+    "id": "archive-2026-0620-rudy-15",
+    "who": "rudy",
+    "text": "I am not saying the fairgrounds need a formal snack committee. I am saying there are currently no standards.",
+    "createdAt": "2026-06-20T17:17:00-05:00",
+    "replies": [
+      {
+        "who": "angela",
+        "text": "Who appointed you?",
+        "createdAt": "2026-06-20T17:23:00-05:00",
+        "replies": []
+      },
+      {
+        "who": "rudy",
+        "text": "The absence of standards.",
+        "createdAt": "2026-06-20T17:29:00-05:00",
+        "replies": []
+      },
+      {
+        "who": "carol",
+        "text": "That is not how committees work.",
+        "createdAt": "2026-06-20T17:35:00-05:00",
+        "replies": []
+      }
+    ]
+  },
+  {
+    "id": "archive-2026-0703-francine-16",
+    "who": "francine",
+    "text": "Family announcement: the picnic has been moved twenty minutes later. This is not a referendum on anyone's potato salad.",
+    "createdAt": "2026-07-03T09:42:00-05:00",
+    "replies": [
+      {
+        "who": "theo",
+        "text": "Then why was my potato salad mentioned in the group chat?",
+        "createdAt": "2026-07-03T09:48:00-05:00",
+        "replies": []
+      },
+      {
+        "who": "carol",
+        "text": "Because it arrived warm.",
+        "createdAt": "2026-07-03T09:54:00-05:00",
+        "replies": []
+      },
+      {
+        "who": "francine",
+        "text": "And now we're doing this publicly.",
+        "createdAt": "2026-07-03T10:00:00-05:00",
+        "replies": []
+      }
+    ]
+  },
+  {
+    "id": "archive-2026-0714-theo-17",
+    "who": "theo",
+    "text": "I made a list of everything we need for the picnic. Somehow the list has become an argument about chairs.",
+    "createdAt": "2026-07-14T12:20:00-05:00",
+    "replies": [
+      {
+        "who": "angela",
+        "text": "We need chairs.",
+        "createdAt": "2026-07-14T12:26:00-05:00",
+        "replies": []
+      },
+      {
+        "who": "carol",
+        "text": "We have chairs.",
+        "createdAt": "2026-07-14T12:32:00-05:00",
+        "replies": []
+      },
+      {
+        "who": "theo",
+        "text": "We have seven people and five chairs.",
+        "createdAt": "2026-07-14T12:38:00-05:00",
+        "replies": []
+      }
+    ]
+  },
+  {
+    "id": "archive-2026-0725-angela-18",
+    "who": "angela",
+    "text": "Someone please tell Rocky that bringing home 'interesting things' is not the same as cleaning up the neighborhood.",
+    "createdAt": "2026-07-25T18:05:00-05:00",
+    "replies": [
+      {
+        "who": "rocky",
+        "text": "They were historically significant.",
+        "createdAt": "2026-07-25T18:11:00-05:00",
+        "replies": []
+      },
+      {
+        "who": "rudy",
+        "text": "One was a spoon.",
+        "createdAt": "2026-07-25T18:17:00-05:00",
+        "replies": []
+      },
+      {
+        "who": "angela",
+        "text": "Thank you, Rudy.",
+        "createdAt": "2026-07-25T18:23:00-05:00",
+        "replies": []
+      }
+    ]
+  },
+  {
+    "id": "archive-2026-0804-carol-19",
+    "who": "carol",
+    "text": "I am hosting tea at four. Please do not arrive at three to help. Last time, the help ate the biscuits.",
+    "createdAt": "2026-08-04T11:16:00-05:00",
+    "replies": [
+      {
+        "who": "rudy",
+        "text": "I was checking freshness.",
+        "createdAt": "2026-08-04T11:22:00-05:00",
+        "replies": []
+      },
+      {
+        "who": "francine",
+        "text": "And were they fresh?",
+        "createdAt": "2026-08-04T11:28:00-05:00",
+        "replies": []
+      },
+      {
+        "who": "rudy",
+        "text": "Extremely.",
+        "createdAt": "2026-08-04T11:34:00-05:00",
+        "replies": []
+      }
+    ]
+  },
+  {
+    "id": "archive-2026-0815-vlad-20",
+    "who": "vlad",
+    "text": "Professional reminder: proper skeletal posture begins with an awareness of one's center of gravity. Slouching is not a personality.",
+    "createdAt": "2026-08-15T14:36:00-05:00",
+    "replies": [
+      {
+        "who": "cecil",
+        "text": "SOME OF US ARE ARTISTS.",
+        "createdAt": "2026-08-15T14:42:00-05:00",
+        "replies": []
+      },
+      {
+        "who": "vlad",
+        "text": "Then consider this a critique.",
+        "createdAt": "2026-08-15T14:48:00-05:00",
+        "replies": []
+      },
+      {
+        "who": "webster",
+        "text": "Please do not invoice my client for that.",
+        "createdAt": "2026-08-15T14:54:00-05:00",
+        "replies": []
+      }
+    ]
+  },
+  {
+    "id": "archive-2026-0823-liza-21",
+    "who": "liza",
+    "text": "I have been told my tea is too hot. I waited until it stopped steaming. Apparently that was not enough.",
+    "createdAt": "2026-08-23T10:07:00-05:00",
+    "replies": [
+      {
+        "who": "birthdaymouse",
+        "text": "It was lovely once it cooled.",
+        "createdAt": "2026-08-23T10:13:00-05:00",
+        "replies": []
+      },
+      {
+        "who": "derpy",
+        "text": "I put an ice cube in mine.",
+        "createdAt": "2026-08-23T10:19:00-05:00",
+        "replies": []
+      },
+      {
+        "who": "liza",
+        "text": "That was very clever.",
+        "createdAt": "2026-08-23T10:25:00-05:00",
+        "replies": []
+      }
+    ]
+  },
+  {
+    "id": "archive-2026-0902-daisy-22",
+    "who": "daisy",
+    "text": "Good morning. I have opened all the curtains and declared today a fresh start. Please ignore the pile of yesterday beside the door.",
+    "createdAt": "2026-09-02T07:53:00-05:00",
+    "replies": [
+      {
+        "who": "simon",
+        "text": "How large is the pile?",
+        "createdAt": "2026-09-02T07:59:00-05:00",
+        "replies": []
+      },
+      {
+        "who": "daisy",
+        "text": "Fresh starts do not answer questions.",
+        "createdAt": "2026-09-02T08:05:00-05:00",
+        "replies": []
+      },
+      {
+        "who": "shirley",
+        "text": "I recommend documenting the pile.",
+        "createdAt": "2026-09-02T08:11:00-05:00",
+        "replies": []
+      }
+    ]
+  },
+  {
+    "id": "archive-2026-0910-simon-23",
+    "who": "simon",
+    "text": "I would like to know who keeps moving the little table. It is not a complaint. I would simply like to stop walking into it.",
+    "createdAt": "2026-09-10T19:12:00-05:00",
+    "replies": [
+      {
+        "who": "daisy",
+        "text": "The table has excellent natural light there.",
+        "createdAt": "2026-09-10T19:18:00-05:00",
+        "replies": []
+      },
+      {
+        "who": "simon",
+        "text": "The table does not need natural light.",
+        "createdAt": "2026-09-10T19:24:00-05:00",
+        "replies": []
+      },
+      {
+        "who": "daisy",
+        "text": "We disagree.",
+        "createdAt": "2026-09-10T19:30:00-05:00",
+        "replies": []
+      }
+    ]
+  },
+  {
+    "id": "archive-2026-0917-bonesy-24",
+    "who": "bonesy",
+    "text": "A note to the younger performers: opening night is not the time to discover that your costume has pockets. Check beforehand.",
+    "createdAt": "2026-09-17T13:26:00-05:00",
+    "replies": [
+      {
+        "who": "helga",
+        "text": "And rehearse your exits.",
+        "createdAt": "2026-09-17T13:32:00-05:00",
+        "replies": []
+      },
+      {
+        "who": "bette",
+        "text": "MY COSTUMES ALWAYS HAVE POCKETS.",
+        "createdAt": "2026-09-17T13:38:00-05:00",
+        "replies": []
+      },
+      {
+        "who": "bonesy",
+        "text": "That explains the rattling.",
+        "createdAt": "2026-09-17T13:44:00-05:00",
+        "replies": []
+      }
+    ]
+  },
+  {
+    "id": "archive-2026-0924-sal-25",
+    "who": "sal",
+    "text": "The next time somebody says 'just a small gathering,' I would like that phrase defined in writing.",
+    "createdAt": "2026-09-24T09:05:00-05:00",
+    "replies": [
+      {
+        "who": "vinnie",
+        "text": "Small is a financial category.",
+        "createdAt": "2026-09-24T09:11:00-05:00",
+        "replies": []
+      },
+      {
+        "who": "bette",
+        "text": "IT WAS INTIMATE.",
+        "createdAt": "2026-09-24T09:17:00-05:00",
+        "replies": []
+      },
+      {
+        "who": "sal",
+        "text": "There were forty-seven people.",
+        "createdAt": "2026-09-24T09:23:00-05:00",
+        "replies": []
+      }
+    ]
+  },
+  {
+    "id": "archive-2026-0930-milo-26",
+    "who": "milo",
+    "text": "NOTICE TO MANAGEMENT: The afternoon treat allocation is under review. No further comment at this time.",
+    "createdAt": "2026-09-30T15:38:00-05:00",
+    "replies": [
+      {
+        "who": "toni",
+        "text": "Your allocation was delivered at 2:00.",
+        "createdAt": "2026-09-30T15:44:00-05:00",
+        "replies": []
+      },
+      {
+        "who": "milo",
+        "text": "That was the morning allocation, delayed.",
+        "createdAt": "2026-09-30T15:50:00-05:00",
+        "replies": []
+      },
+      {
+        "who": "pawpaw",
+        "text": "Court will consider the matter after lunch.",
+        "createdAt": "2026-09-30T15:56:00-05:00",
+        "replies": []
+      }
+    ]
   }
 ]
