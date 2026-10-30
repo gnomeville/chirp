@@ -271,5 +271,29 @@
     "bio": "Official in-house bat. Derpy's cousin. A little shy. I like cuddles, blueberry cobbler, and Birthday Mouse. Have you seen Birthday Mouse?",
     "verified": false,
     "location": "The House, Gnomeville"
+  },
+  "gnomevillepd": {
+    "name": "Gnomeville Police Department",
+    "handle": "GnomevillePD",
+    "avatar": "🚔",
+    "bio": "Official account of the Gnomeville Police Department. Staffed by Detectives Olivia Benson and Elliot Stabler. Emergencies should not be reported via Chirp.",
+    "verified": true,
+    "location": "Gnomeville"
+  },
+  "benson": {
+    "name": "Detective Olivia Benson",
+    "handle": "DetBenson",
+    "avatar": "👮‍♀️",
+    "bio": "Detective, Gnomeville Police Department. Partner to Detective Elliot Stabler. Not every disagreement is a police matter.",
+    "verified": true,
+    "location": "Gnomeville"
+  },
+  "stabler": {
+    "name": "Detective Elliot Stabler",
+    "handle": "DetStabler",
+    "avatar": "👮",
+    "bio": "Detective, Gnomeville Police Department. Partner to Detective Olivia Benson. Please stop making me investigate frosting.",
+    "verified": true,
+    "location": "Gnomeville"
   }
 }
