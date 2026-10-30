@@ -295,5 +295,22 @@
     "bio": "Detective, Gnomeville Police Department. Partner to Detective Olivia Benson. Please stop making me investigate frosting.",
     "verified": true,
     "location": "Gnomeville"
+  },
+  "freddie": {
+    "name": "Freddie Pit McPhireson",
+    "handle": "FreddiePit",
+    "avatar": "🔥",
+    "bio": "Former G Ville Racetrack pit crew member. Artisanal fire maker. Currently touring the country.",
+    "verified": false,
+    "location": "On tour",
+    "visualCanon": "Never show Freddie directly. Only blurred pit-crew figure or fire; final treatment determined per use."
+  },
+  "sunny": {
+    "name": "Sunny the Gnome",
+    "handle": "SunnyGnome",
+    "avatar": "🌻",
+    "bio": "Gnomeville resident. Appreciates a good bonfire. Would appreciate snacks more.",
+    "verified": false,
+    "location": "Gnomeville"
   }
 }
