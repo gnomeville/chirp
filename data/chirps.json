@@ -1761,5 +1761,167 @@
         "replies": []
       }
     ]
+  },
+  {
+    "id": "archive-dec2025-missing-santa",
+    "who": "mayor",
+    "createdAt": "2025-12-24T08:43:00-06:00",
+    "text": "The Office of the Mayor wishes to clarify that reports of a missing Santa are being investigated.\n\nResidents are reminded that we began the season with three Santas.\n\nWe are reasonably confident that at least two remain.",
+    "replies": [
+      {
+        "who": "duck",
+        "text": "For identification purposes, please specify which Santa is missing.",
+        "createdAt": "2025-12-24T08:51:00-06:00",
+        "replies": []
+      },
+      {
+        "who": "mayor",
+        "text": "The one who wasn't supposed to be here.",
+        "createdAt": "2025-12-24T08:54:00-06:00",
+        "replies": []
+      },
+      {
+        "who": "duck",
+        "text": "That does not sufficiently narrow the investigation.",
+        "createdAt": "2025-12-24T08:57:00-06:00",
+        "replies": []
+      },
+      {
+        "who": "stabler",
+        "text": "Has anyone actually filed a missing persons report?",
+        "createdAt": "2025-12-24T09:03:00-06:00",
+        "replies": []
+      },
+      {
+        "who": "duck",
+        "text": "Form S-25 remains incomplete.",
+        "createdAt": "2025-12-24T09:06:00-06:00",
+        "replies": []
+      },
+      {
+        "who": "mayor",
+        "text": "I am going to spend Christmas in my office.",
+        "createdAt": "2025-12-24T09:11:00-06:00",
+        "replies": []
+      },
+      {
+        "who": "duck",
+        "text": "Your office is closed for the holiday.",
+        "createdAt": "2025-12-24T09:13:00-06:00",
+        "replies": []
+      },
+      {
+        "who": "mayor",
+        "text": "GOOD.",
+        "createdAt": "2025-12-24T09:16:00-06:00",
+        "replies": []
+      }
+    ]
+  },
+  {
+    "id": "archive-dec2025-music-complaint",
+    "who": "saltypete",
+    "createdAt": "2025-12-24T05:07:00-06:00",
+    "text": "Too loud.",
+    "replies": [
+      {
+        "who": "bette",
+        "text": "DARLING, IT'S CHRISTMAS.",
+        "createdAt": "2025-12-24T05:12:00-06:00",
+        "replies": []
+      },
+      {
+        "who": "saltypete",
+        "text": "Still loud.",
+        "createdAt": "2025-12-24T05:14:00-06:00",
+        "replies": []
+      },
+      {
+        "who": "lena",
+        "text": "A little holiday music never hurt anyone.",
+        "createdAt": "2025-12-24T05:19:00-06:00",
+        "replies": []
+      },
+      {
+        "who": "benson",
+        "text": "We've received four noise complaints.",
+        "createdAt": "2025-12-24T05:23:00-06:00",
+        "replies": []
+      },
+      {
+        "who": "bette",
+        "text": "FOUR PEOPLE WITH NO CHRISTMAS SPIRIT.",
+        "createdAt": "2025-12-24T05:26:00-06:00",
+        "replies": []
+      },
+      {
+        "who": "saltypete",
+        "text": "Five.",
+        "createdAt": "2025-12-24T05:29:00-06:00",
+        "replies": []
+      }
+    ]
+  },
+  {
+    "id": "archive-dec2025-christmas-cookies",
+    "who": "sunny",
+    "createdAt": "2025-12-25T09:14:00-06:00",
+    "text": "Merry Christmas, everybody!\n\nDoes anyone know when the cookies are coming?",
+    "replies": [
+      {
+        "who": "tony",
+        "text": "There's a plate in the kitchen.",
+        "createdAt": "2025-12-25T09:22:00-06:00",
+        "replies": []
+      },
+      {
+        "who": "sunny",
+        "text": "THERE WAS A PLATE IN THE KITCHEN.",
+        "createdAt": "2025-12-25T09:24:00-06:00",
+        "replies": []
+      },
+      {
+        "who": "tony",
+        "text": "Correct.",
+        "createdAt": "2025-12-25T09:26:00-06:00",
+        "replies": []
+      },
+      {
+        "who": "bette",
+        "text": "I refuse to believe the municipality has failed to provide adequate Christmas refreshments.",
+        "createdAt": "2025-12-25T09:31:00-06:00",
+        "replies": []
+      },
+      {
+        "who": "duck",
+        "text": "Cookie distribution is not currently classified as an essential municipal service.",
+        "createdAt": "2025-12-25T09:38:00-06:00",
+        "replies": []
+      },
+      {
+        "who": "sunny",
+        "text": "IT SHOULD BE.",
+        "createdAt": "2025-12-25T09:41:00-06:00",
+        "replies": []
+      },
+      {
+        "who": "mayor",
+        "text": "Motion carried.",
+        "createdAt": "2025-12-25T09:47:00-06:00",
+        "replies": []
+      },
+      {
+        "who": "duck",
+        "text": "There was no motion.",
+        "createdAt": "2025-12-25T09:49:00-06:00",
+        "replies": []
+      },
+      {
+        "who": "mayor",
+        "text": "There is now.",
+        "createdAt": "2025-12-25T09:52:00-06:00",
+        "replies": []
+      }
+    ]
   }
 ]
