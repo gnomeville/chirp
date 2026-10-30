@@ -3574,5 +3574,851 @@
         "text": "In the gardens, yes. Please respect other guests' privacy."
       }
     ]
+  },
+  {
+    "id": "moretti-2025-26-01",
+    "who": "trattoria",
+    "createdAt": "2025-11-03T12:15:00-05:00",
+    "text": "November calls for something slow-simmered. Our Sunday gravy begins before sunrise, just as Nonna taught us. Reserve a table and bring your appetite. 🍅❤️",
+    "replies": [
+      {
+        "id": "moretti-reply-1-1",
+        "who": "nonna",
+        "text": "It begins when I say it begins. Six in the morning."
+      },
+      {
+        "id": "moretti-reply-1-2",
+        "who": "paulie",
+        "text": "She means 4:45."
+      },
+      {
+        "id": "moretti-reply-1-3",
+        "who": "trattoria",
+        "text": "Our kitchen opens at the customary hour. ❤️"
+      },
+      {
+        "id": "moretti-reply-1-4",
+        "who": "cecil",
+        "text": "Is there a dessert course? Asking for an entire profession."
+      }
+    ]
+  },
+  {
+    "id": "moretti-2025-26-02",
+    "who": "vinnie",
+    "createdAt": "2025-11-18T12:15:00-05:00",
+    "text": "Back in Naples, the whole neighborhood knew when somebody was making Sunday sauce. You could smell it down the street.",
+    "replies": [
+      {
+        "id": "moretti-reply-2-1",
+        "who": "shirley",
+        "text": "Florida."
+      },
+      {
+        "id": "moretti-reply-2-2",
+        "who": "vinnie",
+        "text": "You ever let a man finish a sentence, Shirley?"
+      },
+      {
+        "id": "moretti-reply-2-3",
+        "who": "paulie",
+        "text": "It was our condo complex."
+      },
+      {
+        "id": "moretti-reply-2-4",
+        "who": "nonna",
+        "text": "You two come eat."
+      }
+    ]
+  },
+  {
+    "id": "moretti-2025-26-03",
+    "who": "nonna",
+    "createdAt": "2025-12-05T12:15:00-05:00",
+    "text": "Whoever left my good wooden spoon in the dishwasher: I know who you are.",
+    "replies": [
+      {
+        "id": "moretti-reply-3-1",
+        "who": "vinnie",
+        "text": "Wasn't me."
+      },
+      {
+        "id": "moretti-reply-3-2",
+        "who": "paulie",
+        "text": "Nobody accused you yet."
+      },
+      {
+        "id": "moretti-reply-3-3",
+        "who": "shirley",
+        "text": "For the record, I advise my client to remain silent."
+      },
+      {
+        "id": "moretti-reply-3-4",
+        "who": "nonna",
+        "text": "Shirley, bella, I saved you biscotti."
+      }
+    ]
+  },
+  {
+    "id": "moretti-2025-26-04",
+    "who": "trattoria",
+    "createdAt": "2025-12-19T12:15:00-05:00",
+    "text": "Holiday tables are filling quickly! Our Christmas Eve supper features handmade ravioli, roasted vegetables, and Nonna's famous almond cookies. Call for reservations. 🎄",
+    "replies": [
+      {
+        "id": "moretti-reply-4-1",
+        "who": "lucy",
+        "text": "Do you offer a discreet table?"
+      },
+      {
+        "id": "moretti-reply-4-2",
+        "who": "trattoria",
+        "text": "We offer a comfortable table for every guest."
+      },
+      {
+        "id": "moretti-reply-4-3",
+        "who": "vinnie",
+        "text": "Back room's spoken for."
+      },
+      {
+        "id": "moretti-reply-4-4",
+        "who": "gnomevillepd",
+        "text": "Spoken for by whom?"
+      },
+      {
+        "id": "moretti-reply-4-5",
+        "who": "trattoria",
+        "text": "Please contact our reservations desk. ❤️"
+      }
+    ]
+  },
+  {
+    "id": "moretti-2025-26-05",
+    "who": "nonno",
+    "createdAt": "2026-01-07T12:15:00-05:00",
+    "text": "In Napoli my father said a proper espresso should be short enough to finish before the story begins. I have never followed the second part.",
+    "replies": [
+      {
+        "id": "moretti-reply-5-1",
+        "who": "paulie",
+        "text": "Nonno's stories take forty minutes."
+      },
+      {
+        "id": "moretti-reply-5-2",
+        "who": "nonno",
+        "text": "And each one improves with age."
+      },
+      {
+        "id": "moretti-reply-5-3",
+        "who": "vinnie",
+        "text": "That's how we do it in Naples."
+      },
+      {
+        "id": "moretti-reply-5-4",
+        "who": "shirley",
+        "text": "Which Naples, Vincent?"
+      },
+      {
+        "id": "moretti-reply-5-5",
+        "who": "nonno",
+        "text": "Not this again."
+      }
+    ]
+  },
+  {
+    "id": "moretti-2025-26-06",
+    "who": "paulie",
+    "createdAt": "2026-01-23T12:15:00-05:00",
+    "text": "Somebody ordered 60 trays of baked ziti for a 'small gathering.' If you are reading this, SMALL HAS A NUMBER.",
+    "replies": [
+      {
+        "id": "moretti-reply-6-1",
+        "who": "sal",
+        "text": "I have been saying this for months."
+      },
+      {
+        "id": "moretti-reply-6-2",
+        "who": "vinnie",
+        "text": "It's a flexible term."
+      },
+      {
+        "id": "moretti-reply-6-3",
+        "who": "paulie",
+        "text": "Sixty trays, Vinnie."
+      },
+      {
+        "id": "moretti-reply-6-4",
+        "who": "nonna",
+        "text": "I made sixty-two. Somebody might be hungry."
+      }
+    ]
+  },
+  {
+    "id": "moretti-2025-26-07",
+    "who": "trattoria",
+    "createdAt": "2026-02-08T12:15:00-05:00",
+    "text": "A little romance goes a long way. Valentine's dinner reservations now open: candlelight, fresh pasta, and a shared tiramisu. ❤️",
+    "replies": [
+      {
+        "id": "moretti-reply-7-1",
+        "who": "bette",
+        "text": "Do you have a table with flattering lighting?"
+      },
+      {
+        "id": "moretti-reply-7-2",
+        "who": "trattoria",
+        "text": "Every table is lovely, Ms. Moorecock."
+      },
+      {
+        "id": "moretti-reply-7-3",
+        "who": "cecil",
+        "text": "A shared tiramisu? In THIS economy?"
+      },
+      {
+        "id": "moretti-reply-7-4",
+        "who": "nonna",
+        "text": "You can have your own, sweetheart."
+      }
+    ]
+  },
+  {
+    "id": "moretti-2025-26-08",
+    "who": "vinnie",
+    "createdAt": "2026-02-25T12:15:00-05:00",
+    "text": "People ask where I learned to negotiate. Naples. You learn to read a room early.",
+    "replies": [
+      {
+        "id": "moretti-reply-8-1",
+        "who": "shirley",
+        "text": "You learned at a Florida homeowners' association meeting."
+      },
+      {
+        "id": "moretti-reply-8-2",
+        "who": "vinnie",
+        "text": "THAT WAS A HIGH-STAKES NEGOTIATION."
+      },
+      {
+        "id": "moretti-reply-8-3",
+        "who": "paulie",
+        "text": "It was about pool noodles."
+      },
+      {
+        "id": "moretti-reply-8-4",
+        "who": "shirley",
+        "text": "The minutes are public record, Vincent."
+      }
+    ]
+  },
+  {
+    "id": "moretti-2025-26-09",
+    "who": "nonna",
+    "createdAt": "2026-03-12T12:15:00-05:00",
+    "text": "A man came into my restaurant and asked if we have gluten-free bread. Of course. Then he said he wasn't hungry. I sent him home with soup.",
+    "replies": [
+      {
+        "id": "moretti-reply-9-1",
+        "who": "trattoria",
+        "text": "We are happy to accommodate dietary requests. ❤️"
+      },
+      {
+        "id": "moretti-reply-9-2",
+        "who": "duck",
+        "text": "Was the soup accompanied by the required takeaway declaration?"
+      },
+      {
+        "id": "moretti-reply-9-3",
+        "who": "nonna",
+        "text": "He was hungry. End of declaration."
+      },
+      {
+        "id": "moretti-reply-9-4",
+        "who": "shirley",
+        "text": "Legally persuasive."
+      }
+    ]
+  },
+  {
+    "id": "moretti-2025-26-10",
+    "who": "nonno",
+    "createdAt": "2026-03-28T12:15:00-05:00",
+    "text": "Spring means the card table moves outside. Last year I won seven games and a small garden statue. The statue has not been returned.",
+    "replies": [
+      {
+        "id": "moretti-reply-10-1",
+        "who": "rocky",
+        "text": "Any distinguishing features on the statue?"
+      },
+      {
+        "id": "moretti-reply-10-2",
+        "who": "nonno",
+        "text": "A hat and a guilty expression."
+      },
+      {
+        "id": "moretti-reply-10-3",
+        "who": "rudy",
+        "text": "That narrows it down to everyone."
+      },
+      {
+        "id": "moretti-reply-10-4",
+        "who": "nonna",
+        "text": "Giuseppe, bring the statue inside before it rains."
+      }
+    ]
+  },
+  {
+    "id": "moretti-2025-26-11",
+    "who": "trattoria",
+    "createdAt": "2026-04-10T12:15:00-05:00",
+    "text": "Spring menu is here: lemon ricotta ravioli, artichokes, and our house-made basil pesto. The courtyard is open for lunch. 🌿",
+    "replies": [
+      {
+        "id": "moretti-reply-11-1",
+        "who": "chateau",
+        "text": "Our spring white pairs beautifully with lemon and fresh herbs. We'd be pleased to discuss a tasting dinner."
+      },
+      {
+        "id": "moretti-reply-11-2",
+        "who": "trattoria",
+        "text": "We would be delighted to welcome your team."
+      },
+      {
+        "id": "moretti-reply-11-3",
+        "who": "vinnie",
+        "text": "I know a guy who can arrange delivery."
+      },
+      {
+        "id": "moretti-reply-11-4",
+        "who": "paulie",
+        "text": "I AM the delivery guy."
+      }
+    ]
+  },
+  {
+    "id": "moretti-2025-26-12",
+    "who": "paulie",
+    "createdAt": "2026-04-26T12:15:00-05:00",
+    "text": "I have spent three hours explaining to a delivery app that 14 Garlic Lane is in Gnomeville. It keeps routing drivers to Italy.",
+    "replies": [
+      {
+        "id": "moretti-reply-12-1",
+        "who": "trattoria",
+        "text": "We apologize for any inconvenience and recommend calling us directly. ❤️"
+      },
+      {
+        "id": "moretti-reply-12-2",
+        "who": "vinnie",
+        "text": "Maybe the app knows something."
+      },
+      {
+        "id": "moretti-reply-12-3",
+        "who": "shirley",
+        "text": "Is this the Naples, Florida defense again?"
+      },
+      {
+        "id": "moretti-reply-12-4",
+        "who": "paulie",
+        "text": "No, this time it says Tuscany."
+      },
+      {
+        "id": "moretti-reply-12-5",
+        "who": "nonno",
+        "text": "Beautiful place. Wrong lunch."
+      }
+    ]
+  },
+  {
+    "id": "moretti-2025-26-13",
+    "who": "nonna",
+    "createdAt": "2026-05-11T12:15:00-05:00",
+    "text": "Mother's Day is over. Every mother who ate here took leftovers. Every son who forgot to call his mother knows who he is.",
+    "replies": [
+      {
+        "id": "moretti-reply-13-1",
+        "who": "vinnie",
+        "text": "I called."
+      },
+      {
+        "id": "moretti-reply-13-2",
+        "who": "paulie",
+        "text": "At 11:58 p.m."
+      },
+      {
+        "id": "moretti-reply-13-3",
+        "who": "nonna",
+        "text": "Still counts. Barely."
+      },
+      {
+        "id": "moretti-reply-13-4",
+        "who": "shirley",
+        "text": "I was there for dessert. She fed me twice."
+      }
+    ]
+  },
+  {
+    "id": "moretti-2025-26-14",
+    "who": "vinnie",
+    "createdAt": "2026-05-29T12:15:00-05:00",
+    "text": "You think hurricanes scare me? I grew up in Naples. We had a system. Everybody knew where to go.",
+    "replies": [
+      {
+        "id": "moretti-reply-14-1",
+        "who": "shirley",
+        "text": "Florida."
+      },
+      {
+        "id": "moretti-reply-14-2",
+        "who": "paulie",
+        "text": "The system was driving inland to a Holiday Inn."
+      },
+      {
+        "id": "moretti-reply-14-3",
+        "who": "vinnie",
+        "text": "A VERY WELL-RUN HOLIDAY INN."
+      },
+      {
+        "id": "moretti-reply-14-4",
+        "who": "nonno",
+        "text": "In my Naples, we worried about the rain, not alligators."
+      },
+      {
+        "id": "moretti-reply-14-5",
+        "who": "shirley",
+        "text": "Thank you, Giuseppe."
+      }
+    ]
+  },
+  {
+    "id": "moretti-2025-26-15",
+    "who": "trattoria",
+    "createdAt": "2026-06-14T12:15:00-05:00",
+    "text": "Father's Day special: Nonno's favorite seafood linguine and espresso on the house for fathers and grandfathers dining with family. 🦩☕",
+    "replies": [
+      {
+        "id": "moretti-reply-15-1",
+        "who": "nonno",
+        "text": "One espresso is not enough."
+      },
+      {
+        "id": "moretti-reply-15-2",
+        "who": "trattoria",
+        "text": "Refills are always available, Nonno."
+      },
+      {
+        "id": "moretti-reply-15-3",
+        "who": "nonna",
+        "text": "Do not encourage him."
+      },
+      {
+        "id": "moretti-reply-15-4",
+        "who": "paulie",
+        "text": "He'll be playing cards until Tuesday."
+      }
+    ]
+  },
+  {
+    "id": "moretti-2025-26-16",
+    "who": "nonno",
+    "createdAt": "2026-06-30T12:15:00-05:00",
+    "text": "A young man asked me whether my wife and I met through a dating application. We met at a bakery. She corrected my order. I have been happily corrected ever since.",
+    "replies": [
+      {
+        "id": "moretti-reply-16-1",
+        "who": "nonna",
+        "text": "You ordered the wrong pastry."
+      },
+      {
+        "id": "moretti-reply-16-2",
+        "who": "nonno",
+        "text": "And found the right woman."
+      },
+      {
+        "id": "moretti-reply-16-3",
+        "who": "bette",
+        "text": "DARLING, that's almost unbearably romantic."
+      },
+      {
+        "id": "moretti-reply-16-4",
+        "who": "vinnie",
+        "text": "Runs in the family."
+      },
+      {
+        "id": "moretti-reply-16-5",
+        "who": "shirley",
+        "text": "Does it?"
+      }
+    ]
+  },
+  {
+    "id": "moretti-2025-26-17",
+    "who": "paulie",
+    "createdAt": "2026-07-12T12:15:00-05:00",
+    "text": "Reminder: if you borrow the restaurant van, please RETURN IT WITH GAS. This applies to relatives, friends, and people who claim they aren't relatives.",
+    "replies": [
+      {
+        "id": "moretti-reply-17-1",
+        "who": "vinnie",
+        "text": "What's with the public accusations?"
+      },
+      {
+        "id": "moretti-reply-17-2",
+        "who": "sal",
+        "text": "For once I agree with Paulie."
+      },
+      {
+        "id": "moretti-reply-17-3",
+        "who": "gnomevillepd",
+        "text": "What color is the van?"
+      },
+      {
+        "id": "moretti-reply-17-4",
+        "who": "paulie",
+        "text": "Red. Like the logo. This is not a confession."
+      },
+      {
+        "id": "moretti-reply-17-5",
+        "who": "nonna",
+        "text": "Whoever took it, pick up tomatoes."
+      }
+    ]
+  },
+  {
+    "id": "moretti-2025-26-18",
+    "who": "trattoria",
+    "createdAt": "2026-07-26T12:15:00-05:00",
+    "text": "Summer evenings are made for the courtyard. Join us Friday for live accordion music, chilled antipasti, and fresh peach crostata. 🍑🎶",
+    "replies": [
+      {
+        "id": "moretti-reply-18-1",
+        "who": "lucy",
+        "text": "Your website photo looks like the Amalfi Coast."
+      },
+      {
+        "id": "moretti-reply-18-2",
+        "who": "trattoria",
+        "text": "Thank you! Our courtyard is especially lovely in summer."
+      },
+      {
+        "id": "moretti-reply-18-3",
+        "who": "lucy",
+        "text": "That wasn't the question."
+      },
+      {
+        "id": "moretti-reply-18-4",
+        "who": "nonno",
+        "text": "The accordion player is excellent."
+      },
+      {
+        "id": "moretti-reply-18-5",
+        "who": "shirley",
+        "text": "I'm reserving a table."
+      }
+    ]
+  },
+  {
+    "id": "moretti-2025-26-19",
+    "who": "nonna",
+    "createdAt": "2026-08-09T12:15:00-05:00",
+    "text": "Someone asked for my sauce recipe. Tomatoes, patience, and mind your own business.",
+    "replies": [
+      {
+        "id": "moretti-reply-19-1",
+        "who": "cecil",
+        "text": "I say the same about buttercream, except for the tomatoes."
+      },
+      {
+        "id": "moretti-reply-19-2",
+        "who": "trattoria",
+        "text": "Our kitchen is always happy to discuss ingredients and allergens with guests. ❤️"
+      },
+      {
+        "id": "moretti-reply-19-3",
+        "who": "gnomevillepd",
+        "text": "And the basement?"
+      },
+      {
+        "id": "moretti-reply-19-4",
+        "who": "nonna",
+        "text": "That is not an ingredient."
+      },
+      {
+        "id": "moretti-reply-19-5",
+        "who": "vinnie",
+        "text": "THANK YOU."
+      }
+    ]
+  },
+  {
+    "id": "moretti-2025-26-20",
+    "who": "vinnie",
+    "createdAt": "2026-08-22T12:15:00-05:00",
+    "text": "People don't understand what it means to grow up near the Mediterranean. The air, the sun, the way the whole place smells after rain.",
+    "replies": [
+      {
+        "id": "moretti-reply-20-1",
+        "who": "shirley",
+        "text": "Vincent. Gulf of Mexico."
+      },
+      {
+        "id": "moretti-reply-20-2",
+        "who": "vinnie",
+        "text": "Water is water, Shirley."
+      },
+      {
+        "id": "moretti-reply-20-3",
+        "who": "paulie",
+        "text": "There was a Publix across the street."
+      },
+      {
+        "id": "moretti-reply-20-4",
+        "who": "nonno",
+        "text": "The Mediterranean does not have Publix."
+      },
+      {
+        "id": "moretti-reply-20-5",
+        "who": "vinnie",
+        "text": "YOU'RE ALL MISSING THE POINT."
+      }
+    ]
+  },
+  {
+    "id": "moretti-2025-26-21",
+    "who": "trattoria",
+    "createdAt": "2026-09-06T12:15:00-05:00",
+    "text": "Our harvest supper returns September 19. Four courses celebrating late-summer produce, with an optional Château Gnomeville wine pairing. Reservations are open. 🍇",
+    "replies": [
+      {
+        "id": "moretti-reply-21-1",
+        "who": "chateau",
+        "text": "We look forward to collaborating on a memorable evening."
+      },
+      {
+        "id": "moretti-reply-21-2",
+        "who": "bette",
+        "text": "Will there be a seating chart?"
+      },
+      {
+        "id": "moretti-reply-21-3",
+        "who": "trattoria",
+        "text": "Our team will gladly assist with seating requests."
+      },
+      {
+        "id": "moretti-reply-21-4",
+        "who": "nonna",
+        "text": "Everyone sits. Everyone eats."
+      },
+      {
+        "id": "moretti-reply-21-5",
+        "who": "duck",
+        "text": "Please submit seating requests in triplicate."
+      }
+    ]
+  },
+  {
+    "id": "moretti-2025-26-22",
+    "who": "nonno",
+    "createdAt": "2026-09-17T12:15:00-05:00",
+    "text": "My grandson Vinnie tells people he is from Naples. This is true. Geography, however, requires a second question.",
+    "replies": [
+      {
+        "id": "moretti-reply-22-1",
+        "who": "shirley",
+        "text": "I've been asking it for years."
+      },
+      {
+        "id": "moretti-reply-22-2",
+        "who": "vinnie",
+        "text": "Nonno, whose side are you on?"
+      },
+      {
+        "id": "moretti-reply-22-3",
+        "who": "nonno",
+        "text": "Carmela's."
+      },
+      {
+        "id": "moretti-reply-22-4",
+        "who": "nonna",
+        "text": "Correct answer."
+      },
+      {
+        "id": "moretti-reply-22-5",
+        "who": "paulie",
+        "text": "Case closed."
+      }
+    ]
+  },
+  {
+    "id": "moretti-2025-26-23",
+    "who": "paulie",
+    "createdAt": "2026-09-29T12:15:00-05:00",
+    "text": "Today I was asked to deliver six cannoli to an address that does not exist. The person answering the phone said 'you know the place.' I did, unfortunately.",
+    "replies": [
+      {
+        "id": "moretti-reply-23-1",
+        "who": "sal",
+        "text": "Relatable."
+      },
+      {
+        "id": "moretti-reply-23-2",
+        "who": "gnomevillepd",
+        "text": "Would you like to elaborate?"
+      },
+      {
+        "id": "moretti-reply-23-3",
+        "who": "paulie",
+        "text": "No."
+      },
+      {
+        "id": "moretti-reply-23-4",
+        "who": "trattoria",
+        "text": "We are always pleased to help with catering inquiries. ❤️"
+      },
+      {
+        "id": "moretti-reply-23-5",
+        "who": "shirley",
+        "text": "An excellent time to stop posting, Paulie."
+      }
+    ]
+  },
+  {
+    "id": "moretti-2025-26-24",
+    "who": "nonna",
+    "createdAt": "2026-10-05T12:15:00-05:00",
+    "text": "It is getting cold. Wear a sweater. Yes, even if you are a flamingo. Especially if you are a flamingo.",
+    "replies": [
+      {
+        "id": "moretti-reply-24-1",
+        "who": "vinnie",
+        "text": "I have feathers."
+      },
+      {
+        "id": "moretti-reply-24-2",
+        "who": "nonna",
+        "text": "You have excuses."
+      },
+      {
+        "id": "moretti-reply-24-3",
+        "who": "paulie",
+        "text": "Wearing mine."
+      },
+      {
+        "id": "moretti-reply-24-4",
+        "who": "nonno",
+        "text": "I have been wearing mine since September."
+      },
+      {
+        "id": "moretti-reply-24-5",
+        "who": "shirley",
+        "text": "I'll bring the good bread on Sunday."
+      }
+    ]
+  },
+  {
+    "id": "moretti-2025-26-25",
+    "who": "trattoria",
+    "createdAt": "2026-10-12T12:15:00-05:00",
+    "text": "A century of Sunday dinners, family celebrations, and extra helpings. Thank you, Gnomeville, for making room at your tables for us since 1926. ❤️ #Trattoria100",
+    "replies": [
+      {
+        "id": "moretti-reply-25-1",
+        "who": "mayor",
+        "text": "A treasured local institution! Congratulations!"
+      },
+      {
+        "id": "moretti-reply-25-2",
+        "who": "nonna",
+        "text": "The mayor looks thin. Come eat."
+      },
+      {
+        "id": "moretti-reply-25-3",
+        "who": "vinnie",
+        "text": "A hundred years of doing things the right way."
+      },
+      {
+        "id": "moretti-reply-25-4",
+        "who": "shirley",
+        "text": "Subject to interpretation."
+      },
+      {
+        "id": "moretti-reply-25-5",
+        "who": "paulie",
+        "text": "Happy anniversary, Nonna."
+      },
+      {
+        "id": "moretti-reply-25-6",
+        "who": "nonno",
+        "text": "To another hundred years."
+      }
+    ]
+  },
+  {
+    "id": "moretti-2025-26-26",
+    "who": "vinnie",
+    "createdAt": "2026-10-20T12:15:00-05:00",
+    "text": "A gentleman doesn't discuss family business in public. That's something I learned growing up in Naples.",
+    "replies": [
+      {
+        "id": "moretti-reply-26-1",
+        "who": "shirley",
+        "text": "Florida."
+      },
+      {
+        "id": "moretti-reply-26-2",
+        "who": "gnomevillepd",
+        "text": "What family business?"
+      },
+      {
+        "id": "moretti-reply-26-3",
+        "who": "vinnie",
+        "text": "THE RESTAURANT."
+      },
+      {
+        "id": "moretti-reply-26-4",
+        "who": "trattoria",
+        "text": "Our family is proud to serve Gnomeville for generations. ❤️"
+      },
+      {
+        "id": "moretti-reply-26-5",
+        "who": "paulie",
+        "text": "Vinnie, please stop helping."
+      }
+    ]
+  },
+  {
+    "id": "moretti-2025-26-27",
+    "who": "trattoria",
+    "createdAt": "2026-10-27T12:15:00-05:00",
+    "text": "Halloween weekend: pumpkin ravioli, roasted garlic focaccia, and Nonna's chocolate-dipped biscotti. Costumes welcome. Questions about the basement are not on the menu. 🎃",
+    "replies": [
+      {
+        "id": "moretti-reply-27-1",
+        "who": "cecil",
+        "text": "Do you permit skeletons at dinner?"
+      },
+      {
+        "id": "moretti-reply-27-2",
+        "who": "trattoria",
+        "text": "All guests are welcome, Cecil!"
+      },
+      {
+        "id": "moretti-reply-27-3",
+        "who": "nonna",
+        "text": "I'll make you something soft."
+      },
+      {
+        "id": "moretti-reply-27-4",
+        "who": "milo",
+        "text": "mrrp"
+      },
+      {
+        "id": "moretti-reply-27-5",
+        "who": "shirley",
+        "text": "I'll take a table for two, and no questions."
+      },
+      {
+        "id": "moretti-reply-27-6",
+        "who": "vinnie",
+        "text": "FINALLY, somebody gets it."
+      }
+    ]
   }
 ]
