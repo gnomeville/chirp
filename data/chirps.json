@@ -335,11 +335,20 @@
     "replies": [
       {
         "who": "webster",
-        "text": "Please be advised that our refund policy is under review."
+        "text": "Please be advised that our refund policy is under review.",
+        "id": "legacy-cecil-pinned-0"
       },
       {
         "who": "cecil",
-        "text": "Darling, so is your attitude."
+        "text": "Darling, so is your attitude.",
+        "id": "legacy-cecil-pinned-1"
+      },
+      {
+        "id": "reply-a92144ee-2cb9-433b-804b-0634a47629c2",
+        "who": "pawpaw",
+        "text": "What exactly do you do?",
+        "createdAt": "2026-10-30T00:50:13.998Z",
+        "replies": []
       }
     ]
   },
