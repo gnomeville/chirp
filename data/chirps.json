@@ -7,7 +7,7 @@
     "replies": [
       {
         "who": "bette",
-        "text": "BONESY, DARLING!!! 💋💕 So lovely to see you! We simply MUST have lunch!"
+        "text": "BONESY, DARLING!!! 💋💕 So lovely to see you! We simply MUST have lunch! #Darling"
       },
       {
         "who": "bonesy",
@@ -19,7 +19,7 @@
       },
       {
         "who": "lucy",
-        "text": "I thought you were dead."
+        "text": "I thought you were dead. #LucyHasLanded"
       },
       {
         "who": "bonesy",
@@ -50,14 +50,14 @@
       },
       {
         "who": "cecil",
-        "text": "Shirley, dear, I thought you WERE the Municipal Standards Board. How many hats can one woman wear before we call it a circus?"
+        "text": "Shirley, dear, I thought you WERE the Municipal Standards Board. How many hats can one woman wear before we call it a circus? #StandardsCheerfullyDisregarded"
       }
     ]
   },
   {
     "id": "c002",
     "who": "duck",
-    "text": "PUBLIC NOTICE: The Department of Public Notices has received notice of a notice that was not properly noticed.\n\nPlease await further notice.",
+    "text": "PUBLIC NOTICE: The Department of Public Notices has received notice of a notice that was not properly noticed.\n\nPlease await further notice.\n\n#OfficialNotice #MunicipalProcedure",
     "replies": [
       {
         "who": "cecil",
@@ -92,18 +92,18 @@
   {
     "id": "c004",
     "who": "lucy",
-    "text": "The paparazzi call it a 'public sidewalk.' I call it an invasion of privacy. Also, who moved my garment rack?",
+    "text": "The paparazzi call it a 'public sidewalk.' I call it an invasion of privacy. Also, who moved my garment rack?\n\n#LucyHasLanded #PrivacyPlease",
     "replies": [
       {
         "who": "cecil",
-        "text": "Darling, the rack has more followers than the mayor."
+        "text": "Darling, the rack has more followers than the mayor. #StandardsCheerfullyDisregarded"
       }
     ]
   },
   {
     "id": "c005",
     "who": "toni",
-    "text": "For the record, the District Attorney's office does NOT prosecute based on anonymous Chirps.\n\nWe do, however, screenshot them.",
+    "text": "For the record, the District Attorney's office does NOT prosecute based on anonymous Chirps.\n\nWe do, however, screenshot them.\n\n#DistrictAttorney #PublicRecord",
     "replies": [
       {
         "who": "milo",
@@ -114,11 +114,11 @@
   {
     "id": "c006",
     "who": "mayor",
-    "text": "The gazebo remains open to the public. All questions concerning the gazebo incident should be directed elsewhere.",
+    "text": "The gazebo remains open to the public. All questions concerning the gazebo incident should be directed elsewhere.\n\n#OfficeOfTheMayor #MunicipalUpdate",
     "replies": [
       {
         "who": "duck",
-        "text": "Form GZ-0 is currently unavailable."
+        "text": "Form GZ-0 is currently unavailable. #OfficialNotice"
       }
     ]
   },
@@ -180,7 +180,7 @@
   {
     "id": "c012",
     "who": "duck",
-    "text": "Due to unusually high demand, the queue for requesting a queue number has been temporarily suspended.",
+    "text": "Due to unusually high demand, the queue for requesting a queue number has been temporarily suspended.\n\n#FormsAndStamps #QueueManagement",
     "replies": [
       {
         "who": "rook",
@@ -206,17 +206,17 @@
   {
     "id": "c014",
     "who": "lucy",
-    "text": "I am not 'late.' The occasion started before I arrived. That's its problem.",
+    "text": "I am not 'late.' The occasion started before I arrived. That's its problem.\n\n#FashionablyOnTime #LucyHasLanded",
     "replies": []
   },
   {
     "id": "c015",
     "who": "mayor",
-    "text": "I categorically deny that the town budget includes a line item for 'emergency wine.'",
+    "text": "I categorically deny that the town budget includes a line item for 'emergency wine.'\n\n#GnomevilleOfficial #CivicNotice",
     "replies": [
       {
         "who": "duck",
-        "text": "It is filed under contingency beverages."
+        "text": "It is filed under contingency beverages. #OfficialNotice"
       }
     ]
   },
@@ -246,7 +246,7 @@
       },
       {
         "who": "cecil",
-        "text": "Darling, it was served with dessert."
+        "text": "Darling, it was served with dessert. #StandardsCheerfullyDisregarded"
       }
     ],
     "image": "assets/cecil-wedding-cake.jpg",
@@ -259,7 +259,7 @@
     "replies": [
       {
         "who": "lucy",
-        "text": "You removed the wrong pearl."
+        "text": "You removed the wrong pearl. #Receipts"
       },
       {
         "who": "cecil",
@@ -278,7 +278,7 @@
       },
       {
         "who": "cecil",
-        "text": "And yet it has more personality than the entire committee."
+        "text": "And yet it has more personality than the entire committee. #StandardsCheerfullyDisregarded"
       }
     ]
   },
@@ -289,7 +289,7 @@
     "replies": [
       {
         "who": "mayor",
-        "text": "That fund does not exist."
+        "text": "That fund does not exist. #OfficeOfTheMayor"
       },
       {
         "who": "cecil",
@@ -308,7 +308,7 @@
       },
       {
         "who": "cecil",
-        "text": "Then you should stop reading my account for evidence, dear."
+        "text": "Then you should stop reading my account for evidence, dear. #StandardsCheerfullyDisregarded"
       }
     ]
   },
@@ -340,7 +340,7 @@
       },
       {
         "who": "cecil",
-        "text": "Darling, so is your attitude.",
+        "text": "Darling, so is your attitude. #StandardsCheerfullyDisregarded",
         "id": "legacy-cecil-pinned-1"
       },
       {
@@ -367,7 +367,7 @@
       },
       {
         "who": "cecil",
-        "text": "AND I'VE NEVER FELT BETTER."
+        "text": "AND I'VE NEVER FELT BETTER. #StandardsCheerfullyDisregarded"
       }
     ]
   },
@@ -402,7 +402,7 @@
       },
       {
         "who": "cecil",
-        "text": "Darling, you're wearing the evidence."
+        "text": "Darling, you're wearing the evidence. #StandardsCheerfullyDisregarded"
       },
       {
         "who": "webster",
@@ -421,7 +421,7 @@
     "replies": [
       {
         "who": "cecil",
-        "text": "Then the legal profession ought to choose less delicious terminology."
+        "text": "Then the legal profession ought to choose less delicious terminology. #StandardsCheerfullyDisregarded"
       }
     ]
   },
@@ -451,7 +451,7 @@
       },
       {
         "who": "cecil",
-        "text": "Darling, it was a gender reveal."
+        "text": "Darling, it was a gender reveal. #StandardsCheerfullyDisregarded"
       },
       {
         "who": "webster",
@@ -554,7 +554,7 @@
     "replies": [
       {
         "who": "duck",
-        "text": "Cabinet expenditure records requested. Form 17B."
+        "text": "Cabinet expenditure records requested. Form 17B. #OfficialNotice"
       },
       {
         "who": "mayor",
@@ -588,7 +588,7 @@
     "replies": [
       {
         "who": "lucy",
-        "text": "It conveys that the luncheon began two hours ago."
+        "text": "It conveys that the luncheon began two hours ago. #LucyHasLanded"
       },
       {
         "who": "mayor",
@@ -609,7 +609,7 @@
       },
       {
         "who": "mayor",
-        "text": "Not at this time."
+        "text": "Not at this time. #MunicipalStatement"
       }
     ],
     "image": "assets/mayor-office.jpg",
@@ -626,7 +626,7 @@
       },
       {
         "who": "duck",
-        "text": "Census appeals must be submitted in triplicate."
+        "text": "Census appeals must be submitted in triplicate. #OfficialNotice"
       }
     ]
   },
@@ -673,11 +673,11 @@
       },
       {
         "who": "cecil",
-        "text": "DARLING, NEITHER WAS MY TIME."
+        "text": "DARLING, NEITHER WAS MY TIME. #StandardsCheerfullyDisregarded"
       },
       {
         "who": "mayor",
-        "text": "The Finance Department has requested clarification regarding the meaning of “generous.”"
+        "text": "The Finance Department has requested clarification regarding the meaning of “generous.” #OfficeOfTheMayor"
       }
     ],
     "image": "assets/cecil-mayoral-luncheon.jpg",
@@ -728,7 +728,7 @@
       },
       {
         "who": "cecil",
-        "text": "Only after I disputed the knee surcharge."
+        "text": "Only after I disputed the knee surcharge. #StandardsCheerfullyDisregarded"
       }
     ]
   },
@@ -756,7 +756,7 @@
     "replies": [
       {
         "who": "cecil",
-        "text": "IT’S CALLED HAVING A SIGNATURE STYLE, YOU UNCULTURED ARACHNID."
+        "text": "IT’S CALLED HAVING A SIGNATURE STYLE, YOU UNCULTURED ARACHNID. #StandardsCheerfullyDisregarded"
       },
       {
         "who": "webster",
@@ -779,7 +779,7 @@
       },
       {
         "who": "cecil",
-        "text": "Different pearls."
+        "text": "Different pearls. #StandardsCheerfullyDisregarded"
       }
     ]
   },
@@ -841,11 +841,11 @@
     "replies": [
       {
         "who": "bette",
-        "text": "Darling, archival is what we call it when the feathers have seen better days."
+        "text": "Darling, archival is what we call it when the feathers have seen better days. #BetteMoorecock"
       },
       {
         "who": "lucy",
-        "text": "And some of us have seen an actual archive."
+        "text": "And some of us have seen an actual archive. #Receipts"
       }
     ]
   },
@@ -856,11 +856,11 @@
     "replies": [
       {
         "who": "duck",
-        "text": "A declaration of personal possessions is available in triplicate."
+        "text": "A declaration of personal possessions is available in triplicate. #OfficialNotice"
       },
       {
         "who": "cecil",
-        "text": "Only one glass? How very restrained."
+        "text": "Only one glass? How very restrained. #StandardsCheerfullyDisregarded"
       }
     ]
   },
@@ -920,7 +920,7 @@
       },
       {
         "who": "cecil",
-        "text": "An inspiringly unverifiable claim."
+        "text": "An inspiringly unverifiable claim. #StandardsCheerfullyDisregarded"
       }
     ]
   },
@@ -990,7 +990,7 @@
       {
         "id": "form-c17-r1",
         "who": "cecil",
-        "text": "Darling, I haven't sought permission to be adored in eighty-seven years, and I refuse to begin now.",
+        "text": "Darling, I haven't sought permission to be adored in eighty-seven years, and I refuse to begin now. #StandardsCheerfullyDisregarded",
         "createdAt": "2026-10-29T23:35:36.700Z",
         "replies": [
           {
@@ -1018,7 +1018,7 @@
           {
             "id": "form-c17-r2a",
             "who": "duck",
-            "text": "Statutory authority is currently under review. Form C-17 remains mandatory during the review period.",
+            "text": "Statutory authority is currently under review. Form C-17 remains mandatory during the review period. #OfficialNotice",
             "createdAt": "2026-10-29T23:35:36.700Z",
             "replies": []
           },
@@ -1155,7 +1155,7 @@
       {
         "id": "police-launch-20261029-2-r1",
         "who": "cecil",
-        "text": "Darling, my frosting is a public safety triumph.",
+        "text": "Darling, my frosting is a public safety triumph. #StandardsCheerfullyDisregarded",
         "createdAt": "2026-10-30T00:03:23.845Z",
         "replies": [
           {
@@ -1193,7 +1193,7 @@
       {
         "id": "police-launch-20261029-3-r1",
         "who": "bette",
-        "text": "Detective, I resent the implication. I would never use such an unimaginative pseudonym.",
+        "text": "Detective, I resent the implication. I would never use such an unimaginative pseudonym. #GlamourIsNotOptional",
         "createdAt": "2026-10-30T00:03:23.845Z",
         "replies": [
           {
@@ -1208,7 +1208,7 @@
       {
         "id": "police-launch-20261029-3-r2",
         "who": "lucy",
-        "text": "It's a PUBLIC sidewalk. My luggage has rights.",
+        "text": "It's a PUBLIC sidewalk. My luggage has rights. #LucyHasLanded",
         "createdAt": "2026-10-30T00:03:23.845Z",
         "replies": [
           {
@@ -1225,7 +1225,7 @@
   {
     "id": "police-launch-20261029-4",
     "who": "gnomevillepd",
-    "text": "PUBLIC ADVISORY: The department has received multiple reports of 'aggravated flamingo battery.'\n\nThe suspects are squirrels. The victims are lawn ornaments. Please stop asking whether the flamingos wish to press charges.",
+    "text": "PUBLIC ADVISORY: The department has received multiple reports of 'aggravated flamingo battery.'\n\nThe suspects are squirrels. The victims are lawn ornaments. Please stop asking whether the flamingos wish to press charges.\n\n#GnomevillePD #CommunityNotice",
     "createdAt": "2026-10-30T00:03:26.848Z",
     "replies": [
       {
@@ -1246,7 +1246,7 @@
       {
         "id": "police-launch-20261029-4-r2",
         "who": "duck",
-        "text": "A Victim Statement for Solar-Powered Ornamental Birds is being drafted.",
+        "text": "A Victim Statement for Solar-Powered Ornamental Birds is being drafted. #OfficialNotice",
         "createdAt": "2026-10-30T00:03:23.845Z",
         "replies": []
       }
@@ -1323,7 +1323,7 @@
   {
     "id": "police-launch-20261029-7",
     "who": "gnomevillepd",
-    "text": "COMMUNITY REMINDER: If you find an unattended rubber duck wearing a badge, do not assume it is an undercover officer.\n\nWe cannot believe this needs saying.",
+    "text": "COMMUNITY REMINDER: If you find an unattended rubber duck wearing a badge, do not assume it is an undercover officer.\n\nWe cannot believe this needs saying.\n\n#PublicSafety #GnomevillePD",
     "createdAt": "2026-10-30T00:03:29.848Z",
     "replies": [
       {
@@ -1416,7 +1416,7 @@
     "id": "archive-nov2025-mayor-explosions",
     "who": "mayor",
     "createdAt": "2025-11-06T10:14:00-06:00",
-    "text": "We are grateful for community, kindness, and the relative decrease in unexplained explosions.",
+    "text": "We are grateful for community, kindness, and the relative decrease in unexplained explosions.\n\n#MayoralStatement #Gnomeville",
     "replies": [
       {
         "who": "freddie",
@@ -1438,7 +1438,7 @@
       },
       {
         "who": "mayor",
-        "text": "This conversation is concluded.",
+        "text": "This conversation is concluded. #MunicipalStatement",
         "createdAt": "2025-11-06T10:31:00-06:00",
         "replies": []
       }
@@ -1448,7 +1448,7 @@
     "id": "archive-nov2025-pit-of-fire-reviews",
     "who": "freddie",
     "createdAt": "2025-11-12T18:42:00-06:00",
-    "text": "That crackle? That's artisanal.",
+    "text": "That crackle? That's artisanal.\n\n#ArtisanalFire #OnTour",
     "replies": [
       {
         "who": "sunny",
@@ -1486,7 +1486,7 @@
     "id": "archive-nov2025-pawpaw-hat",
     "who": "bette",
     "createdAt": "2025-11-21T11:06:00-06:00",
-    "text": "Paw-Paw's Thanksgiving ensemble is bold. Deeply bold. Suspiciously bold.",
+    "text": "Paw-Paw's Thanksgiving ensemble is bold. Deeply bold. Suspiciously bold.\n\n#BetteMoorecock #ShowMustGoOn",
     "replies": [
       {
         "who": "tony",
@@ -1517,7 +1517,7 @@
   {
     "id": "archive-dec2025-porch-rave",
     "who": "slimshady",
-    "text": "Third set starts in five. If you're not here, you're missing history.",
+    "text": "Third set starts in five. If you're not here, you're missing history.\n\n#PorchRave #GnomevilleBeats #NoRequests",
     "createdAt": "2025-12-05T00:43:00-06:00",
     "replies": [
       {
@@ -1546,7 +1546,7 @@
       },
       {
         "who": "slimshady",
-        "text": "Sal, you fell off a flowerpot.",
+        "text": "Sal, you fell off a flowerpot. #PorchRave",
         "createdAt": "2025-12-05T00:56:00-06:00",
         "replies": []
       },
@@ -1561,7 +1561,7 @@
   {
     "id": "archive-dec2025-tony-bette-rumors",
     "who": "bette",
-    "text": "I am aware of the rumors circulating about Saturday evening.\n\nI will not be addressing them.",
+    "text": "I am aware of the rumors circulating about Saturday evening.\n\nI will not be addressing them.\n\n#GlamourIsNotOptional #BetteMoorecock",
     "createdAt": "2025-12-09T11:14:00-06:00",
     "replies": [
       {
@@ -1572,13 +1572,13 @@
       },
       {
         "who": "lucy",
-        "text": "Interesting. Nobody asked either of you.",
+        "text": "Interesting. Nobody asked either of you. #Receipts",
         "createdAt": "2025-12-09T11:19:00-06:00",
         "replies": []
       },
       {
         "who": "bette",
-        "text": "LUCY.",
+        "text": "LUCY. #Darling",
         "createdAt": "2025-12-09T11:22:00-06:00",
         "replies": []
       },
@@ -1605,12 +1605,12 @@
   {
     "id": "archive-dec2025-three-santas",
     "who": "mayor",
-    "text": "The municipality wishes to clarify that there are currently three Santas in Gnomeville.\n\nOne is genuine. One is decorative.\n\nThe third is under investigation.",
+    "text": "The municipality wishes to clarify that there are currently three Santas in Gnomeville.\n\nOne is genuine. One is decorative.\n\nThe third is under investigation.\n\n#CivicPride #MunicipalAffairs",
     "createdAt": "2025-12-16T09:12:00-06:00",
     "replies": [
       {
         "who": "duck",
-        "text": "The unidentified Santa has failed to submit Form S-25, Application for Seasonal Identity Verification.",
+        "text": "The unidentified Santa has failed to submit Form S-25, Application for Seasonal Identity Verification. #OfficialNotice",
         "createdAt": "2025-12-16T09:16:00-06:00",
         "replies": []
       },
@@ -1638,11 +1638,11 @@
     "id": "archive-dec2025-dear-sparklebottom",
     "who": "lena",
     "createdAt": "2025-12-18T10:15:00-06:00",
-    "text": "Darling, the holiday edition of Dear Sparklebottom is out!\n\nRemember: Nice is a state of mind. Naughty is a branding opportunity.",
+    "text": "Darling, the holiday edition of Dear Sparklebottom is out!\n\nRemember: Nice is a state of mind. Naughty is a branding opportunity.\n\n#DearSparklebottom #AdviceColumn",
     "replies": [
       {
         "who": "bette",
-        "text": "FINALLY. Someone understands marketing.",
+        "text": "FINALLY. Someone understands marketing. #BetteMoorecock",
         "createdAt": "2025-12-18T10:22:00-06:00",
         "replies": []
       },
@@ -1654,13 +1654,13 @@
       },
       {
         "who": "lena",
-        "text": "Darling, that's why nobody invites the municipality to parties.",
+        "text": "Darling, that's why nobody invites the municipality to parties. #DearSparklebottom",
         "createdAt": "2025-12-18T10:31:00-06:00",
         "replies": []
       },
       {
         "who": "duck",
-        "text": "This statement is under review.",
+        "text": "This statement is under review. #OfficialNotice",
         "createdAt": "2025-12-18T10:34:00-06:00",
         "replies": []
       },
@@ -1676,11 +1676,11 @@
     "id": "archive-dec2025-holiday-extravaganza",
     "who": "lena",
     "createdAt": "2025-12-20T23:08:00-06:00",
-    "text": "Thank you to everyone who attended tonight's Holiday Extravaganza!\n\nA reminder that the Pink Flamingo GentleGnomes Club is not responsible for misplaced monocles, forgotten anniversaries, or sudden changes in marital expectations.",
+    "text": "Thank you to everyone who attended tonight's Holiday Extravaganza!\n\nA reminder that the Pink Flamingo GentleGnomes Club is not responsible for misplaced monocles, forgotten anniversaries, or sudden changes in marital expectations.\n\n#PinkFlamingoClub #ShowNight",
     "replies": [
       {
         "who": "bette",
-        "text": "DARLING! MAGNIFICENT! THE FEATHERS! THE LIGHTING! THE LEGS!",
+        "text": "DARLING! MAGNIFICENT! THE FEATHERS! THE LIGHTING! THE LEGS! #GlamourIsNotOptional",
         "createdAt": "2025-12-20T23:14:00-06:00",
         "replies": []
       },
@@ -1716,7 +1716,7 @@
       },
       {
         "who": "bette",
-        "text": "OF COURSE HE HAS. 💋",
+        "text": "OF COURSE HE HAS. 💋 #Darling",
         "createdAt": "2025-12-20T23:35:00-06:00",
         "replies": []
       }
@@ -1782,7 +1782,7 @@
     "id": "archive-dec2025-missing-santa",
     "who": "mayor",
     "createdAt": "2025-12-24T08:43:00-06:00",
-    "text": "The Office of the Mayor wishes to clarify that reports of a missing Santa are being investigated.\n\nResidents are reminded that we began the season with three Santas.\n\nWe are reasonably confident that at least two remain.",
+    "text": "The Office of the Mayor wishes to clarify that reports of a missing Santa are being investigated.\n\nResidents are reminded that we began the season with three Santas.\n\nWe are reasonably confident that at least two remain.\n\n#OfficeOfTheMayor #PublicNotice",
     "replies": [
       {
         "who": "duck",
@@ -1792,13 +1792,13 @@
       },
       {
         "who": "mayor",
-        "text": "The one who wasn't supposed to be here.",
+        "text": "The one who wasn't supposed to be here. #OfficeOfTheMayor",
         "createdAt": "2025-12-24T08:54:00-06:00",
         "replies": []
       },
       {
         "who": "duck",
-        "text": "That does not sufficiently narrow the investigation.",
+        "text": "That does not sufficiently narrow the investigation. #OfficialNotice",
         "createdAt": "2025-12-24T08:57:00-06:00",
         "replies": []
       },
@@ -1866,7 +1866,7 @@
       },
       {
         "who": "bette",
-        "text": "FOUR PEOPLE WITH NO CHRISTMAS SPIRIT.",
+        "text": "FOUR PEOPLE WITH NO CHRISTMAS SPIRIT. #BetteMoorecock",
         "createdAt": "2025-12-24T05:26:00-06:00",
         "replies": []
       },
@@ -1910,7 +1910,7 @@
       },
       {
         "who": "duck",
-        "text": "Cookie distribution is not currently classified as an essential municipal service.",
+        "text": "Cookie distribution is not currently classified as an essential municipal service. #OfficialNotice",
         "createdAt": "2025-12-25T09:38:00-06:00",
         "replies": []
       },
@@ -1922,7 +1922,7 @@
       },
       {
         "who": "mayor",
-        "text": "Motion carried.",
+        "text": "Motion carried. #MunicipalStatement",
         "createdAt": "2025-12-25T09:47:00-06:00",
         "replies": []
       },
@@ -1943,7 +1943,7 @@
   {
     "id": "contemporary-freddie-tour-20261026",
     "who": "freddie",
-    "text": "Greetings from the road!\n\nThree venues booked. Two cancellations. One strongly worded letter from a fire marshal.\n\nThe tour is going splendidly.",
+    "text": "Greetings from the road!\n\nThree venues booked. Two cancellations. One strongly worded letter from a fire marshal.\n\nThe tour is going splendidly.\n\n#ArtisanalFire #OnTour",
     "createdAt": "2026-10-26T10:02:00-05:00",
     "replies": [
       {
@@ -1960,7 +1960,7 @@
       },
       {
         "who": "duck",
-        "text": "That is not documentation.",
+        "text": "That is not documentation. #OfficialNotice",
         "createdAt": "2026-10-26T10:16:00-05:00",
         "replies": []
       },
@@ -1981,18 +1981,18 @@
   {
     "id": "contemporary-penelope-writing-20261028",
     "who": "penelope",
-    "text": "My darlings, a little advice for aspiring romance writers:\n\nNever allow your characters to confess their love in the first chapter.\n\nMake them suffer.\n\nMake them yearn.\n\nMake them stand on a windswept cliff contemplating the unbearable distance between two hearts.\n\nPreferably during a thunderstorm.",
+    "text": "My darlings, a little advice for aspiring romance writers:\n\nNever allow your characters to confess their love in the first chapter.\n\nMake them suffer.\n\nMake them yearn.\n\nMake them stand on a windswept cliff contemplating the unbearable distance between two hearts.\n\nPreferably during a thunderstorm.\n\n#WritingAdvice #SlowBurnRomance",
     "createdAt": "2026-10-28T11:07:00-05:00",
     "replies": [
       {
         "who": "bette",
-        "text": "DARLING, I ADORE THIS.",
+        "text": "DARLING, I ADORE THIS. #GlamourIsNotOptional",
         "createdAt": "2026-10-28T11:14:00-05:00",
         "replies": []
       },
       {
         "who": "penelope",
-        "text": "Thank you, my sweet. Though I do recommend bringing an umbrella.",
+        "text": "Thank you, my sweet. Though I do recommend bringing an umbrella. #WritingAdvice",
         "createdAt": "2026-10-28T11:17:00-05:00",
         "replies": []
       },
@@ -2025,7 +2025,7 @@
   {
     "id": "contemporary-penelope-book-20261029",
     "who": "penelope",
-    "text": "For those seeking an autumn escape, might I recommend The Captain's Forbidden Port?\n\nA lonely captain. A mysterious widow. A harbor where docking is prohibited after sunset.\n\nSome journeys are worth the risk, my darlings. 💋",
+    "text": "For those seeking an autumn escape, might I recommend The Captain's Forbidden Port?\n\nA lonely captain. A mysterious widow. A harbor where docking is prohibited after sunset.\n\nSome journeys are worth the risk, my darlings. 💋\n\n#RomanceReaders #Yearning",
     "createdAt": "2026-10-29T12:04:00-05:00",
     "replies": [
       {
@@ -2036,13 +2036,13 @@
       },
       {
         "who": "lucy",
-        "text": "You said you hadn't finished it.",
+        "text": "You said you hadn't finished it. #LucyHasLanded",
         "createdAt": "2026-10-29T12:14:00-05:00",
         "replies": []
       },
       {
         "who": "bette",
-        "text": "I'VE STARTED IT THREE TIMES.",
+        "text": "I'VE STARTED IT THREE TIMES. #Darling",
         "createdAt": "2026-10-29T12:18:00-05:00",
         "replies": []
       },
@@ -2063,12 +2063,12 @@
   {
     "id": "contemporary-duck-social-policy-20261030",
     "who": "duck",
-    "text": "NOTICE:\n\nResidents are reminded that statements made on Chirp may be retained as part of the permanent municipal record.\n\nPlease exercise appropriate discretion.",
+    "text": "NOTICE:\n\nResidents are reminded that statements made on Chirp may be retained as part of the permanent municipal record.\n\nPlease exercise appropriate discretion.\n\n#MunicipalNotice #PleaseReadCarefully",
     "createdAt": "2026-10-30T08:35:00-05:00",
     "replies": [
       {
         "who": "cecil",
-        "text": "Does this include photographs?",
+        "text": "Does this include photographs? #StandardsCheerfullyDisregarded",
         "createdAt": "2026-10-30T08:40:00-05:00",
         "replies": []
       },
@@ -2092,7 +2092,7 @@
       },
       {
         "who": "cecil",
-        "text": "Define tasteful.",
+        "text": "Define tasteful. #StandardsCheerfullyDisregarded",
         "createdAt": "2026-10-30T08:50:00-05:00",
         "replies": []
       },
@@ -2108,55 +2108,55 @@
     "id": "penelope-history-20261005-1",
     "who": "penelope",
     "createdAt": "2026-10-05T09:16:00-05:00",
-    "text": "A writer must know the difference between tension and inconvenience.\n\nTension: two lovers separated by circumstance.\n\nInconvenience: the lighthouse keeper has misplaced the only key to the lighthouse.\n\nNaturally, my next chapter contains both.",
+    "text": "A writer must know the difference between tension and inconvenience.\n\nTension: two lovers separated by circumstance.\n\nInconvenience: the lighthouse keeper has misplaced the only key to the lighthouse.\n\nNaturally, my next chapter contains both.\n\n#WritersOfGnomeville",
     "replies": []
   },
   {
     "id": "penelope-history-20261008-2",
     "who": "penelope",
     "createdAt": "2026-10-08T18:42:00-05:00",
-    "text": "A question for my darling readers: when a heroine says she never wishes to see the captain again, do you believe her?\n\nNeither do I. 💋",
+    "text": "A question for my darling readers: when a heroine says she never wishes to see the captain again, do you believe her?\n\nNeither do I. 💋\n\n#MaritimeRomance",
     "replies": []
   },
   {
     "id": "penelope-history-20261011-3",
     "who": "penelope",
     "createdAt": "2026-10-11T10:24:00-05:00",
-    "text": "Sunday writing advice: give your characters something to want, something to fear, and at least one spectacularly ill-timed arrival at the docks.",
+    "text": "Sunday writing advice: give your characters something to want, something to fear, and at least one spectacularly ill-timed arrival at the docks.\n\n#AmWriting #SlowBurn",
     "replies": []
   },
   {
     "id": "penelope-history-20261015-4",
     "who": "penelope",
     "createdAt": "2026-10-15T16:08:00-05:00",
-    "text": "The Seaman's Secret remains a personal favorite. Not because of the storm, the scandal, or the midnight confession.\n\nBecause sometimes the bravest thing a person can do is stay.",
+    "text": "The Seaman's Secret remains a personal favorite. Not because of the storm, the scandal, or the midnight confession.\n\nBecause sometimes the bravest thing a person can do is stay.\n\n#RomanceAdvice #SmallGestures",
     "replies": []
   },
   {
     "id": "penelope-history-20261019-5",
     "who": "penelope",
     "createdAt": "2026-10-19T08:33:00-05:00",
-    "text": "Today's manuscript contains fourteen pages of longing, one broken compass, and a misunderstanding that could be resolved with a single honest sentence.\n\nI shall not permit that sentence until chapter twenty-three.",
+    "text": "Today's manuscript contains fourteen pages of longing, one broken compass, and a misunderstanding that could be resolved with a single honest sentence.\n\nI shall not permit that sentence until chapter twenty-three.\n\n#FiftyKnotsOfDesire #AuthorLife",
     "replies": []
   },
   {
     "id": "penelope-history-20261022-6",
     "who": "penelope",
     "createdAt": "2026-10-22T20:11:00-05:00",
-    "text": "Romance tip, my darlings: never mistake a grand gesture for a kind one.\n\nA bouquet is lovely. Remembering how someone takes their tea? Devastating.",
+    "text": "Romance tip, my darlings: never mistake a grand gesture for a kind one.\n\nA bouquet is lovely. Remembering how someone takes their tea? Devastating.\n\n#WritingTips #RomanceWriting",
     "replies": []
   },
   {
     "id": "penelope-history-20261025-7",
     "who": "penelope",
     "createdAt": "2026-10-25T14:03:00-05:00",
-    "text": "Someone has asked whether the nautical terminology in Fifty Knots of Desire is technically accurate.\n\nI assure you, every knot was tied with the utmost care.",
+    "text": "Someone has asked whether the nautical terminology in Fifty Knots of Desire is technically accurate.\n\nI assure you, every knot was tied with the utmost care.\n\n#TheCaptainsForbiddenPort #BookRecommendation",
     "replies": []
   },
   {
     "id": "archive-2026-0112-ollie-1",
     "who": "ollie",
-    "text": "The library has acquired a new pencil sharpener. Please do not interpret this as permission to borrow the pencils.",
+    "text": "The library has acquired a new pencil sharpener. Please do not interpret this as permission to borrow the pencils.\n\n#GnomevilleLibrary #LibraryNotice",
     "createdAt": "2026-01-12T08:18:00-06:00",
     "replies": [
       {
@@ -2187,7 +2187,7 @@
     "replies": [
       {
         "who": "bette",
-        "text": "DARLING, YOU NEED A NAPKIN.",
+        "text": "DARLING, YOU NEED A NAPKIN. #BetteMoorecock",
         "createdAt": "2026-01-24T09:17:00-06:00",
         "replies": []
       },
@@ -2254,7 +2254,7 @@
   {
     "id": "archive-2026-0227-hankswanson-5",
     "who": "hankswanson",
-    "text": "As former interim mayor, I would like to remind the public that I remain available for ceremonial ribbon cuttings.",
+    "text": "As former interim mayor, I would like to remind the public that I remain available for ceremonial ribbon cuttings.\n\n#FormerInterimMayor #RibbonCutting",
     "createdAt": "2026-02-27T15:22:00-06:00",
     "replies": [
       {
@@ -2271,7 +2271,7 @@
       },
       {
         "who": "duck",
-        "text": "Please do not cut municipal property without authorization.",
+        "text": "Please do not cut municipal property without authorization. #OfficialNotice",
         "createdAt": "2026-02-27T15:40:00-06:00",
         "replies": []
       }
@@ -2306,7 +2306,7 @@
   {
     "id": "archive-2026-0317-tony-7",
     "who": "tony",
-    "text": "Available for birthdays, anniversaries, and tasteful porch performances. Requests accepted. Volume negotiable.",
+    "text": "Available for birthdays, anniversaries, and tasteful porch performances. Requests accepted. Volume negotiable.\n\n#LiveMusic #BookingsOpen",
     "createdAt": "2026-03-17T11:35:00-05:00",
     "replies": [
       {
@@ -2415,7 +2415,7 @@
     "replies": [
       {
         "who": "gnomevillepd",
-        "text": "Please stop posting about the ongoing investigation.",
+        "text": "Please stop posting about the ongoing investigation. #GnomevillePD",
         "createdAt": "2026-05-02T14:14:00-05:00",
         "replies": []
       },
@@ -2467,7 +2467,7 @@
     "replies": [
       {
         "who": "bette",
-        "text": "I FEEL PERSONALLY ADDRESSED.",
+        "text": "I FEEL PERSONALLY ADDRESSED. #GlamourIsNotOptional",
         "createdAt": "2026-05-29T20:16:00-05:00",
         "replies": []
       },
@@ -2638,12 +2638,12 @@
   {
     "id": "archive-2026-0815-vlad-20",
     "who": "vlad",
-    "text": "Professional reminder: proper skeletal posture begins with an awareness of one's center of gravity. Slouching is not a personality.",
+    "text": "Professional reminder: proper skeletal posture begins with an awareness of one's center of gravity. Slouching is not a personality.\n\n#PosthumousPosture #ProfessionalStandards",
     "createdAt": "2026-08-15T14:36:00-05:00",
     "replies": [
       {
         "who": "cecil",
-        "text": "SOME OF US ARE ARTISTS.",
+        "text": "SOME OF US ARE ARTISTS. #StandardsCheerfullyDisregarded",
         "createdAt": "2026-08-15T14:42:00-05:00",
         "replies": []
       },
@@ -2768,7 +2768,7 @@
   {
     "id": "archive-2026-0924-sal-25",
     "who": "sal",
-    "text": "The next time somebody says 'just a small gathering,' I would like that phrase defined in writing.",
+    "text": "The next time somebody says 'just a small gathering,' I would like that phrase defined in writing.\n\n#CrowdSurfing #FlamingoLife",
     "createdAt": "2026-09-24T09:05:00-05:00",
     "replies": [
       {
@@ -2779,7 +2779,7 @@
       },
       {
         "who": "bette",
-        "text": "IT WAS INTIMATE.",
+        "text": "IT WAS INTIMATE. #Darling",
         "createdAt": "2026-09-24T09:17:00-05:00",
         "replies": []
       },
