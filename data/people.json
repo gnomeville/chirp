@@ -312,5 +312,23 @@
     "bio": "Gnomeville resident. Appreciates a good bonfire. Would appreciate snacks more.",
     "verified": false,
     "location": "Gnomeville"
+  },
+  "slimshady": {
+    "name": "Slim Shady",
+    "handle": "SlimShady",
+    "avatar": "🎧",
+    "bio": "Gnomeville porch-rave DJ and remix enthusiast."
+  },
+  "vinnie": {
+    "name": "Vinnie the Flamingo",
+    "handle": "VinnieFlamingo",
+    "avatar": "🦩",
+    "bio": "Bookkeeping duties. Sunglasses at night."
+  },
+  "sal": {
+    "name": "Sal the Flamingo",
+    "handle": "SalFlamingo",
+    "avatar": "🦩",
+    "bio": "Flamingo and ambitious crowd-surfer. Not Salty Pete."
   }
 }
