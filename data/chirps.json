@@ -1617,5 +1617,149 @@
         "replies": []
       }
     ]
+  },
+  {
+    "id": "archive-dec2025-dear-sparklebottom",
+    "who": "lena",
+    "createdAt": "2025-12-18T10:15:00-06:00",
+    "text": "Darling, the holiday edition of Dear Sparklebottom is out!\n\nRemember: Nice is a state of mind. Naughty is a branding opportunity.",
+    "replies": [
+      {
+        "who": "bette",
+        "text": "FINALLY. Someone understands marketing.",
+        "createdAt": "2025-12-18T10:22:00-06:00",
+        "replies": []
+      },
+      {
+        "who": "duck",
+        "text": "The municipality does not recognize \"festively neutral\" as an official behavioral classification.",
+        "createdAt": "2025-12-18T10:28:00-06:00",
+        "replies": []
+      },
+      {
+        "who": "lena",
+        "text": "Darling, that's why nobody invites the municipality to parties.",
+        "createdAt": "2025-12-18T10:31:00-06:00",
+        "replies": []
+      },
+      {
+        "who": "duck",
+        "text": "This statement is under review.",
+        "createdAt": "2025-12-18T10:34:00-06:00",
+        "replies": []
+      },
+      {
+        "who": "bette",
+        "text": "Put that on a Christmas card.",
+        "createdAt": "2025-12-18T10:36:00-06:00",
+        "replies": []
+      }
+    ]
+  },
+  {
+    "id": "archive-dec2025-holiday-extravaganza",
+    "who": "lena",
+    "createdAt": "2025-12-20T23:08:00-06:00",
+    "text": "Thank you to everyone who attended tonight's Holiday Extravaganza!\n\nA reminder that the Pink Flamingo GentleGnomes Club is not responsible for misplaced monocles, forgotten anniversaries, or sudden changes in marital expectations.",
+    "replies": [
+      {
+        "who": "bette",
+        "text": "DARLING! MAGNIFICENT! THE FEATHERS! THE LIGHTING! THE LEGS!",
+        "createdAt": "2025-12-20T23:14:00-06:00",
+        "replies": []
+      },
+      {
+        "who": "tony",
+        "text": "Good show.",
+        "createdAt": "2025-12-20T23:17:00-06:00",
+        "replies": []
+      },
+      {
+        "who": "bette",
+        "text": "TONY. You slept through the second half.",
+        "createdAt": "2025-12-20T23:19:00-06:00",
+        "replies": []
+      },
+      {
+        "who": "tony",
+        "text": "Good nap.",
+        "createdAt": "2025-12-20T23:21:00-06:00",
+        "replies": []
+      },
+      {
+        "who": "lena",
+        "text": "A satisfied customer is a satisfied customer.",
+        "createdAt": "2025-12-20T23:24:00-06:00",
+        "replies": []
+      },
+      {
+        "who": "duck",
+        "text": "An inspector has requested a second viewing for documentation purposes.",
+        "createdAt": "2025-12-20T23:32:00-06:00",
+        "replies": []
+      },
+      {
+        "who": "bette",
+        "text": "OF COURSE HE HAS. 💋",
+        "createdAt": "2025-12-20T23:35:00-06:00",
+        "replies": []
+      }
+    ]
+  },
+  {
+    "id": "archive-dec2025-ornament-investigation",
+    "who": "stabler",
+    "createdAt": "2025-12-23T08:42:00-06:00",
+    "text": "Reminder: If you witness suspicious activity involving holiday decorations, report it.\n\nDo not attempt to investigate independently.",
+    "replies": [
+      {
+        "who": "captainnutters",
+        "text": "Define suspicious.",
+        "createdAt": "2025-12-23T08:47:00-06:00",
+        "replies": []
+      },
+      {
+        "who": "stabler",
+        "text": "You know exactly what I mean.",
+        "createdAt": "2025-12-23T08:49:00-06:00",
+        "replies": []
+      },
+      {
+        "who": "captainnutters",
+        "text": "No idea what you're talking about.",
+        "createdAt": "2025-12-23T08:52:00-06:00",
+        "replies": []
+      },
+      {
+        "who": "benson",
+        "text": "Captain, we've received three complaints about missing ornaments.",
+        "createdAt": "2025-12-23T08:56:00-06:00",
+        "replies": []
+      },
+      {
+        "who": "captainnutters",
+        "text": "Have you checked the tree?",
+        "createdAt": "2025-12-23T08:58:00-06:00",
+        "replies": []
+      },
+      {
+        "who": "stabler",
+        "text": "We're checking your tree.",
+        "createdAt": "2025-12-23T09:01:00-06:00",
+        "replies": []
+      },
+      {
+        "who": "captainnutters",
+        "text": "I would like a lawyer.",
+        "createdAt": "2025-12-23T09:03:00-06:00",
+        "replies": []
+      },
+      {
+        "who": "shirley",
+        "text": "I am unavailable.",
+        "createdAt": "2025-12-23T09:07:00-06:00",
+        "replies": []
+      }
+    ]
   }
 ]
