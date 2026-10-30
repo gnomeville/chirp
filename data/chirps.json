@@ -72,11 +72,20 @@
     "replies": [
       {
         "who": "toni",
-        "text": "You do not have a paw to stand on."
+        "text": "You do not have a paw to stand on.",
+        "id": "legacy-c003-0"
       },
       {
         "who": "milo",
-        "text": "OBJECTION. I HAVE FOUR."
+        "text": "OBJECTION. I HAVE FOUR.",
+        "id": "legacy-c003-1"
+      },
+      {
+        "id": "reply-a6edc955-5f12-4961-b768-cc56f9282a23",
+        "who": "liza",
+        "text": "BESTIEEEEEE!",
+        "createdAt": "2026-10-30T00:04:24.084Z",
+        "replies": []
       }
     ]
   },
