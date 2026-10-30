@@ -1400,7 +1400,15 @@
         "who": "saltypete",
         "text": "Lotsa words to jus ta say \"nope. wasn't me\".",
         "createdAt": "2026-10-30T15:10:26.761Z",
-        "replies": []
+        "replies": [
+          {
+            "id": "reply-f0e221b1-94e5-4ed9-b07b-4c7151f05ccd",
+            "who": "lucy",
+            "text": "The lady doth protest too much, eh Pete?",
+            "createdAt": "2026-10-30T15:12:38.984Z",
+            "replies": []
+          }
+        ]
       }
     ]
   },
