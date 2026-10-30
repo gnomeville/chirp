@@ -1939,5 +1939,169 @@
         "replies": []
       }
     ]
+  },
+  {
+    "id": "contemporary-freddie-tour-20261026",
+    "who": "freddie",
+    "text": "Greetings from the road!\n\nThree venues booked. Two cancellations. One strongly worded letter from a fire marshal.\n\nThe tour is going splendidly.",
+    "createdAt": "2026-10-26T10:02:00-05:00",
+    "replies": [
+      {
+        "who": "duck",
+        "text": "Please provide documentation confirming that the venues were authorized to host open flames.",
+        "createdAt": "2026-10-26T10:09:00-05:00",
+        "replies": []
+      },
+      {
+        "who": "freddie",
+        "text": "They were when I arrived.",
+        "createdAt": "2026-10-26T10:12:00-05:00",
+        "replies": []
+      },
+      {
+        "who": "duck",
+        "text": "That is not documentation.",
+        "createdAt": "2026-10-26T10:16:00-05:00",
+        "replies": []
+      },
+      {
+        "who": "freddie",
+        "text": "It's eyewitness testimony.",
+        "createdAt": "2026-10-26T10:19:00-05:00",
+        "replies": []
+      },
+      {
+        "who": "shirley",
+        "text": "Freddie, stop posting.",
+        "createdAt": "2026-10-26T10:23:00-05:00",
+        "replies": []
+      }
+    ]
+  },
+  {
+    "id": "contemporary-penelope-writing-20261028",
+    "who": "penelope",
+    "text": "My darlings, a little advice for aspiring romance writers:\n\nNever allow your characters to confess their love in the first chapter.\n\nMake them suffer.\n\nMake them yearn.\n\nMake them stand on a windswept cliff contemplating the unbearable distance between two hearts.\n\nPreferably during a thunderstorm.",
+    "createdAt": "2026-10-28T11:07:00-05:00",
+    "replies": [
+      {
+        "who": "bette",
+        "text": "DARLING, I ADORE THIS.",
+        "createdAt": "2026-10-28T11:14:00-05:00",
+        "replies": []
+      },
+      {
+        "who": "penelope",
+        "text": "Thank you, my sweet. Though I do recommend bringing an umbrella.",
+        "createdAt": "2026-10-28T11:17:00-05:00",
+        "replies": []
+      },
+      {
+        "who": "saltypete",
+        "text": "Wind's picking up.",
+        "createdAt": "2026-10-28T11:22:00-05:00",
+        "replies": []
+      },
+      {
+        "who": "penelope",
+        "text": "Indeed, darling. The atmosphere is positively electric.",
+        "createdAt": "2026-10-28T11:25:00-05:00",
+        "replies": []
+      },
+      {
+        "who": "lucy",
+        "text": "Why are you two always talking about the weather?",
+        "createdAt": "2026-10-28T11:32:00-05:00",
+        "replies": []
+      },
+      {
+        "who": "saltypete",
+        "text": "Because it changes.",
+        "createdAt": "2026-10-28T11:35:00-05:00",
+        "replies": []
+      }
+    ]
+  },
+  {
+    "id": "contemporary-penelope-book-20261029",
+    "who": "penelope",
+    "text": "For those seeking an autumn escape, might I recommend The Captain's Forbidden Port?\n\nA lonely captain. A mysterious widow. A harbor where docking is prohibited after sunset.\n\nSome journeys are worth the risk, my darlings. 💋",
+    "createdAt": "2026-10-29T12:04:00-05:00",
+    "replies": [
+      {
+        "who": "bette",
+        "text": "I'VE READ IT THREE TIMES.",
+        "createdAt": "2026-10-29T12:11:00-05:00",
+        "replies": []
+      },
+      {
+        "who": "lucy",
+        "text": "You said you hadn't finished it.",
+        "createdAt": "2026-10-29T12:14:00-05:00",
+        "replies": []
+      },
+      {
+        "who": "bette",
+        "text": "I'VE STARTED IT THREE TIMES.",
+        "createdAt": "2026-10-29T12:18:00-05:00",
+        "replies": []
+      },
+      {
+        "who": "ollie",
+        "text": "The library would appreciate the return of its copy.",
+        "createdAt": "2026-10-29T12:24:00-05:00",
+        "replies": []
+      },
+      {
+        "who": "bette",
+        "text": "DARLING, ART CANNOT BE RUSHED.",
+        "createdAt": "2026-10-29T12:27:00-05:00",
+        "replies": []
+      }
+    ]
+  },
+  {
+    "id": "contemporary-duck-social-policy-20261030",
+    "who": "duck",
+    "text": "NOTICE:\n\nResidents are reminded that statements made on Chirp may be retained as part of the permanent municipal record.\n\nPlease exercise appropriate discretion.",
+    "createdAt": "2026-10-30T08:35:00-05:00",
+    "replies": [
+      {
+        "who": "cecil",
+        "text": "Does this include photographs?",
+        "createdAt": "2026-10-30T08:40:00-05:00",
+        "replies": []
+      },
+      {
+        "who": "duck",
+        "text": "Yes.",
+        "createdAt": "2026-10-30T08:42:00-05:00",
+        "replies": []
+      },
+      {
+        "who": "cecil",
+        "text": "Even tasteful ones?",
+        "createdAt": "2026-10-30T08:45:00-05:00",
+        "replies": []
+      },
+      {
+        "who": "webster",
+        "text": "Cecil.",
+        "createdAt": "2026-10-30T08:47:00-05:00",
+        "replies": []
+      },
+      {
+        "who": "cecil",
+        "text": "Define tasteful.",
+        "createdAt": "2026-10-30T08:50:00-05:00",
+        "replies": []
+      },
+      {
+        "who": "webster",
+        "text": "No.",
+        "createdAt": "2026-10-30T08:52:00-05:00",
+        "replies": []
+      }
+    ]
   }
 ]
