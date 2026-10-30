@@ -336,5 +336,13 @@
     "handle": "LenaSparklebottom",
     "avatar": "✨",
     "bio": "Pink Flamingo GentleGnomes Club headliner and Dear Sparklebottom columnist."
+  },
+  "penelope": {
+    "name": "Penelope Tideswell",
+    "handle": "PenelopeTideswell",
+    "avatar": "💋",
+    "bio": "Romance novelist. Collector of longing glances, dramatic weather, and inconveniently timed confessions. Writing advice and literary news.",
+    "verified": false,
+    "location": "Gnomeville"
   }
 }
