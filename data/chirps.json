@@ -1056,7 +1056,15 @@
             "who": "rook",
             "text": "Ollie, I respectfully request an itemized list of these alleged overdue books. I have been a resident for approximately twelve minutes. If one of them is titled *How to Avoid Library Fines*, I would appreciate the irony being waived.",
             "createdAt": "2026-10-29T23:59:41.624Z",
-            "replies": []
+            "replies": [
+              {
+                "id": "reply-b8c8d338-9e07-47d5-a233-acb5a9d0f4aa",
+                "who": "stabler",
+                "text": "\"I've been here approximately 12 minutes\"?\n\nThe blotter begs to differ\n\nOctober 29, 2026\n\nTrespassing\nPrivate Residence · 600 Block of Maple Lane\nA homeowner reported observing a robot and a lizard attempting to enter a locked garden shed. Officers located Rook and Tony nearby. Both denied attempting entry and stated they were “looking for a lost contact lens.” Both were released with a warning.\n\nhttps://gnomeville.github.io/Police/blotter.html\n\n#BUSTED",
+                "createdAt": "2026-10-30T00:09:37.175Z",
+                "replies": []
+              }
+            ]
           }
         ]
       },
