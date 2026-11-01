@@ -25,7 +25,15 @@
         "who": "liza",
         "text": "BESTIE!!!!!",
         "createdAt": "2026-11-01T21:52:58.290Z",
-        "replies": []
+        "replies": [
+          {
+            "id": "reply-bae9de99-2a75-4762-b266-71076e342103",
+            "who": "tiffany",
+            "text": "Liza Joy!!! 🥰🥰🥰🥰",
+            "createdAt": "2026-11-01T22:02:17.171Z",
+            "replies": []
+          }
+        ]
       },
       {
         "id": "reply-705226d8-e1ee-4889-9889-9bf1acc77dd6",
