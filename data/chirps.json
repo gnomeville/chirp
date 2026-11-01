@@ -47,7 +47,15 @@
         "who": "saltypete",
         "text": "Go away! 🖕",
         "createdAt": "2026-11-01T21:54:14.644Z",
-        "replies": []
+        "replies": [
+          {
+            "id": "reply-c773b644-776e-4c60-9493-c5aac3993098",
+            "who": "tiffany",
+            "text": "Right back atcha, Petey 🖕",
+            "createdAt": "2026-11-01T22:02:46.649Z",
+            "replies": []
+          }
+        ]
       }
     ],
     "likes": 0,
