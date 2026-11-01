@@ -1,5 +1,433 @@
 [
   {
+    "id": "november-2026-community-01",
+    "who": "tony",
+    "createdAt": "2026-11-01T14:00:00-06:00",
+    "text": "Halloween, baby. I saw two mice taller than the bandstand, a dinosaur in a feather boa, and a pizza slice asking for directions. I've worked Vegas. This town still surprises me. 🎙️🦎",
+    "replies": [
+      {
+        "id": "nov26-1-r1",
+        "who": "cavanaugh",
+        "text": "You should write a memoir.",
+        "createdAt": "2026-11-01T18:00:00-06:00",
+        "replies": [
+          {
+            "id": "nov26-1-r1-1",
+            "who": "tony",
+            "text": "Only if you promise to edit out the names.",
+            "createdAt": "2026-11-01T21:30:00-06:00"
+          }
+        ]
+      },
+      {
+        "id": "nov26-1-r2",
+        "who": "trattoria",
+        "text": "And you still made your weekend set. Grazie, Tony!",
+        "createdAt": "2026-11-01T18:07:00-06:00",
+        "replies": [
+          {
+            "id": "nov26-1-r2-1",
+            "who": "tony",
+            "text": "For Nonna? Always.",
+            "createdAt": "2026-11-01T21:30:00-06:00"
+          }
+        ]
+      },
+      {
+        "id": "nov26-1-r3",
+        "who": "bette",
+        "text": "The dinosaur wore it better than half the people I know.",
+        "createdAt": "2026-11-01T18:14:00-06:00",
+        "replies": []
+      }
+    ],
+    "likes": 113,
+    "rechirps": 18
+  },
+  {
+    "id": "november-2026-community-02",
+    "who": "milford",
+    "createdAt": "2026-11-01T14:13:00-06:00",
+    "text": "What a lovely Halloween. Buford and Hubert enjoyed seeing everyone. I'm told there were giant mice, though I must have missed them. I hope nobody made a fuss. 🎃",
+    "replies": [
+      {
+        "id": "nov26-2-r1",
+        "who": "derpy",
+        "text": "THERE WERE TWO!!!",
+        "createdAt": "2026-11-01T18:01:00-06:00",
+        "replies": []
+      },
+      {
+        "id": "nov26-2-r2",
+        "who": "birthdaymouse",
+        "text": "Please do not start another family inquiry.",
+        "createdAt": "2026-11-01T18:08:00-06:00",
+        "replies": [
+          {
+            "id": "nov26-2-r2-1",
+            "who": "milford",
+            "text": "Of course not. Everyone deserves a quiet evening.",
+            "createdAt": "2026-11-01T21:30:00-06:00"
+          }
+        ]
+      }
+    ],
+    "likes": 38,
+    "rechirps": 5
+  },
+  {
+    "id": "november-2026-community-03",
+    "who": "trattoria",
+    "createdAt": "2026-11-01T14:26:00-06:00",
+    "text": "Thank you to everyone who stopped by after Halloween festivities! The kitchen has recovered, the chairs are back where they belong, and we are still finding candy wrappers. Sunday gravy is on. 🍝",
+    "replies": [
+      {
+        "id": "nov26-3-r1",
+        "who": "tony",
+        "text": "I left my microphone, not the wrappers.",
+        "createdAt": "2026-11-01T18:02:00-06:00",
+        "replies": [
+          {
+            "id": "nov26-3-r1-1",
+            "who": "trattoria",
+            "text": "Your microphone is behind the counter. Again.",
+            "createdAt": "2026-11-01T21:30:00-06:00"
+          }
+        ]
+      },
+      {
+        "id": "nov26-3-r2",
+        "who": "nonna",
+        "text": "Nobody ate! I cooked for nothing.",
+        "createdAt": "2026-11-01T18:09:00-06:00",
+        "replies": [
+          {
+            "id": "nov26-3-r2-1",
+            "who": "nonno",
+            "text": "Carmela, every plate was empty.",
+            "createdAt": "2026-11-01T21:30:00-06:00"
+          }
+        ]
+      },
+      {
+        "id": "nov26-3-r3",
+        "who": "cecil",
+        "text": "Darling, the pasta was divine.",
+        "createdAt": "2026-11-01T18:16:00-06:00",
+        "replies": []
+      }
+    ],
+    "likes": 102,
+    "rechirps": 9
+  },
+  {
+    "id": "november-2026-community-04",
+    "who": "chateau",
+    "createdAt": "2026-11-01T14:39:00-06:00",
+    "text": "The Château extends its thanks to all who attended our autumn gatherings. Thanksgiving cellar tours are being prepared. Please note that costumes involving full-sized dinosaur tails cannot be accommodated in the tasting room. 🍇",
+    "replies": [
+      {
+        "id": "nov26-4-r1",
+        "who": "bette",
+        "text": "Is a feather boa acceptable?",
+        "createdAt": "2026-11-01T18:03:00-06:00",
+        "replies": [
+          {
+            "id": "nov26-4-r1-1",
+            "who": "chateau",
+            "text": "Provided it does not enter the glassware.",
+            "createdAt": "2026-11-01T21:30:00-06:00"
+          }
+        ]
+      },
+      {
+        "id": "nov26-4-r2",
+        "who": "tony",
+        "text": "How about a tuxedo?",
+        "createdAt": "2026-11-01T18:10:00-06:00",
+        "replies": []
+      },
+      {
+        "id": "nov26-4-r3",
+        "who": "mayor",
+        "text": "I shall inquire about the red selections.",
+        "createdAt": "2026-11-01T18:17:00-06:00",
+        "replies": [
+          {
+            "id": "nov26-4-r3-1",
+            "who": "chateau",
+            "text": "We would be delighted to welcome you, Mayor.",
+            "createdAt": "2026-11-01T21:30:00-06:00"
+          }
+        ]
+      }
+    ],
+    "likes": 27,
+    "rechirps": 15
+  },
+  {
+    "id": "november-2026-community-05",
+    "who": "tony",
+    "createdAt": "2026-11-01T15:00:00-06:00",
+    "text": "Thanksgiving gig proposal: me, a microphone, three standards and a turkey who knows how to keep time. I will not work with that talking pizza again.",
+    "replies": [
+      {
+        "id": "nov26-5-r1",
+        "who": "trattoria",
+        "text": "We have a piano. No poultry contract.",
+        "createdAt": "2026-11-01T18:04:00-06:00",
+        "replies": []
+      },
+      {
+        "id": "nov26-5-r2",
+        "who": "lucy",
+        "text": "What did the pizza DO?",
+        "createdAt": "2026-11-01T18:11:00-06:00",
+        "replies": [
+          {
+            "id": "nov26-5-r2-1",
+            "who": "tony",
+            "text": "It requested a solo.",
+            "createdAt": "2026-11-01T21:30:00-06:00"
+          }
+        ]
+      }
+    ],
+    "likes": 91,
+    "rechirps": 0
+  },
+  {
+    "id": "november-2026-community-06",
+    "who": "milford",
+    "createdAt": "2026-11-01T15:13:00-06:00",
+    "text": "A gentle reminder: Halloween decorations can come down whenever you're ready. There's no rush. Autumn is still beautiful, even when the pumpkins have had a long week.",
+    "replies": [
+      {
+        "id": "nov26-6-r1",
+        "who": "duck",
+        "text": "The Department has issued a suggested but nonbinding removal schedule.",
+        "createdAt": "2026-11-01T18:05:00-06:00",
+        "replies": []
+      },
+      {
+        "id": "nov26-6-r2",
+        "who": "gertie",
+        "text": "I rather like the pumpkins.",
+        "createdAt": "2026-11-01T18:12:00-06:00",
+        "replies": []
+      }
+    ],
+    "likes": 16,
+    "rechirps": 6
+  },
+  {
+    "id": "november-2026-community-07",
+    "who": "trattoria",
+    "createdAt": "2026-11-01T15:26:00-06:00",
+    "text": "THANKSGIVING RESERVATIONS: If your relatives are visiting, bring them hungry. If they're arguing, bring them anyway. We have enough pasta for everyone and enough patience for most. ❤️",
+    "replies": [
+      {
+        "id": "nov26-7-r1",
+        "who": "nonna",
+        "text": "Nobody leaves hungry.",
+        "createdAt": "2026-11-01T19:06:00-06:00",
+        "replies": [
+          {
+            "id": "nov26-7-r1-1",
+            "who": "nonno",
+            "text": "And nobody leaves without leftovers.",
+            "createdAt": "2026-11-01T21:30:00-06:00"
+          }
+        ]
+      },
+      {
+        "id": "nov26-7-r2",
+        "who": "tony",
+        "text": "Save me a seat near the heat vent.",
+        "createdAt": "2026-11-01T19:13:00-06:00",
+        "replies": []
+      },
+      {
+        "id": "nov26-7-r3",
+        "who": "cecil",
+        "text": "And one for my dramatic entrance?",
+        "createdAt": "2026-11-01T19:20:00-06:00",
+        "replies": [
+          {
+            "id": "nov26-7-r3-1",
+            "who": "trattoria",
+            "text": "We have a door, Cecil.",
+            "createdAt": "2026-11-01T21:30:00-06:00"
+          }
+        ]
+      }
+    ],
+    "likes": 80,
+    "rechirps": 11
+  },
+  {
+    "id": "november-2026-community-08",
+    "who": "chateau",
+    "createdAt": "2026-11-01T15:39:00-06:00",
+    "text": "An important distinction: our estate's November tasting notes describe hints of cranberry and spice. They do not describe a flamingo wearing a turkey costume, regardless of what a recent guest reported.",
+    "replies": [
+      {
+        "id": "nov26-8-r1",
+        "who": "lucy",
+        "text": "That bird has been EVERYWHERE.",
+        "createdAt": "2026-11-01T19:07:00-06:00",
+        "replies": []
+      },
+      {
+        "id": "nov26-8-r2",
+        "who": "bette",
+        "text": "The disguise is not convincing.",
+        "createdAt": "2026-11-01T19:14:00-06:00",
+        "replies": [
+          {
+            "id": "nov26-8-r2-1",
+            "who": "chateau",
+            "text": "We are unable to comment on the disguise.",
+            "createdAt": "2026-11-01T21:30:00-06:00"
+          }
+        ]
+      }
+    ],
+    "likes": 5,
+    "rechirps": 16
+  },
+  {
+    "id": "november-2026-community-09",
+    "who": "milford",
+    "createdAt": "2026-11-01T16:00:00-06:00",
+    "text": "Buford says the walking pizza was the best costume. Hubert preferred the giant chicken. I thought everyone looked wonderful. Isn't that the point? 🍂",
+    "replies": [
+      {
+        "id": "nov26-9-r1",
+        "who": "derpy",
+        "text": "I LIKED THE DINOSAURS!!!",
+        "createdAt": "2026-11-01T19:08:00-06:00",
+        "replies": [
+          {
+            "id": "nov26-9-r1-1",
+            "who": "milford",
+            "text": "They were very impressive, Derpy.",
+            "createdAt": "2026-11-01T21:30:00-06:00"
+          }
+        ]
+      },
+      {
+        "id": "nov26-9-r2",
+        "who": "birthdaymouse",
+        "text": "A sensible answer at last.",
+        "createdAt": "2026-11-01T19:15:00-06:00",
+        "replies": []
+      },
+      {
+        "id": "nov26-9-r3",
+        "who": "tony",
+        "text": "The pizza had stage presence. I'll give it that.",
+        "createdAt": "2026-11-01T19:22:00-06:00",
+        "replies": []
+      }
+    ],
+    "likes": 69,
+    "rechirps": 2
+  },
+  {
+    "id": "november-2026-community-10",
+    "who": "tony",
+    "createdAt": "2026-11-01T16:13:00-06:00",
+    "text": "The two giant mice were spotted again in conversation outside the restaurant. I offered to sing them a little something. They requested silence. Tough crowd.",
+    "replies": [
+      {
+        "id": "nov26-10-r1",
+        "who": "trattoria",
+        "text": "They were trying to read the menu.",
+        "createdAt": "2026-11-01T19:09:00-06:00",
+        "replies": [
+          {
+            "id": "nov26-10-r1-1",
+            "who": "tony",
+            "text": "The menu has no rhythm.",
+            "createdAt": "2026-11-01T21:30:00-06:00"
+          }
+        ]
+      },
+      {
+        "id": "nov26-10-r2",
+        "who": "cavanaugh",
+        "text": "A brutal review.",
+        "createdAt": "2026-11-01T19:16:00-06:00",
+        "replies": []
+      }
+    ],
+    "likes": 21,
+    "rechirps": 7
+  },
+  {
+    "id": "november-2026-community-11",
+    "who": "chateau",
+    "createdAt": "2026-11-01T16:26:00-06:00",
+    "text": "Lost property notice: one pair of novelty antlers found near the estate gates. If they belong to a flamingo, kindly have the flamingo send a representative.",
+    "replies": [
+      {
+        "id": "nov26-11-r1",
+        "who": "duck",
+        "text": "A representative must present Form A-NTLR.",
+        "createdAt": "2026-11-01T19:10:00-06:00",
+        "replies": []
+      },
+      {
+        "id": "nov26-11-r2",
+        "who": "bette",
+        "text": "You cannot make this up.",
+        "createdAt": "2026-11-01T19:17:00-06:00",
+        "replies": [
+          {
+            "id": "nov26-11-r2-1",
+            "who": "cecil",
+            "text": "And yet this town does, daily.",
+            "createdAt": "2026-11-01T21:30:00-06:00"
+          }
+        ]
+      }
+    ],
+    "likes": 74,
+    "rechirps": 3
+  },
+  {
+    "id": "november-2026-community-12",
+    "who": "trattoria",
+    "createdAt": "2026-11-01T16:39:00-06:00",
+    "text": "A reminder from the kitchen: Thanksgiving leftovers are a blessing, but please stop bringing your containers to the restaurant and asking us to fill them. We love you. We have limits.",
+    "replies": [
+      {
+        "id": "nov26-12-r1",
+        "who": "nonna",
+        "text": "Who said we have limits?",
+        "createdAt": "2026-11-01T19:11:00-06:00",
+        "replies": [
+          {
+            "id": "nov26-12-r1-1",
+            "who": "trattoria",
+            "text": "Nonna, please.",
+            "createdAt": "2026-11-01T21:30:00-06:00"
+          }
+        ]
+      },
+      {
+        "id": "nov26-12-r2",
+        "who": "tony",
+        "text": "I'll bring my own plate.",
+        "createdAt": "2026-11-01T19:18:00-06:00",
+        "replies": []
+      }
+    ],
+    "likes": 32,
+    "rechirps": 16
+  },
+  {
     "id": "halloween-2026-chirp-01",
     "who": "toni",
     "createdAt": "2026-11-01T09:00:00-06:00",
@@ -8,16 +436,10 @@
       {
         "who": "rook",
         "text": "The sign was an operational necessity, not a surrender."
-      },
-      {
-        "who": "duck",
-        "text": "The Department recognizes this as an emergency transition to self-service distribution."
-      },
-      {
-        "who": "cecil",
-        "text": "Darling, I call it delegating."
       }
-    ]
+    ],
+    "likes": 70,
+    "rechirps": 17
   },
   {
     "id": "halloween-2026-chirp-02",
@@ -37,7 +459,9 @@
         "who": "milo",
         "text": "I was not consulted about these visitors."
       }
-    ]
+    ],
+    "likes": 112,
+    "rechirps": 4
   },
   {
     "id": "halloween-2026-chirp-03",
@@ -48,16 +472,10 @@
       {
         "who": "benson",
         "text": "Please stop calling every costume a suspect."
-      },
-      {
-        "who": "stabler",
-        "text": "The pizza was moving."
-      },
-      {
-        "who": "shirley",
-        "text": "Movement alone does not establish probable cause."
       }
-    ]
+    ],
+    "likes": 59,
+    "rechirps": 8
   },
   {
     "id": "halloween-2026-chirp-04",
@@ -76,8 +494,14 @@
       {
         "who": "webster",
         "text": "That is not a privilege recognized by this office."
+      },
+      {
+        "who": "milford",
+        "text": "I'm glad everyone had such a lovely evening."
       }
-    ]
+    ],
+    "likes": 28,
+    "rechirps": 11
   },
   {
     "id": "halloween-2026-chirp-05",
@@ -88,16 +512,10 @@
       {
         "who": "birthdaymouse",
         "text": "I said MIGHT. Please stop inviting strangers to family dinner."
-      },
-      {
-        "who": "derpy",
-        "text": "But they were so BIG."
-      },
-      {
-        "who": "cavanaugh",
-        "text": "A most promising opening for a novel."
       }
-    ]
+    ],
+    "likes": 92,
+    "rechirps": 16
   },
   {
     "id": "halloween-2026-chirp-06",
@@ -107,7 +525,13 @@
     "replies": [
       {
         "who": "derpy",
-        "text": "I can make name tags!"
+        "text": "I can make name tags!",
+        "replies": [
+          {
+            "who": "birthdaymouse",
+            "text": "That is an excellent point. Unfortunately, it changes nothing."
+          }
+        ]
       },
       {
         "who": "duck",
@@ -116,8 +540,14 @@
       {
         "who": "birthdaymouse",
         "text": "Absolutely not."
+      },
+      {
+        "who": "duck",
+        "text": "The appropriate form is under review."
       }
-    ]
+    ],
+    "likes": 17,
+    "rechirps": 3
   },
   {
     "id": "halloween-2026-chirp-07",
@@ -128,16 +558,10 @@
       {
         "who": "derpy",
         "text": "HI!!!"
-      },
-      {
-        "who": "cecil",
-        "text": "Not you, darling. You're delightful."
-      },
-      {
-        "who": "webster",
-        "text": "Please do not make public statements about dinosaur liability."
       }
-    ]
+    ],
+    "likes": 81,
+    "rechirps": 7
   },
   {
     "id": "halloween-2026-chirp-08",
@@ -147,7 +571,13 @@
     "replies": [
       {
         "who": "lucy",
-        "text": "Some of us were trying to get home."
+        "text": "Some of us were trying to get home.",
+        "replies": [
+          {
+            "who": "bette",
+            "text": "That is an excellent point. Unfortunately, it changes nothing."
+          }
+        ]
       },
       {
         "who": "cecil",
@@ -156,8 +586,18 @@
       {
         "who": "bette",
         "text": "Finally, a critic with taste."
+      },
+      {
+        "who": "tony",
+        "text": "This town never fails to provide material."
+      },
+      {
+        "who": "milford",
+        "text": "I'm glad everyone had such a lovely evening."
       }
-    ]
+    ],
+    "likes": 50,
+    "rechirps": 10
   },
   {
     "id": "halloween-2026-chirp-09",
@@ -172,12 +612,10 @@
       {
         "who": "lucy",
         "text": "You posted about it."
-      },
-      {
-        "who": "rook",
-        "text": "Restraint is relative."
       }
-    ]
+    ],
+    "likes": 114,
+    "rechirps": 14
   },
   {
     "id": "halloween-2026-chirp-10",
@@ -196,8 +634,18 @@
       {
         "who": "cecil",
         "text": "It offered conversation. Far more valuable."
+      },
+      {
+        "who": "chateau",
+        "text": "Our staff respectfully declines to speculate."
+      },
+      {
+        "who": "duck",
+        "text": "The appropriate form is under review."
       }
-    ]
+    ],
+    "likes": 13,
+    "rechirps": 2
   },
   {
     "id": "halloween-2026-chirp-11",
@@ -212,12 +660,10 @@
       {
         "who": "milo",
         "text": "I would like to chair the committee."
-      },
-      {
-        "who": "duck",
-        "text": "Your application has been eaten."
       }
-    ]
+    ],
+    "likes": 66,
+    "rechirps": 17
   },
   {
     "id": "halloween-2026-chirp-12",
@@ -236,8 +682,18 @@
       {
         "who": "milo",
         "text": "There is no treat inventory. That is the complaint."
+      },
+      {
+        "who": "tony",
+        "text": "This town never fails to provide material."
+      },
+      {
+        "who": "milford",
+        "text": "I'm glad everyone had such a lovely evening."
       }
-    ]
+    ],
+    "likes": 24,
+    "rechirps": 11
   },
   {
     "id": "halloween-2026-chirp-13",
@@ -247,17 +703,21 @@
     "replies": [
       {
         "who": "cecil",
-        "text": "What if they're wearing extra cheese?"
+        "text": "What if they're wearing extra cheese?",
+        "replies": [
+          {
+            "who": "shirley",
+            "text": "That is an excellent point. Unfortunately, it changes nothing."
+          }
+        ]
       },
       {
         "who": "webster",
         "text": "Still no."
-      },
-      {
-        "who": "lucy",
-        "text": "Please put this in writing."
       }
-    ]
+    ],
+    "likes": 77,
+    "rechirps": 7
   },
   {
     "id": "halloween-2026-chirp-14",
@@ -276,8 +736,14 @@
       {
         "who": "duck",
         "text": "The marital-status disclosure form is available at City Hall."
+      },
+      {
+        "who": "duck",
+        "text": "The appropriate form is under review."
       }
-    ]
+    ],
+    "likes": 108,
+    "rechirps": 4
   },
   {
     "id": "halloween-2026-chirp-15",
@@ -288,16 +754,10 @@
       {
         "who": "rook",
         "text": "A thorough investigation of the available evidence."
-      },
-      {
-        "who": "cecil",
-        "text": "That child has management potential."
-      },
-      {
-        "who": "duck",
-        "text": "The excavation was not licensed."
       }
-    ]
+    ],
+    "likes": 44,
+    "rechirps": 18
   },
   {
     "id": "halloween-2026-chirp-16",
@@ -307,7 +767,13 @@
     "replies": [
       {
         "who": "benson",
-        "text": "We are not opening a candy dispute unit."
+        "text": "We are not opening a candy dispute unit.",
+        "replies": [
+          {
+            "who": "gnomevillepd",
+            "text": "That is an excellent point. Unfortunately, it changes nothing."
+          }
+        ]
       },
       {
         "who": "stabler",
@@ -316,8 +782,18 @@
       {
         "who": "shirley",
         "text": "Please delete 'yet.'"
+      },
+      {
+        "who": "milford",
+        "text": "I'm glad everyone had such a lovely evening."
+      },
+      {
+        "who": "trattoria",
+        "text": "Everyone is welcome for a warm meal."
       }
-    ]
+    ],
+    "likes": 2,
+    "rechirps": 13
   },
   {
     "id": "halloween-2026-chirp-17",
@@ -328,16 +804,10 @@
       {
         "who": "gnomevillepd",
         "text": "Report received. Species classification pending."
-      },
-      {
-        "who": "gertie",
-        "text": "The child was very small. Larry was very optimistic."
-      },
-      {
-        "who": "duck",
-        "text": "Inventory forms have been dispatched."
       }
-    ]
+    ],
+    "likes": 55,
+    "rechirps": 8
   },
   {
     "id": "halloween-2026-chirp-18",
@@ -348,16 +818,10 @@
       {
         "who": "gnomevillepd",
         "text": "Then why was the solar panel detached?"
-      },
-      {
-        "who": "captainpeanuts",
-        "text": "Stress testing."
-      },
-      {
-        "who": "shirley",
-        "text": "Please stop posting without your attorney."
       }
-    ]
+    ],
+    "likes": 57,
+    "rechirps": 0
   },
   {
     "id": "halloween-2026-chirp-19",
@@ -367,7 +831,13 @@
     "replies": [
       {
         "who": "cecil",
-        "text": "The presentation was grotesque. A triumph."
+        "text": "The presentation was grotesque. A triumph.",
+        "replies": [
+          {
+            "who": "twistedsisters",
+            "text": "That is an excellent point. Unfortunately, it changes nothing."
+          }
+        ]
       },
       {
         "who": "liza",
@@ -376,8 +846,14 @@
       {
         "who": "milo",
         "text": "Were there chicken portions set aside for management?"
+      },
+      {
+        "who": "tony",
+        "text": "This town never fails to provide material."
       }
-    ]
+    ],
+    "likes": 110,
+    "rechirps": 14
   },
   {
     "id": "halloween-2026-chirp-20",
@@ -388,16 +864,10 @@
       {
         "who": "webster",
         "text": "Please do not direct inquiries to yourself."
-      },
-      {
-        "who": "liza",
-        "text": "I checked on Bowser."
-      },
-      {
-        "who": "cecil",
-        "text": "And the dog remains more emotionally stable than City Hall."
       }
-    ]
+    ],
+    "likes": 20,
+    "rechirps": 11
   },
   {
     "id": "halloween-2026-chirp-21",
@@ -416,8 +886,14 @@
       {
         "who": "cavanaugh",
         "text": "I regret submitting the record."
+      },
+      {
+        "who": "tony",
+        "text": "This town never fails to provide material."
       }
-    ]
+    ],
+    "likes": 84,
+    "rechirps": 16
   },
   {
     "id": "halloween-2026-chirp-22",
@@ -428,16 +904,10 @@
       {
         "who": "derpy",
         "text": "DINOSAURS!!!"
-      },
-      {
-        "who": "birthdaymouse",
-        "text": "Please use your indoor voice."
-      },
-      {
-        "who": "cecil",
-        "text": "Darling, there is no indoor voice on Halloween."
       }
-    ]
+    ],
+    "likes": 31,
+    "rechirps": 1
   },
   {
     "id": "halloween-2026-chirp-23",
@@ -447,7 +917,13 @@
     "replies": [
       {
         "who": "lucy",
-        "text": "Leave the poor bird alone."
+        "text": "Leave the poor bird alone.",
+        "replies": [
+          {
+            "who": "bette",
+            "text": "That is an excellent point. Unfortunately, it changes nothing."
+          }
+        ]
       },
       {
         "who": "cecil",
@@ -456,8 +932,18 @@
       {
         "who": "duck",
         "text": "Seasonal costume permits overlap by thirty days."
+      },
+      {
+        "who": "trattoria",
+        "text": "Everyone is welcome for a warm meal."
+      },
+      {
+        "who": "chateau",
+        "text": "Our staff respectfully declines to speculate."
       }
-    ]
+    ],
+    "likes": 95,
+    "rechirps": 5
   },
   {
     "id": "halloween-2026-chirp-24",
@@ -472,12 +958,10 @@
       {
         "who": "mayor",
         "text": "The Mayor's Office endorses this sentiment in principle."
-      },
-      {
-        "who": "duck",
-        "text": "In-principle endorsements are nonbinding."
       }
-    ]
+    ],
+    "likes": 42,
+    "rechirps": 10
   },
   {
     "id": "halloween-2026-chirp-25",
@@ -496,8 +980,18 @@
       {
         "who": "cecil",
         "text": "What an exhausting town."
+      },
+      {
+        "who": "duck",
+        "text": "The appropriate form is under review."
+      },
+      {
+        "who": "tony",
+        "text": "This town never fails to provide material."
       }
-    ]
+    ],
+    "likes": 106,
+    "rechirps": 14
   },
   {
     "id": "halloween-2026-chirp-26",
@@ -507,17 +1001,21 @@
     "replies": [
       {
         "who": "toni",
-        "text": "Exactly!"
+        "text": "Exactly!",
+        "replies": [
+          {
+            "who": "honeybaby",
+            "text": "That is an excellent point. Unfortunately, it changes nothing."
+          }
+        ]
       },
       {
         "who": "duck",
         "text": "The sugar budget has submitted a formal resignation."
-      },
-      {
-        "who": "bette",
-        "text": "Tell it to come back for Christmas."
       }
-    ]
+    ],
+    "likes": 53,
+    "rechirps": 0
   },
   {
     "id": "halloween-2026-chirp-27",
@@ -528,16 +1026,10 @@
       {
         "who": "shirley",
         "text": "For once we agree."
-      },
-      {
-        "who": "cecil",
-        "text": "I have seventeen follow-up questions."
-      },
-      {
-        "who": "webster",
-        "text": "Of course you do."
       }
-    ]
+    ],
+    "likes": 117,
+    "rechirps": 4
   },
   {
     "id": "bonesy-arrival-2026",
@@ -577,7 +1069,9 @@
         "who": "rook",
         "text": "👀"
       }
-    ]
+    ],
+    "likes": 77,
+    "rechirps": 5
   },
   {
     "id": "c001",
@@ -592,7 +1086,9 @@
         "who": "cecil",
         "text": "Shirley, dear, I thought you WERE the Municipal Standards Board. How many hats can one woman wear before we call it a circus? #StandardsCheerfullyDisregarded"
       }
-    ]
+    ],
+    "likes": 31,
+    "rechirps": 12
   },
   {
     "id": "c002",
@@ -603,7 +1099,9 @@
         "who": "cecil",
         "text": "You had me at 'please.' Lost me at everything else."
       }
-    ]
+    ],
+    "likes": 106,
+    "rechirps": 6
   },
   {
     "id": "c003",
@@ -628,7 +1126,9 @@
         "replies": [],
         "source": "composer"
       }
-    ]
+    ],
+    "likes": 42,
+    "rechirps": 2
   },
   {
     "id": "c004",
@@ -639,7 +1139,9 @@
         "who": "cecil",
         "text": "Darling, the rack has more followers than the mayor. #StandardsCheerfullyDisregarded"
       }
-    ]
+    ],
+    "likes": 73,
+    "rechirps": 18
   },
   {
     "id": "c005",
@@ -650,7 +1152,9 @@
         "who": "milo",
         "text": "THIS IS HARASSMENT."
       }
-    ]
+    ],
+    "likes": 9,
+    "rechirps": 13
   },
   {
     "id": "c006",
@@ -661,7 +1165,9 @@
         "who": "duck",
         "text": "Form GZ-0 is currently unavailable. #OfficialNotice"
       }
-    ]
+    ],
+    "likes": 84,
+    "rechirps": 7
   },
   {
     "id": "c007",
@@ -672,7 +1178,9 @@
         "who": "milo",
         "text": "Are the squirrels represented? Asking for a friend."
       }
-    ]
+    ],
+    "likes": 20,
+    "rechirps": 3
   },
   {
     "id": "c008",
@@ -683,7 +1191,9 @@
         "who": "duck",
         "text": "Please submit beverage approval form 6-C."
       }
-    ]
+    ],
+    "likes": 51,
+    "rechirps": 0
   },
   {
     "id": "c009",
@@ -694,7 +1204,9 @@
         "who": "webster",
         "text": "Please stop describing food preparation in your deposition."
       }
-    ]
+    ],
+    "likes": 104,
+    "rechirps": 15
   },
   {
     "id": "c010",
@@ -705,7 +1217,9 @@
         "who": "lucy",
         "text": "Sounds like voter suppression to me."
       }
-    ]
+    ],
+    "likes": 88,
+    "rechirps": 7
   },
   {
     "id": "c011",
@@ -716,7 +1230,9 @@
         "who": "toni",
         "text": "Request denied."
       }
-    ]
+    ],
+    "likes": 35,
+    "rechirps": 12
   },
   {
     "id": "c012",
@@ -731,7 +1247,9 @@
         "who": "duck",
         "text": "Absolutely not without a permit."
       }
-    ]
+    ],
+    "likes": 77,
+    "rechirps": 18
   },
   {
     "id": "c013",
@@ -742,13 +1260,17 @@
         "who": "shirley",
         "text": "This is your final warning."
       }
-    ]
+    ],
+    "likes": 24,
+    "rechirps": 3
   },
   {
     "id": "c014",
     "who": "lucy",
     "text": "I am not 'late.' The occasion started before I arrived. That's its problem.\n\n#FashionablyOnTime #LucyHasLanded",
-    "replies": []
+    "replies": [],
+    "likes": 110,
+    "rechirps": 6
   },
   {
     "id": "c015",
@@ -759,7 +1281,9 @@
         "who": "duck",
         "text": "It is filed under contingency beverages. #OfficialNotice"
       }
-    ]
+    ],
+    "likes": 57,
+    "rechirps": 11
   },
   {
     "id": "cecil101",
@@ -774,7 +1298,9 @@
         "who": "cecil",
         "text": "Oh, Shirley. You do take all the fun out of ambiguity."
       }
-    ]
+    ],
+    "likes": 110,
+    "rechirps": 12
   },
   {
     "id": "cecil102",
@@ -791,7 +1317,9 @@
       }
     ],
     "image": "assets/cecil-wedding-cake.jpg",
-    "alt": "Cecil poses beside an extravagantly decorated ivory-and-gold multi-tier wedding cake adorned with burgundy and blush roses at an elegant reception."
+    "alt": "Cecil poses beside an extravagantly decorated ivory-and-gold multi-tier wedding cake adorned with burgundy and blush roses at an elegant reception.",
+    "likes": 68,
+    "rechirps": 6
   },
   {
     "id": "cecil103",
@@ -806,7 +1334,9 @@
         "who": "cecil",
         "text": "I know. It was deliberate."
       }
-    ]
+    ],
+    "likes": 4,
+    "rechirps": 1
   },
   {
     "id": "cecil104",
@@ -821,7 +1351,9 @@
         "who": "cecil",
         "text": "And yet it has more personality than the entire committee. #StandardsCheerfullyDisregarded"
       }
-    ]
+    ],
+    "likes": 79,
+    "rechirps": 15
   },
   {
     "id": "cecil105",
@@ -836,7 +1368,9 @@
         "who": "cecil",
         "text": "Then neither does your discount, darling."
       }
-    ]
+    ],
+    "likes": 15,
+    "rechirps": 10
   },
   {
     "id": "cecil106",
@@ -851,7 +1385,9 @@
         "who": "cecil",
         "text": "Then you should stop reading my account for evidence, dear. #StandardsCheerfullyDisregarded"
       }
-    ]
+    ],
+    "likes": 90,
+    "rechirps": 5
   },
   {
     "id": "cecil107",
@@ -866,7 +1402,9 @@
         "who": "cecil",
         "text": "Make it twelve, darling. I am not a municipal spreadsheet."
       }
-    ]
+    ],
+    "likes": 26,
+    "rechirps": 0
   },
   {
     "id": "cecil-pinned",
@@ -892,7 +1430,9 @@
         "replies": [],
         "source": "composer"
       }
-    ]
+    ],
+    "likes": 17,
+    "rechirps": 17
   },
   {
     "id": "webster-breathing",
@@ -911,14 +1451,18 @@
         "who": "cecil",
         "text": "AND I'VE NEVER FELT BETTER. #StandardsCheerfullyDisregarded"
       }
-    ]
+    ],
+    "likes": 69,
+    "rechirps": 11
   },
   {
     "id": "cecil-cakephoto",
     "who": "cecil",
     "text": "The bride requested something understated. I declined.\n\n#UnderstatedIsOverrated #CakeDecorating",
     "image": "assets/cecil-wedding-cake.jpg",
-    "alt": "Cecil poses beside an extravagantly decorated ivory-and-gold multi-tier wedding cake adorned with burgundy and blush roses at an elegant reception."
+    "alt": "Cecil poses beside an extravagantly decorated ivory-and-gold multi-tier wedding cake adorned with burgundy and blush roses at an elegant reception.",
+    "likes": 87,
+    "rechirps": 3
   },
   {
     "id": "webster-counsel",
@@ -929,7 +1473,9 @@
         "who": "cecil",
         "text": "And you wear it beautifully, darling."
       }
-    ]
+    ],
+    "likes": 9,
+    "rechirps": 3
   },
   {
     "id": "cecil-websterphoto",
@@ -954,7 +1500,9 @@
         "who": "cecil",
         "text": "From Chirp or your head?"
       }
-    ]
+    ],
+    "likes": 74,
+    "rechirps": 1
   },
   {
     "id": "webster-retainer",
@@ -965,7 +1513,9 @@
         "who": "cecil",
         "text": "Then the legal profession ought to choose less delicious terminology. #StandardsCheerfullyDisregarded"
       }
-    ]
+    ],
+    "likes": 54,
+    "rechirps": 18
   },
   {
     "id": "webster-list",
@@ -980,7 +1530,9 @@
         "who": "cecil",
         "text": "Darling, nobody likes a show-off."
       }
-    ]
+    ],
+    "likes": 51,
+    "rechirps": 5
   },
   {
     "id": "webster-gender-reveal",
@@ -1001,7 +1553,9 @@
       }
     ],
     "image": "assets/cecil-gender-reveal.jpg",
-    "alt": "A pink-and-blue gender reveal cake exploding midair at an elegant reception, with Cecil’s skull and a formally dressed Webster nearby."
+    "alt": "A pink-and-blue gender reveal cake exploding midair at an elegant reception, with Cecil’s skull and a formally dressed Webster nearby.",
+    "likes": 75,
+    "rechirps": 17
   },
   {
     "id": "webster-ceremony",
@@ -1020,27 +1574,37 @@
         "who": "webster",
         "text": "Timing is also a consideration."
       }
-    ]
+    ],
+    "likes": 115,
+    "rechirps": 9
   },
   {
     "id": "webster-allegations",
     "who": "webster",
-    "text": "I have reviewed the allegations against my client.\n\nThey are substantially accurate.\n\nFortunately, accuracy is not the sole consideration in litigation."
+    "text": "I have reviewed the allegations against my client.\n\nThey are substantially accurate.\n\nFortunately, accuracy is not the sole consideration in litigation.",
+    "likes": 67,
+    "rechirps": 5
   },
   {
     "id": "webster-opposing-counsel",
     "who": "webster",
-    "text": "Opposing counsel described my argument as unnecessarily aggressive.\n\nI reminded him that he was welcome to withdraw his objection at any time.\n\nHe did."
+    "text": "Opposing counsel described my argument as unnecessarily aggressive.\n\nI reminded him that he was welcome to withdraw his objection at any time.\n\nHe did.",
+    "likes": 14,
+    "rechirps": 15
   },
   {
     "id": "webster-court",
     "who": "webster",
-    "text": "A courtroom is not a stage. I have explained this to my client. He has requested better lighting."
+    "text": "A courtroom is not a stage. I have explained this to my client. He has requested better lighting.",
+    "likes": 43,
+    "rechirps": 16
   },
   {
     "id": "webster-public-statement",
     "who": "webster",
-    "text": "For the avoidance of doubt: Mr. Glowbones does not speak on behalf of counsel. He frequently speaks over counsel."
+    "text": "For the avoidance of doubt: Mr. Glowbones does not speak on behalf of counsel. He frequently speaks over counsel.",
+    "likes": 52,
+    "rechirps": 10
   },
   {
     "id": "mayor-pinned",
@@ -1056,7 +1620,9 @@
         "who": "lucy",
         "text": "Is that the audit with the wine stains?"
       }
-    ]
+    ],
+    "likes": 78,
+    "rechirps": 2
   },
   {
     "id": "mayor-committee",
@@ -1087,7 +1653,9 @@
         "who": "mayor",
         "text": "WHO INVITED THE SKULL? #AdministrativeCrisis"
       }
-    ]
+    ],
+    "likes": 92,
+    "rechirps": 12
   },
   {
     "id": "mayor-winegate",
@@ -1106,7 +1674,9 @@
         "who": "lucy",
         "text": "The cabinet is vintage. I have photographs."
       }
-    ]
+    ],
+    "likes": 116,
+    "rechirps": 10
   },
   {
     "id": "mayor-ribbon",
@@ -1121,7 +1691,9 @@
         "who": "duck",
         "text": "Digital ribbon authorization is a separate form."
       }
-    ]
+    ],
+    "likes": 7,
+    "rechirps": 10
   },
   {
     "id": "mayor-portrait",
@@ -1138,7 +1710,9 @@
       }
     ],
     "image": "assets/mayor-avatar.jpg",
-    "alt": "Official portrait of Mayor Thimblewick in a burgundy suit"
+    "alt": "Official portrait of Mayor Thimblewick in a burgundy suit",
+    "likes": 94,
+    "rechirps": 13
   },
   {
     "id": "mayor-office",
@@ -1155,7 +1729,9 @@
       }
     ],
     "image": "assets/mayor-office.jpg",
-    "alt": "Mayor Thimblewick at his desk in Gnomeville Town Hall"
+    "alt": "Mayor Thimblewick at his desk in Gnomeville Town Hall",
+    "likes": 101,
+    "rechirps": 3
   },
   {
     "id": "mayor-census",
@@ -1170,7 +1746,9 @@
         "who": "duck",
         "text": "Census appeals must be submitted in triplicate. #OfficialNotice"
       }
-    ]
+    ],
+    "likes": 91,
+    "rechirps": 4
   },
   {
     "id": "mayor-press",
@@ -1187,7 +1765,9 @@
       }
     ],
     "image": "assets/gnomeville-seal.png",
-    "alt": "Gnomeville municipal seal"
+    "alt": "Gnomeville municipal seal",
+    "likes": 16,
+    "rechirps": 11
   },
   {
     "id": "duck-17b",
@@ -1202,7 +1782,9 @@
         "who": "webster",
         "text": "The mayor’s awareness is not a substitute for filing."
       }
-    ]
+    ],
+    "likes": 116,
+    "rechirps": 1
   },
   {
     "id": "cecil-luncheon",
@@ -1223,7 +1805,9 @@
       }
     ],
     "image": "assets/cecil-mayoral-luncheon.jpg",
-    "alt": "Mayor Thimblewick raises red wine beside Cecil and Webster in a municipal banquet hall, with two bottles of Château Gnomeville and a deep-green tiered cake behind them."
+    "alt": "Mayor Thimblewick raises red wine beside Cecil and Webster in a municipal banquet hall, with two bottles of Château Gnomeville and a deep-green tiered cake behind them.",
+    "likes": 52,
+    "rechirps": 7
   },
   {
     "id": "lucy-mayor",
@@ -1238,7 +1822,9 @@
         "who": "lucy",
         "text": "It was a ribbon cutting."
       }
-    ]
+    ],
+    "likes": 9,
+    "rechirps": 5
   },
   {
     "id": "cecil-sponsored-glamour",
@@ -1255,7 +1841,9 @@
         "who": "cecil",
         "text": "Darling, the hips are insured."
       }
-    ]
+    ],
+    "likes": 110,
+    "rechirps": 12
   },
   {
     "id": "cecil-everyday-glamour",
@@ -1272,7 +1860,9 @@
         "who": "cecil",
         "text": "Only after I disputed the knee surcharge. #StandardsCheerfullyDisregarded"
       }
-    ]
+    ],
+    "likes": 75,
+    "rechirps": 15
   },
   {
     "id": "cecil-quality-control",
@@ -1289,7 +1879,9 @@
         "who": "cecil",
         "text": "It's called DELEGATION."
       }
-    ]
+    ],
+    "likes": 43,
+    "rechirps": 13
   },
   {
     "id": "cecil-one-cake",
@@ -1304,7 +1896,9 @@
         "who": "webster",
         "text": "This response is not a denial."
       }
-    ]
+    ],
+    "likes": 100,
+    "rechirps": 4
   },
   {
     "id": "cecil-different-pearls",
@@ -1323,7 +1917,9 @@
         "who": "cecil",
         "text": "Different pearls. #StandardsCheerfullyDisregarded"
       }
-    ]
+    ],
+    "likes": 82,
+    "rechirps": 4
   },
   {
     "id": "mayor-luncheon-statement",
@@ -1344,7 +1940,9 @@
         "who": "duck",
         "text": "Please submit itemized receipts on Form 17B."
       }
-    ]
+    ],
+    "likes": 77,
+    "rechirps": 4
   },
   {
     "id": "phase1-01",
@@ -1359,7 +1957,9 @@
         "who": "shirley",
         "text": "My client reserves the right to challenge the definition of countertop."
       }
-    ]
+    ],
+    "likes": 31,
+    "rechirps": 17
   },
   {
     "id": "phase1-02",
@@ -1374,7 +1974,9 @@
         "who": "duck",
         "text": "Your error has been received and assigned a tracking number."
       }
-    ]
+    ],
+    "likes": 106,
+    "rechirps": 11
   },
   {
     "id": "phase1-03",
@@ -1389,7 +1991,9 @@
         "who": "lucy",
         "text": "And some of us have seen an actual archive. #Receipts"
       }
-    ]
+    ],
+    "likes": 42,
+    "rechirps": 7
   },
   {
     "id": "phase1-04",
@@ -1404,7 +2008,9 @@
         "who": "cecil",
         "text": "Only one glass? How very restrained. #StandardsCheerfullyDisregarded"
       }
-    ]
+    ],
+    "likes": 117,
+    "rechirps": 1
   },
   {
     "id": "phase1-05",
@@ -1419,7 +2025,9 @@
         "who": "cecil",
         "text": "You see? Always interrupting."
       }
-    ]
+    ],
+    "likes": 53,
+    "rechirps": 16
   },
   {
     "id": "phase1-06",
@@ -1434,7 +2042,9 @@
         "who": "milo",
         "text": "Objection. I saw it myself."
       }
-    ]
+    ],
+    "likes": 11,
+    "rechirps": 10
   },
   {
     "id": "phase1-07",
@@ -1449,7 +2059,9 @@
         "who": "webster",
         "text": "Please do not count my correspondence as a threat."
       }
-    ]
+    ],
+    "likes": 64,
+    "rechirps": 6
   },
   {
     "id": "phase1-08",
@@ -1464,7 +2076,9 @@
         "who": "cecil",
         "text": "An inspiringly unverifiable claim. #StandardsCheerfullyDisregarded"
       }
-    ]
+    ],
+    "likes": 51,
+    "rechirps": 5
   },
   {
     "id": "phase1-09",
@@ -1479,7 +2093,9 @@
         "who": "shirley",
         "text": "We will discuss that privately."
       }
-    ]
+    ],
+    "likes": 104,
+    "rechirps": 1
   },
   {
     "id": "phase1-10",
@@ -1494,14 +2110,18 @@
         "who": "webster",
         "text": "That is not what I said."
       }
-    ]
+    ],
+    "likes": 88,
+    "rechirps": 13
   },
   {
     "id": "live-eda93cb7-e717-40db-a8ed-7493c7dec80c",
     "who": "duck",
     "text": "The Department of Digital Communications is pleased to announce that its new publishing system is operational.\n\nNo one has yet determined who authorized this.\n\n#MunicipalAffairs",
     "replies": [],
-    "source": "composer"
+    "source": "composer",
+    "likes": 8,
+    "rechirps": 4
   },
   {
     "id": "live-beacdc77-fa18-4b79-9f09-b08e616f2312",
@@ -1524,7 +2144,9 @@
         ]
       }
     ],
-    "source": "composer"
+    "source": "composer",
+    "likes": 6,
+    "rechirps": 18
   },
   {
     "id": "live-form-c17-20261029",
@@ -1577,7 +2199,9 @@
         ]
       }
     ],
-    "source": "composer"
+    "source": "composer",
+    "likes": 62,
+    "rechirps": 1
   },
   {
     "id": "live-rook-first-post-20261029",
@@ -1651,7 +2275,9 @@
         "source": "composer"
       }
     ],
-    "source": "composer"
+    "source": "composer",
+    "likes": 79,
+    "rechirps": 11
   },
   {
     "id": "live-honeybaby-intro-20261029",
@@ -1659,7 +2285,9 @@
     "text": "Hi.\n\nDerpy has a Birthday Mouse.\n\nHe's very little.\n\nI love him. 💙",
     "createdAt": "2026-10-29T23:46:57.323Z",
     "replies": [],
-    "source": "composer"
+    "source": "composer",
+    "likes": 117,
+    "rechirps": 8
   },
   {
     "id": "police-launch-20261029-1",
@@ -1697,7 +2325,9 @@
           }
         ]
       }
-    ]
+    ],
+    "likes": 103,
+    "rechirps": 8
   },
   {
     "id": "police-launch-20261029-2",
@@ -1735,7 +2365,9 @@
           }
         ]
       }
-    ]
+    ],
+    "likes": 28,
+    "rechirps": 14
   },
   {
     "id": "police-launch-20261029-3",
@@ -1773,7 +2405,9 @@
           }
         ]
       }
-    ]
+    ],
+    "likes": 92,
+    "rechirps": 18
   },
   {
     "id": "police-launch-20261029-4",
@@ -1803,7 +2437,9 @@
         "createdAt": "2026-10-30T00:03:23.845Z",
         "replies": []
       }
-    ]
+    ],
+    "likes": 17,
+    "rechirps": 5
   },
   {
     "id": "police-launch-20261029-5",
@@ -1833,7 +2469,9 @@
         "createdAt": "2026-10-30T00:03:23.845Z",
         "replies": []
       }
-    ]
+    ],
+    "likes": 81,
+    "rechirps": 10
   },
   {
     "id": "police-launch-20261029-6",
@@ -1871,7 +2509,9 @@
           }
         ]
       }
-    ]
+    ],
+    "likes": 6,
+    "rechirps": 15
   },
   {
     "id": "police-launch-20261029-7",
@@ -1894,7 +2534,9 @@
           }
         ]
       }
-    ]
+    ],
+    "likes": 70,
+    "rechirps": 1
   },
   {
     "id": "police-launch-20261029-8",
@@ -1917,7 +2559,9 @@
           }
         ]
       }
-    ]
+    ],
+    "likes": 83,
+    "rechirps": 1
   },
   {
     "id": "police-launch-20261029-9",
@@ -1940,7 +2584,9 @@
           }
         ]
       }
-    ]
+    ],
+    "likes": 30,
+    "rechirps": 6
   },
   {
     "id": "rook-twelve-minute-defense-20261029",
@@ -1965,7 +2611,9 @@
         ],
         "source": "composer"
       }
-    ]
+    ],
+    "likes": 71,
+    "rechirps": 3
   },
   {
     "id": "archive-nov2025-mayor-explosions",
@@ -1997,7 +2645,9 @@
         "createdAt": "2025-11-06T10:31:00-06:00",
         "replies": []
       }
-    ]
+    ],
+    "likes": 93,
+    "rechirps": 4
   },
   {
     "id": "archive-nov2025-pit-of-fire-reviews",
@@ -2035,7 +2685,9 @@
         "createdAt": "2025-11-12T19:08:00-06:00",
         "replies": []
       }
-    ]
+    ],
+    "likes": 91,
+    "rechirps": 7
   },
   {
     "id": "archive-nov2025-pawpaw-hat",
@@ -2067,7 +2719,9 @@
         "createdAt": "2025-11-21T11:41:00-06:00",
         "replies": []
       }
-    ]
+    ],
+    "likes": 31,
+    "rechirps": 9
   },
   {
     "id": "archive-dec2025-porch-rave",
@@ -2111,7 +2765,9 @@
         "createdAt": "2025-12-05T00:58:00-06:00",
         "replies": []
       }
-    ]
+    ],
+    "likes": 22,
+    "rechirps": 8
   },
   {
     "id": "archive-dec2025-tony-bette-rumors",
@@ -2155,7 +2811,9 @@
         "createdAt": "2025-12-09T11:29:00-06:00",
         "replies": []
       }
-    ]
+    ],
+    "likes": 57,
+    "rechirps": 13
   },
   {
     "id": "archive-dec2025-three-santas",
@@ -2187,7 +2845,9 @@
         "createdAt": "2025-12-16T09:24:00-06:00",
         "replies": []
       }
-    ]
+    ],
+    "likes": 14,
+    "rechirps": 2
   },
   {
     "id": "archive-dec2025-dear-sparklebottom",
@@ -2225,7 +2885,9 @@
         "createdAt": "2025-12-18T10:36:00-06:00",
         "replies": []
       }
-    ]
+    ],
+    "likes": 12,
+    "rechirps": 1
   },
   {
     "id": "archive-dec2025-holiday-extravaganza",
@@ -2275,7 +2937,9 @@
         "createdAt": "2025-12-20T23:35:00-06:00",
         "replies": []
       }
-    ]
+    ],
+    "likes": 71,
+    "rechirps": 13
   },
   {
     "id": "archive-dec2025-ornament-investigation",
@@ -2331,7 +2995,9 @@
         "createdAt": "2025-12-23T09:07:00-06:00",
         "replies": []
       }
-    ]
+    ],
+    "likes": 2,
+    "rechirps": 11
   },
   {
     "id": "archive-dec2025-missing-santa",
@@ -2387,7 +3053,9 @@
         "createdAt": "2025-12-24T09:16:00-06:00",
         "replies": []
       }
-    ]
+    ],
+    "likes": 78,
+    "rechirps": 15
   },
   {
     "id": "archive-dec2025-music-complaint",
@@ -2431,7 +3099,9 @@
         "createdAt": "2025-12-24T05:29:00-06:00",
         "replies": []
       }
-    ]
+    ],
+    "likes": 82,
+    "rechirps": 4
   },
   {
     "id": "archive-dec2025-christmas-cookies",
@@ -2493,7 +3163,9 @@
         "createdAt": "2025-12-25T09:52:00-06:00",
         "replies": []
       }
-    ]
+    ],
+    "likes": 36,
+    "rechirps": 18
   },
   {
     "id": "contemporary-freddie-tour-20261026",
@@ -2531,7 +3203,9 @@
         "createdAt": "2026-10-26T10:23:00-05:00",
         "replies": []
       }
-    ]
+    ],
+    "likes": 83,
+    "rechirps": 14
   },
   {
     "id": "contemporary-penelope-writing-20261028",
@@ -2575,7 +3249,9 @@
         "createdAt": "2026-10-28T11:35:00-05:00",
         "replies": []
       }
-    ]
+    ],
+    "likes": 3,
+    "rechirps": 15
   },
   {
     "id": "contemporary-penelope-book-20261029",
@@ -2613,7 +3289,9 @@
         "createdAt": "2026-10-29T12:27:00-05:00",
         "replies": []
       }
-    ]
+    ],
+    "likes": 80,
+    "rechirps": 16
   },
   {
     "id": "contemporary-duck-social-policy-20261030",
@@ -2657,56 +3335,72 @@
         "createdAt": "2026-10-30T08:52:00-05:00",
         "replies": []
       }
-    ]
+    ],
+    "likes": 36,
+    "rechirps": 5
   },
   {
     "id": "penelope-history-20261005-1",
     "who": "penelope",
     "createdAt": "2026-10-05T09:16:00-05:00",
     "text": "A writer must know the difference between tension and inconvenience.\n\nTension: two lovers separated by circumstance.\n\nInconvenience: the lighthouse keeper has misplaced the only key to the lighthouse.\n\nNaturally, my next chapter contains both.\n\n#WritersOfGnomeville",
-    "replies": []
+    "replies": [],
+    "likes": 75,
+    "rechirps": 12
   },
   {
     "id": "penelope-history-20261008-2",
     "who": "penelope",
     "createdAt": "2026-10-08T18:42:00-05:00",
     "text": "A question for my darling readers: when a heroine says she never wishes to see the captain again, do you believe her?\n\nNeither do I. 💋\n\n#MaritimeRomance",
-    "replies": []
+    "replies": [],
+    "likes": 98,
+    "rechirps": 13
   },
   {
     "id": "penelope-history-20261011-3",
     "who": "penelope",
     "createdAt": "2026-10-11T10:24:00-05:00",
     "text": "Sunday writing advice: give your characters something to want, something to fear, and at least one spectacularly ill-timed arrival at the docks.\n\n#AmWriting #SlowBurn",
-    "replies": []
+    "replies": [],
+    "likes": 6,
+    "rechirps": 9
   },
   {
     "id": "penelope-history-20261015-4",
     "who": "penelope",
     "createdAt": "2026-10-15T16:08:00-05:00",
     "text": "The Seaman's Secret remains a personal favorite. Not because of the storm, the scandal, or the midnight confession.\n\nBecause sometimes the bravest thing a person can do is stay.\n\n#RomanceAdvice #SmallGestures",
-    "replies": []
+    "replies": [],
+    "likes": 44,
+    "rechirps": 9
   },
   {
     "id": "penelope-history-20261019-5",
     "who": "penelope",
     "createdAt": "2026-10-19T08:33:00-05:00",
     "text": "Today's manuscript contains fourteen pages of longing, one broken compass, and a misunderstanding that could be resolved with a single honest sentence.\n\nI shall not permit that sentence until chapter twenty-three.\n\n#FiftyKnotsOfDesire #AuthorLife",
-    "replies": []
+    "replies": [],
+    "likes": 9,
+    "rechirps": 1
   },
   {
     "id": "penelope-history-20261022-6",
     "who": "penelope",
     "createdAt": "2026-10-22T20:11:00-05:00",
     "text": "Romance tip, my darlings: never mistake a grand gesture for a kind one.\n\nA bouquet is lovely. Remembering how someone takes their tea? Devastating.\n\n#WritingTips #RomanceWriting",
-    "replies": []
+    "replies": [],
+    "likes": 43,
+    "rechirps": 15
   },
   {
     "id": "penelope-history-20261025-7",
     "who": "penelope",
     "createdAt": "2026-10-25T14:03:00-05:00",
     "text": "Someone has asked whether the nautical terminology in Fifty Knots of Desire is technically accurate.\n\nI assure you, every knot was tied with the utmost care.\n\n#TheCaptainsForbiddenPort #BookRecommendation",
-    "replies": []
+    "replies": [],
+    "likes": 103,
+    "rechirps": 11
   },
   {
     "id": "archive-2026-0112-ollie-1",
@@ -2732,7 +3426,9 @@
         "createdAt": "2026-01-12T08:36:00-06:00",
         "replies": []
       }
-    ]
+    ],
+    "likes": 16,
+    "rechirps": 7
   },
   {
     "id": "archive-2026-0124-cavanaugh-2",
@@ -2752,7 +3448,9 @@
         "createdAt": "2026-01-24T09:23:00-06:00",
         "replies": []
       }
-    ]
+    ],
+    "likes": 55,
+    "rechirps": 5
   },
   {
     "id": "archive-2026-0203-derpy-3",
@@ -2778,7 +3476,9 @@
         "createdAt": "2026-02-03T12:24:00-06:00",
         "replies": []
       }
-    ]
+    ],
+    "likes": 69,
+    "rechirps": 1
   },
   {
     "id": "archive-2026-0214-birthdaymouse-4",
@@ -2804,7 +3504,9 @@
         "createdAt": "2026-02-14T19:02:00-06:00",
         "replies": []
       }
-    ]
+    ],
+    "likes": 24,
+    "rechirps": 3
   },
   {
     "id": "archive-2026-0227-hankswanson-5",
@@ -2830,7 +3532,9 @@
         "createdAt": "2026-02-27T15:40:00-06:00",
         "replies": []
       }
-    ]
+    ],
+    "likes": 76,
+    "rechirps": 2
   },
   {
     "id": "archive-2026-0308-gertie-6",
@@ -2856,7 +3560,9 @@
         "createdAt": "2026-03-08T07:59:00-05:00",
         "replies": []
       }
-    ]
+    ],
+    "likes": 10,
+    "rechirps": 2
   },
   {
     "id": "archive-2026-0317-tony-7",
@@ -2882,7 +3588,9 @@
         "createdAt": "2026-03-17T11:53:00-05:00",
         "replies": []
       }
-    ]
+    ],
+    "likes": 37,
+    "rechirps": 17
   },
   {
     "id": "archive-2026-0328-bruce-8",
@@ -2908,7 +3616,9 @@
         "createdAt": "2026-03-28T13:20:00-05:00",
         "replies": []
       }
-    ]
+    ],
+    "likes": 74,
+    "rechirps": 10
   },
   {
     "id": "archive-2026-0406-pawpaw-9",
@@ -2934,7 +3644,9 @@
         "createdAt": "2026-04-06T10:36:00-05:00",
         "replies": []
       }
-    ]
+    ],
+    "likes": 79,
+    "rechirps": 4
   },
   {
     "id": "archive-2026-0419-eugene-10",
@@ -2960,7 +3672,9 @@
         "createdAt": "2026-04-19T16:49:00-05:00",
         "replies": []
       }
-    ]
+    ],
+    "likes": 114,
+    "rechirps": 9
   },
   {
     "id": "archive-2026-0502-captainpeanuts-11",
@@ -2986,7 +3700,9 @@
         "createdAt": "2026-05-02T14:26:00-05:00",
         "replies": []
       }
-    ]
+    ],
+    "likes": 27,
+    "rechirps": 10
   },
   {
     "id": "archive-2026-0516-captainnutters-12",
@@ -3012,7 +3728,9 @@
         "createdAt": "2026-05-16T10:12:00-05:00",
         "replies": []
       }
-    ]
+    ],
+    "likes": 58,
+    "rechirps": 1
   },
   {
     "id": "archive-2026-0529-helga-13",
@@ -3032,7 +3750,9 @@
         "createdAt": "2026-05-29T20:22:00-05:00",
         "replies": []
       }
-    ]
+    ],
+    "likes": 84,
+    "rechirps": 16
   },
   {
     "id": "archive-2026-0609-rocky-14",
@@ -3058,7 +3778,9 @@
         "createdAt": "2026-06-09T08:42:00-05:00",
         "replies": []
       }
-    ]
+    ],
+    "likes": 10,
+    "rechirps": 12
   },
   {
     "id": "archive-2026-0620-rudy-15",
@@ -3084,7 +3806,9 @@
         "createdAt": "2026-06-20T17:35:00-05:00",
         "replies": []
       }
-    ]
+    ],
+    "likes": 3,
+    "rechirps": 12
   },
   {
     "id": "archive-2026-0703-francine-16",
@@ -3110,7 +3834,9 @@
         "createdAt": "2026-07-03T10:00:00-05:00",
         "replies": []
       }
-    ]
+    ],
+    "likes": 101,
+    "rechirps": 0
   },
   {
     "id": "archive-2026-0714-theo-17",
@@ -3136,7 +3862,9 @@
         "createdAt": "2026-07-14T12:38:00-05:00",
         "replies": []
       }
-    ]
+    ],
+    "likes": 14,
+    "rechirps": 9
   },
   {
     "id": "archive-2026-0725-angela-18",
@@ -3162,7 +3890,9 @@
         "createdAt": "2026-07-25T18:23:00-05:00",
         "replies": []
       }
-    ]
+    ],
+    "likes": 50,
+    "rechirps": 12
   },
   {
     "id": "archive-2026-0804-carol-19",
@@ -3188,7 +3918,9 @@
         "createdAt": "2026-08-04T11:34:00-05:00",
         "replies": []
       }
-    ]
+    ],
+    "likes": 26,
+    "rechirps": 16
   },
   {
     "id": "archive-2026-0815-vlad-20",
@@ -3214,7 +3946,9 @@
         "createdAt": "2026-08-15T14:54:00-05:00",
         "replies": []
       }
-    ]
+    ],
+    "likes": 75,
+    "rechirps": 9
   },
   {
     "id": "archive-2026-0823-liza-21",
@@ -3240,7 +3974,9 @@
         "createdAt": "2026-08-23T10:25:00-05:00",
         "replies": []
       }
-    ]
+    ],
+    "likes": 81,
+    "rechirps": 6
   },
   {
     "id": "archive-2026-0902-daisy-22",
@@ -3266,7 +4002,9 @@
         "createdAt": "2026-09-02T08:11:00-05:00",
         "replies": []
       }
-    ]
+    ],
+    "likes": 109,
+    "rechirps": 13
   },
   {
     "id": "archive-2026-0910-simon-23",
@@ -3292,7 +4030,9 @@
         "createdAt": "2026-09-10T19:30:00-05:00",
         "replies": []
       }
-    ]
+    ],
+    "likes": 67,
+    "rechirps": 6
   },
   {
     "id": "archive-2026-0917-bonesy-24",
@@ -3318,7 +4058,9 @@
         "createdAt": "2026-09-17T13:44:00-05:00",
         "replies": []
       }
-    ]
+    ],
+    "likes": 57,
+    "rechirps": 12
   },
   {
     "id": "archive-2026-0924-sal-25",
@@ -3344,7 +4086,9 @@
         "createdAt": "2026-09-24T09:23:00-05:00",
         "replies": []
       }
-    ]
+    ],
+    "likes": 111,
+    "rechirps": 17
   },
   {
     "id": "archive-2026-0930-milo-26",
@@ -3370,7 +4114,9 @@
         "createdAt": "2026-09-30T15:56:00-05:00",
         "replies": []
       }
-    ]
+    ],
+    "likes": 90,
+    "rechirps": 17
   },
   {
     "id": "cecil-italian-scissors-20261030",
@@ -3402,7 +4148,9 @@
         "createdAt": "2026-10-30T11:12:00-05:00",
         "replies": []
       }
-    ]
+    ],
+    "likes": 10,
+    "rechirps": 5
   },
   {
     "id": "twisted-sisters-2025-05-24-1",
@@ -3428,7 +4176,9 @@
         "createdAt": "2025-05-24T12:22:00-05:00",
         "replies": []
       }
-    ]
+    ],
+    "likes": 49,
+    "rechirps": 4
   },
   {
     "id": "twisted-sisters-2025-06-13-2",
@@ -3448,7 +4198,9 @@
         "createdAt": "2025-06-13T12:18:00-05:00",
         "replies": []
       }
-    ]
+    ],
+    "likes": 113,
+    "rechirps": 17
   },
   {
     "id": "twisted-sisters-2025-07-08-3",
@@ -3468,7 +4220,9 @@
         "createdAt": "2025-07-08T12:18:00-05:00",
         "replies": []
       }
-    ]
+    ],
+    "likes": 68,
+    "rechirps": 9
   },
   {
     "id": "twisted-sisters-2025-08-21-4",
@@ -3488,7 +4242,9 @@
         "createdAt": "2025-08-21T12:18:00-05:00",
         "replies": []
       }
-    ]
+    ],
+    "likes": 12,
+    "rechirps": 13
   },
   {
     "id": "twisted-sisters-2025-09-17-5",
@@ -3514,7 +4270,9 @@
         "createdAt": "2025-09-17T12:22:00-05:00",
         "replies": []
       }
-    ]
+    ],
+    "likes": 94,
+    "rechirps": 8
   },
   {
     "id": "twisted-sisters-2025-10-31-6",
@@ -3534,7 +4292,9 @@
         "createdAt": "2025-10-31T12:18:00-05:00",
         "replies": []
       }
-    ]
+    ],
+    "likes": 33,
+    "rechirps": 17
   },
   {
     "id": "twisted-sisters-2025-12-15-7",
@@ -3554,7 +4314,9 @@
         "createdAt": "2025-12-15T12:18:00-06:00",
         "replies": []
       }
-    ]
+    ],
+    "likes": 57,
+    "rechirps": 11
   },
   {
     "id": "twisted-sisters-2026-02-14-8",
@@ -3574,7 +4336,9 @@
         "createdAt": "2026-02-14T12:18:00-06:00",
         "replies": []
       }
-    ]
+    ],
+    "likes": 8,
+    "rechirps": 10
   },
   {
     "id": "twisted-sisters-2026-04-01-9",
@@ -3594,7 +4358,9 @@
         "createdAt": "2026-04-01T12:18:00-05:00",
         "replies": []
       }
-    ]
+    ],
+    "likes": 56,
+    "rechirps": 1
   },
   {
     "id": "twisted-sisters-2026-06-22-10",
@@ -3620,7 +4386,9 @@
         "createdAt": "2026-06-22T12:22:00-05:00",
         "replies": []
       }
-    ]
+    ],
+    "likes": 22,
+    "rechirps": 5
   },
   {
     "id": "twisted-sisters-2026-08-12-11",
@@ -3640,7 +4408,9 @@
         "createdAt": "2026-08-12T12:18:00-05:00",
         "replies": []
       }
-    ]
+    ],
+    "likes": 37,
+    "rechirps": 10
   },
   {
     "id": "twisted-sisters-2026-10-18-12",
@@ -3666,7 +4436,9 @@
         "createdAt": "2026-10-18T12:22:00-05:00",
         "replies": []
       }
-    ]
+    ],
+    "likes": 70,
+    "rechirps": 13
   },
   {
     "id": "twisted-sisters-2026-10-30-13",
@@ -3698,7 +4470,9 @@
         "createdAt": "2026-10-30T12:26:00-05:00",
         "replies": []
       }
-    ]
+    ],
+    "likes": 38,
+    "rechirps": 4
   },
   {
     "id": "milford-homecoming-2026",
@@ -3778,7 +4552,9 @@
         "createdAt": "2026-10-16T11:12:00-05:00",
         "replies": []
       }
-    ]
+    ],
+    "likes": 29,
+    "rechirps": 14
   },
   {
     "id": "bette-milford-welcome-2026",
@@ -3798,7 +4574,9 @@
         "createdAt": "2026-10-16T11:30:00-05:00",
         "replies": []
       }
-    ]
+    ],
+    "likes": 41,
+    "rechirps": 5
   },
   {
     "id": "lucy-milford-scoop-2026",
@@ -3818,7 +4596,9 @@
         "createdAt": "2026-10-16T11:52:00-05:00",
         "replies": []
       }
-    ]
+    ],
+    "likes": 71,
+    "rechirps": 8
   },
   {
     "id": "duck-milford-notice-2026",
@@ -3832,7 +4612,9 @@
         "createdAt": "2026-10-16T12:15:00-05:00",
         "replies": []
       }
-    ]
+    ],
+    "likes": 28,
+    "rechirps": 8
   },
   {
     "id": "milford-hubert-arrival-2026",
@@ -3882,7 +4664,9 @@
         "createdAt": "2026-10-30T13:37:00-05:00",
         "replies": []
       }
-    ]
+    ],
+    "likes": 81,
+    "rechirps": 7
   },
   {
     "id": "chateau-2025-2026-01",
@@ -3900,7 +4684,9 @@
         "who": "chateau",
         "text": "It will indeed, Ollie. We saved you a seat near the cheese board."
       }
-    ]
+    ],
+    "likes": 41,
+    "rechirps": 9
   },
   {
     "id": "chateau-2025-2026-02",
@@ -3918,7 +4704,9 @@
         "who": "chateau",
         "text": "High praise indeed, Ms. Moorecock."
       }
-    ]
+    ],
+    "likes": 94,
+    "rechirps": 4
   },
   {
     "id": "chateau-2025-2026-03",
@@ -3936,7 +4724,9 @@
         "who": "chateau",
         "text": "Thank you, Mayor. We look forward to welcoming you for a scheduled tour."
       }
-    ]
+    ],
+    "likes": 30,
+    "rechirps": 0
   },
   {
     "id": "chateau-2025-2026-04",
@@ -3954,7 +4744,9 @@
         "who": "chateau",
         "text": "Our pastry team has been briefed, Mr. Glowbones. Thoroughly."
       }
-    ]
+    ],
+    "likes": 83,
+    "rechirps": 15
   },
   {
     "id": "chateau-2025-2026-05",
@@ -3972,7 +4764,9 @@
         "who": "chateau",
         "text": "Beautifully, Ms. Lucy. Our terrace has several quiet tables."
       }
-    ]
+    ],
+    "likes": 19,
+    "rechirps": 10
   },
   {
     "id": "chateau-2025-2026-06",
@@ -3990,7 +4784,9 @@
         "who": "chateau",
         "text": "A small selection will be displayed in the conservatory. We thought you might appreciate that."
       }
-    ]
+    ],
+    "likes": 72,
+    "rechirps": 6
   },
   {
     "id": "chateau-2025-2026-07",
@@ -4008,7 +4804,9 @@
         "who": "chateau",
         "text": "We couldn't agree more."
       }
-    ]
+    ],
+    "likes": 8,
+    "rechirps": 1
   },
   {
     "id": "chateau-2025-2026-08",
@@ -4026,7 +4824,9 @@
         "who": "chateau",
         "text": "Garden formal is suggested. We trust your judgment, Mr. Glowbones."
       }
-    ]
+    ],
+    "likes": 32,
+    "rechirps": 11
   },
   {
     "id": "chateau-2025-2026-09",
@@ -4044,7 +4844,9 @@
         "who": "chateau",
         "text": "We would be honored to show you the label ledger, Ollie."
       }
-    ]
+    ],
+    "likes": 85,
+    "rechirps": 6
   },
   {
     "id": "chateau-2025-2026-10",
@@ -4062,7 +4864,9 @@
         "who": "chateau",
         "text": "We appreciate your kind words, Mayor."
       }
-    ]
+    ],
+    "likes": 98,
+    "rechirps": 5
   },
   {
     "id": "chateau-2025-2026-11",
@@ -4085,7 +4889,9 @@
         "who": "duck",
         "text": "Noted."
       }
-    ]
+    ],
+    "likes": 45,
+    "rechirps": 9
   },
   {
     "id": "chateau-2025-2026-12",
@@ -4113,7 +4919,9 @@
         "who": "chateau",
         "text": "In the gardens, yes. Please respect other guests' privacy."
       }
-    ]
+    ],
+    "likes": 109,
+    "rechirps": 13
   },
   {
     "id": "moretti-2025-26-01",
@@ -4141,7 +4949,9 @@
         "who": "cecil",
         "text": "Is there a dessert course? Asking for an entire profession."
       }
-    ]
+    ],
+    "likes": 66,
+    "rechirps": 13
   },
   {
     "id": "moretti-2025-26-02",
@@ -4169,7 +4979,9 @@
         "who": "nonna",
         "text": "You two come eat."
       }
-    ]
+    ],
+    "likes": 108,
+    "rechirps": 0
   },
   {
     "id": "moretti-2025-26-03",
@@ -4197,7 +5009,9 @@
         "who": "nonna",
         "text": "Shirley, bella, I saved you biscotti."
       }
-    ]
+    ],
+    "likes": 55,
+    "rechirps": 4
   },
   {
     "id": "moretti-2025-26-04",
@@ -4230,7 +5044,9 @@
         "who": "trattoria",
         "text": "Please contact our reservations desk. ❤️"
       }
-    ]
+    ],
+    "likes": 97,
+    "rechirps": 10
   },
   {
     "id": "moretti-2025-26-05",
@@ -4263,7 +5079,9 @@
         "who": "nonno",
         "text": "Not this again."
       }
-    ]
+    ],
+    "likes": 44,
+    "rechirps": 14
   },
   {
     "id": "moretti-2025-26-06",
@@ -4291,7 +5109,9 @@
         "who": "nonna",
         "text": "I made sixty-two. Somebody might be hungry."
       }
-    ]
+    ],
+    "likes": 86,
+    "rechirps": 1
   },
   {
     "id": "moretti-2025-26-07",
@@ -4319,7 +5139,9 @@
         "who": "nonna",
         "text": "You can have your own, sweetheart."
       }
-    ]
+    ],
+    "likes": 33,
+    "rechirps": 5
   },
   {
     "id": "moretti-2025-26-08",
@@ -4347,7 +5169,9 @@
         "who": "shirley",
         "text": "The minutes are public record, Vincent."
       }
-    ]
+    ],
+    "likes": 46,
+    "rechirps": 6
   },
   {
     "id": "moretti-2025-26-09",
@@ -4375,7 +5199,9 @@
         "who": "shirley",
         "text": "Legally persuasive."
       }
-    ]
+    ],
+    "likes": 110,
+    "rechirps": 10
   },
   {
     "id": "moretti-2025-26-10",
@@ -4403,7 +5229,9 @@
         "who": "nonna",
         "text": "Giuseppe, bring the statue inside before it rains."
       }
-    ]
+    ],
+    "likes": 33,
+    "rechirps": 10
   },
   {
     "id": "moretti-2025-26-11",
@@ -4431,7 +5259,9 @@
         "who": "paulie",
         "text": "I AM the delivery guy."
       }
-    ]
+    ],
+    "likes": 86,
+    "rechirps": 6
   },
   {
     "id": "moretti-2025-26-12",
@@ -4464,7 +5294,9 @@
         "who": "nonno",
         "text": "Beautiful place. Wrong lunch."
       }
-    ]
+    ],
+    "likes": 44,
+    "rechirps": 0
   },
   {
     "id": "moretti-2025-26-13",
@@ -4492,7 +5324,9 @@
         "who": "shirley",
         "text": "I was there for dessert. She fed me twice."
       }
-    ]
+    ],
+    "likes": 97,
+    "rechirps": 14
   },
   {
     "id": "moretti-2025-26-14",
@@ -4525,7 +5359,9 @@
         "who": "shirley",
         "text": "Thank you, Giuseppe."
       }
-    ]
+    ],
+    "likes": 55,
+    "rechirps": 9
   },
   {
     "id": "moretti-2025-26-15",
@@ -4553,7 +5389,9 @@
         "who": "paulie",
         "text": "He'll be playing cards until Tuesday."
       }
-    ]
+    ],
+    "likes": 108,
+    "rechirps": 4
   },
   {
     "id": "moretti-2025-26-16",
@@ -4586,7 +5424,9 @@
         "who": "shirley",
         "text": "Does it?"
       }
-    ]
+    ],
+    "likes": 66,
+    "rechirps": 18
   },
   {
     "id": "moretti-2025-26-17",
@@ -4619,7 +5459,9 @@
         "who": "nonna",
         "text": "Whoever took it, pick up tomatoes."
       }
-    ]
+    ],
+    "likes": 2,
+    "rechirps": 13
   },
   {
     "id": "moretti-2025-26-18",
@@ -4652,7 +5494,9 @@
         "who": "shirley",
         "text": "I'm reserving a table."
       }
-    ]
+    ],
+    "likes": 106,
+    "rechirps": 13
   },
   {
     "id": "moretti-2025-26-19",
@@ -4685,7 +5529,9 @@
         "who": "vinnie",
         "text": "THANK YOU."
       }
-    ]
+    ],
+    "likes": 42,
+    "rechirps": 8
   },
   {
     "id": "moretti-2025-26-20",
@@ -4718,7 +5564,9 @@
         "who": "vinnie",
         "text": "YOU'RE ALL MISSING THE POINT."
       }
-    ]
+    ],
+    "likes": 40,
+    "rechirps": 0
   },
   {
     "id": "moretti-2025-26-21",
@@ -4751,7 +5599,9 @@
         "who": "duck",
         "text": "Please submit seating requests in triplicate."
       }
-    ]
+    ],
+    "likes": 104,
+    "rechirps": 4
   },
   {
     "id": "moretti-2025-26-22",
@@ -4784,7 +5634,9 @@
         "who": "paulie",
         "text": "Case closed."
       }
-    ]
+    ],
+    "likes": 51,
+    "rechirps": 9
   },
   {
     "id": "moretti-2025-26-23",
@@ -4817,7 +5669,9 @@
         "who": "shirley",
         "text": "An excellent time to stop posting, Paulie."
       }
-    ]
+    ],
+    "likes": 115,
+    "rechirps": 13
   },
   {
     "id": "moretti-2025-26-24",
@@ -4850,7 +5704,9 @@
         "who": "shirley",
         "text": "I'll bring the good bread on Sunday."
       }
-    ]
+    ],
+    "likes": 18,
+    "rechirps": 1
   },
   {
     "id": "moretti-2025-26-25",
@@ -4888,7 +5744,9 @@
         "who": "nonno",
         "text": "To another hundred years."
       }
-    ]
+    ],
+    "likes": 82,
+    "rechirps": 6
   },
   {
     "id": "moretti-2025-26-26",
@@ -4921,7 +5779,9 @@
         "who": "paulie",
         "text": "Vinnie, please stop helping."
       }
-    ]
+    ],
+    "likes": 29,
+    "rechirps": 10
   },
   {
     "id": "moretti-2025-26-27",
@@ -4959,7 +5819,9 @@
         "who": "vinnie",
         "text": "FINALLY, somebody gets it."
       }
-    ]
+    ],
+    "likes": 93,
+    "rechirps": 14
   },
   {
     "id": "tony-archive-2025-26-01",
@@ -4997,7 +5859,9 @@
         "who": "tony",
         "text": "For you, maybe."
       }
-    ]
+    ],
+    "likes": 85,
+    "rechirps": 16
   },
   {
     "id": "tony-archive-2025-26-02",
@@ -5025,7 +5889,9 @@
         "who": "trattoria",
         "text": "Always a pleasure, Paw-Paw!"
       }
-    ]
+    ],
+    "likes": 21,
+    "rechirps": 12
   },
   {
     "id": "tony-archive-2025-26-03",
@@ -5053,7 +5919,9 @@
         "who": "shirley",
         "text": "I advise against answering follow-up questions."
       }
-    ]
+    ],
+    "likes": 74,
+    "rechirps": 8
   },
   {
     "id": "tony-archive-2025-26-04",
@@ -5086,7 +5954,9 @@
         "who": "nonna",
         "text": "Giuseppe, finish your soup."
       }
-    ]
+    ],
+    "likes": 54,
+    "rechirps": 1
   },
   {
     "id": "tony-archive-2025-26-05",
@@ -5114,7 +5984,9 @@
         "who": "trattoria",
         "text": "We look forward to celebrating with everyone! ❤️"
       }
-    ]
+    ],
+    "likes": 107,
+    "rechirps": 15
   },
   {
     "id": "tony-archive-2025-26-06",
@@ -5142,7 +6014,9 @@
         "who": "shirley",
         "text": "Tony, stop posting."
       }
-    ]
+    ],
+    "likes": 43,
+    "rechirps": 11
   },
   {
     "id": "tony-archive-2025-26-07",
@@ -5175,7 +6049,9 @@
         "who": "cecil",
         "text": "Will there be dessert?"
       }
-    ]
+    ],
+    "likes": 96,
+    "rechirps": 6
   },
   {
     "id": "tony-archive-2025-26-08",
@@ -5208,7 +6084,9 @@
         "who": "trattoria",
         "text": "A few dinner reservations remain for Saturday. ❤️"
       }
-    ]
+    ],
+    "likes": 105,
+    "rechirps": 5
   },
   {
     "id": "tony-archive-2025-26-09",
@@ -5241,7 +6119,9 @@
         "who": "shirley",
         "text": "No further comment."
       }
-    ]
+    ],
+    "likes": 41,
+    "rechirps": 0
   },
   {
     "id": "tony-archive-2025-26-10",
@@ -5269,7 +6149,9 @@
         "who": "tony",
         "text": "Save it for the intermission, Giuseppe."
       }
-    ]
+    ],
+    "likes": 25,
+    "rechirps": 12
   },
   {
     "id": "tony-archive-2025-26-11",
@@ -5297,7 +6179,9 @@
         "who": "gnomevillepd",
         "text": "We know you do."
       }
-    ]
+    ],
+    "likes": 89,
+    "rechirps": 17
   },
   {
     "id": "tony-archive-2025-26-12",
@@ -5330,7 +6214,9 @@
         "who": "rook",
         "text": "He really was good."
       }
-    ]
+    ],
+    "likes": 36,
+    "rechirps": 2
   },
   {
     "id": "tony-archive-2025-26-13",
@@ -5363,7 +6249,9 @@
         "who": "nonna",
         "text": "We had a balcony."
       }
-    ]
+    ],
+    "likes": 100,
+    "rechirps": 6
   },
   {
     "id": "tony-archive-2025-26-14",
@@ -5396,7 +6284,9 @@
         "who": "shirley",
         "text": "No, don't."
       }
-    ]
+    ],
+    "likes": 47,
+    "rechirps": 11
   },
   {
     "id": "tony-archive-2025-26-15",
@@ -5429,7 +6319,9 @@
         "who": "sal",
         "text": "What song is the forty-dollar one?"
       }
-    ]
+    ],
+    "likes": 111,
+    "rechirps": 15
   },
   {
     "id": "tony-archive-2025-26-16",
@@ -5462,7 +6354,9 @@
         "who": "trattoria",
         "text": "We love a family singalong! ❤️"
       }
-    ]
+    ],
+    "likes": 58,
+    "rechirps": 1
   },
   {
     "id": "tony-archive-2025-26-17",
@@ -5495,7 +6389,9 @@
         "who": "lucy",
         "text": "I got the encore on video."
       }
-    ]
+    ],
+    "likes": 5,
+    "rechirps": 5
   },
   {
     "id": "tony-archive-2025-26-18",
@@ -5528,7 +6424,9 @@
         "who": "slimshady",
         "text": "You snored in B-flat."
       }
-    ]
+    ],
+    "likes": 98,
+    "rechirps": 15
   },
   {
     "id": "tony-archive-2025-26-19",
@@ -5561,7 +6459,9 @@
         "who": "rook",
         "text": "I'll be there."
       }
-    ]
+    ],
+    "likes": 45,
+    "rechirps": 0
   },
   {
     "id": "tony-archive-2025-26-20",
@@ -5594,7 +6494,9 @@
         "who": "shirley",
         "text": "Gentlemen."
       }
-    ]
+    ],
+    "likes": 18,
+    "rechirps": 3
   },
   {
     "id": "tony-archive-2025-26-21",
@@ -5627,7 +6529,9 @@
         "who": "shirley",
         "text": "Vincent."
       }
-    ]
+    ],
+    "likes": 71,
+    "rechirps": 18
   },
   {
     "id": "tony-archive-2025-26-22",
@@ -5660,7 +6564,9 @@
         "who": "nonna",
         "text": "It was a cousin's wedding."
       }
-    ]
+    ],
+    "likes": 29,
+    "rechirps": 12
   },
   {
     "id": "tony-archive-2025-26-23",
@@ -5693,7 +6599,9 @@
         "who": "bette",
         "text": "WE DEMAND THE THIRD SET."
       }
-    ]
+    ],
+    "likes": 82,
+    "rechirps": 8
   },
   {
     "id": "tony-archive-2025-26-24",
@@ -5731,7 +6639,9 @@
         "who": "shirley",
         "text": "I'm billing both of you."
       }
-    ]
+    ],
+    "likes": 113,
+    "rechirps": 5
   },
   {
     "id": "tony-archive-2025-26-25",
@@ -5769,7 +6679,9 @@
         "who": "shirley",
         "text": "That appears unanimous."
       }
-    ]
+    ],
+    "likes": 49,
+    "rechirps": 0
   },
   {
     "id": "tony-archive-2025-26-26",
@@ -5802,7 +6714,9 @@
         "who": "lucy",
         "text": "Following."
       }
-    ]
+    ],
+    "likes": 7,
+    "rechirps": 14
   },
   {
     "id": "tony-archive-2025-26-27",
@@ -5835,27 +6749,35 @@
         "who": "trattoria",
         "text": "We'll be happy to find you a table! ❤️"
       }
-    ]
+    ],
+    "likes": 60,
+    "rechirps": 9
   },
   {
     "id": "rook-trattoria-1-2026",
     "who": "rook",
     "createdAt": "2026-04-18T16:20:00-05:00",
     "text": "Went to Trattoria della Nonna for a modest lunch. Nonna Carmela fed me three times, spotted one crumb left on the table, and declared: “Nobody ate! I cooked for nothing!”\n\nI have published my findings. I also have cannoli.\nhttps://gnomeville.github.io/rook-report.html#nonna-lunch\n\n#RookReport #TrattoriaDellaNonna",
-    "replies": []
+    "replies": [],
+    "likes": 29,
+    "rechirps": 13
   },
   {
     "id": "rook-trattoria-2-2026",
     "who": "rook",
     "createdAt": "2026-07-11T17:05:00-05:00",
     "text": "Nonno Moretti began a story with “Picture it! Naples, 1964…” Vinnie said he was from Naples too. Shirley supplied the missing word: Florida.\n\nI went for espresso and received a two-continent genealogy dispute.\nhttps://gnomeville.github.io/rook-report.html#nonno-naples\n\n#RookReport #MorettiFamily",
-    "replies": []
+    "replies": [],
+    "likes": 62,
+    "rechirps": 8
   },
   {
     "id": "rook-trattoria-3-2026",
     "who": "rook",
     "createdAt": "2026-09-19T23:10:00-05:00",
     "text": "Tony’s Saturday set at Trattoria della Nonna was genuinely superb. Sinatra, a silver microphone, and a dining room that actually stopped talking.\n\nI have written a review. It also mentions an instrument case. Shirley says I should not have done that.\nhttps://gnomeville.github.io/rook-report.html#tony-trattoria\n\n#RookReport #TonyPorchLizard",
-    "replies": []
+    "replies": [],
+    "likes": 115,
+    "rechirps": 14
   }
 ]
