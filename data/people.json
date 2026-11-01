@@ -415,5 +415,15 @@
     "following": 119,
     "followers": 4160,
     "tagline": "🍅 A century of family hospitality · Est. 1926"
+  },
+  "tiffany": {
+    "name": "Tiffany",
+    "handle": "tiffany",
+    "avatar": "💀",
+    "bio": "Gnomeville resident. Reluctant administrator of nonsense. One half of the ownership of Twisted Sisters Cafe. Chaos Coordinator. Mother to the Milo. I have no idea how any of this happened or why im responsible for it.",
+    "verified": false,
+    "location": "Gnomeville",
+    "image": "assets/tiffany-avatar.png",
+    "tagline": "💀 Chaos Coordinator · Twisted Sisters Café"
   }
 }
