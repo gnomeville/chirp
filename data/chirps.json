@@ -64,7 +64,15 @@
                         "who": "milo",
                         "text": "Uncle Bert is in my chair! Make him get out.",
                         "createdAt": "2026-11-01T22:05:02.136Z",
-                        "replies": []
+                        "replies": [
+                          {
+                            "id": "reply-7b9b6716-e5d7-4c76-974b-330155e60e84",
+                            "who": "tiffany",
+                            "text": "No.",
+                            "createdAt": "2026-11-01T22:05:17.415Z",
+                            "replies": []
+                          }
+                        ]
                       }
                     ]
                   }
