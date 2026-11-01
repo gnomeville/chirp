@@ -10,7 +10,15 @@
         "who": "daisy",
         "text": "👀",
         "createdAt": "2026-11-01T21:52:33.489Z",
-        "replies": []
+        "replies": [
+          {
+            "id": "reply-4b0760d6-2705-4d8d-8289-2b10a82e5e74",
+            "who": "tiffany",
+            "text": "Watch it lady.",
+            "createdAt": "2026-11-01T22:01:58.162Z",
+            "replies": []
+          }
+        ]
       },
       {
         "id": "reply-bd0a334b-7e0d-4d38-a1f9-56b85229637b",
