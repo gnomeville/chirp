@@ -46,7 +46,15 @@
             "who": "tiffany",
             "text": "I'm always here. Watching. \n\nYou specifically, Milo\n\n👀",
             "createdAt": "2026-11-01T22:03:34.210Z",
-            "replies": []
+            "replies": [
+              {
+                "id": "reply-14690c7c-6438-405e-a270-43ff41e388cd",
+                "who": "milo",
+                "text": "I didn't do nuffin!",
+                "createdAt": "2026-11-01T22:04:05.323Z",
+                "replies": []
+              }
+            ]
           }
         ]
       },
