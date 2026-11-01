@@ -1,5 +1,14 @@
 [
   {
+    "id": "tiffany-first-chirp-2026-11-01",
+    "who": "tiffany",
+    "createdAt": "2026-11-01T15:44:00-06:00",
+    "text": "Good gravy, who gave you people internet access!?",
+    "replies": [],
+    "likes": 0,
+    "rechirps": 0
+  },
+  {
     "id": "november-2026-community-01",
     "who": "tony",
     "createdAt": "2026-11-01T14:00:00-06:00",
