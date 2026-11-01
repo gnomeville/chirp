@@ -6893,7 +6893,15 @@
         "who": "tiffany",
         "text": "Goofy?",
         "createdAt": "2026-11-01T22:54:37.678Z",
-        "replies": []
+        "replies": [
+          {
+            "id": "reply-9484bbe5-d5dd-4fc9-87db-99690493d853",
+            "who": "milo",
+            "text": "Goopy! Can I have one? \n\n#i'macatidon'tspellgud",
+            "createdAt": "2026-11-01T22:55:55.735Z",
+            "replies": []
+          }
+        ]
       }
     ]
   }
