@@ -58,7 +58,15 @@
                     "who": "tiffany",
                     "text": "The gnomes beg to differ.",
                     "createdAt": "2026-11-01T22:04:30.118Z",
-                    "replies": []
+                    "replies": [
+                      {
+                        "id": "reply-f8f7c5e6-a4e8-4362-8b24-9e1057bd65d7",
+                        "who": "milo",
+                        "text": "Uncle Bert is in my chair! Make him get out.",
+                        "createdAt": "2026-11-01T22:05:02.136Z",
+                        "replies": []
+                      }
+                    ]
                   }
                 ]
               }
