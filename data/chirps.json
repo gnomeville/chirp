@@ -1,5 +1,545 @@
 [
   {
+    "id": "halloween-2026-chirp-01",
+    "who": "toni",
+    "createdAt": "2026-11-01T09:00:00-06:00",
+    "text": "By 6:30 the first candy bin was practically a historical artifact. By 7:30 we put out a HELP YOURSELVES sign and retreated indoors. Halloween in Gnomeville remains an endurance sport. 🧙‍♀️ #GnomevilleHalloween",
+    "replies": [
+      {
+        "who": "rook",
+        "text": "The sign was an operational necessity, not a surrender."
+      },
+      {
+        "who": "duck",
+        "text": "The Department recognizes this as an emergency transition to self-service distribution."
+      },
+      {
+        "who": "cecil",
+        "text": "Darling, I call it delegating."
+      }
+    ]
+  },
+  {
+    "id": "halloween-2026-chirp-02",
+    "who": "pawpaw",
+    "createdAt": "2026-11-01T09:13:00-06:00",
+    "text": "The public has requested photographs with me and Gertie all evening. I am available for portraits. The candy is a separate department. 💀 #PorchWatch",
+    "replies": [
+      {
+        "who": "gertie",
+        "text": "You kept turning toward the camera before anyone was ready."
+      },
+      {
+        "who": "bette",
+        "text": "A professional NEVER wastes a flashbulb."
+      },
+      {
+        "who": "milo",
+        "text": "I was not consulted about these visitors."
+      }
+    ]
+  },
+  {
+    "id": "halloween-2026-chirp-03",
+    "who": "gnomevillepd",
+    "createdAt": "2026-11-01T09:26:00-06:00",
+    "text": "HALLOWEEN INCIDENT SUMMARY: Heavy pedestrian traffic, multiple oversized costumes, one disputed flamingo appendage, and no reliable estimate of candy remaining. #PoliceBlotter",
+    "replies": [
+      {
+        "who": "benson",
+        "text": "Please stop calling every costume a suspect."
+      },
+      {
+        "who": "stabler",
+        "text": "The pizza was moving."
+      },
+      {
+        "who": "shirley",
+        "text": "Movement alone does not establish probable cause."
+      }
+    ]
+  },
+  {
+    "id": "halloween-2026-chirp-04",
+    "who": "lucy",
+    "createdAt": "2026-11-01T09:39:00-06:00",
+    "text": "A GIANT WALKING SLICE OF PIZZA passed me on Halloween. It spoke. I am not saying what it said until I have consulted counsel. 🍕 #LucyHasLanded",
+    "replies": [
+      {
+        "who": "bette",
+        "text": "Darling, did you at least ask for a photograph?"
+      },
+      {
+        "who": "lucy",
+        "text": "I was busy reconsidering reality."
+      },
+      {
+        "who": "webster",
+        "text": "That is not a privilege recognized by this office."
+      }
+    ]
+  },
+  {
+    "id": "halloween-2026-chirp-05",
+    "who": "derpy",
+    "createdAt": "2026-11-01T10:00:00-06:00",
+    "text": "I SAW TWO GIANT MICE!!! TWO!!! Birthday Mouse said they might be cousins. 🐭🐭 #Halloween",
+    "replies": [
+      {
+        "who": "birthdaymouse",
+        "text": "I said MIGHT. Please stop inviting strangers to family dinner."
+      },
+      {
+        "who": "derpy",
+        "text": "But they were so BIG."
+      },
+      {
+        "who": "cavanaugh",
+        "text": "A most promising opening for a novel."
+      }
+    ]
+  },
+  {
+    "id": "halloween-2026-chirp-06",
+    "who": "birthdaymouse",
+    "createdAt": "2026-11-01T10:13:00-06:00",
+    "text": "For the record, the two enormous mice seen roaming Gnomeville on Halloween have not been verified as relatives. I am requesting privacy during this difficult genealogical period.",
+    "replies": [
+      {
+        "who": "derpy",
+        "text": "I can make name tags!"
+      },
+      {
+        "who": "duck",
+        "text": "Family verification requires Form M-OUSE-2."
+      },
+      {
+        "who": "birthdaymouse",
+        "text": "Absolutely not."
+      }
+    ]
+  },
+  {
+    "id": "halloween-2026-chirp-07",
+    "who": "cecil",
+    "createdAt": "2026-11-01T10:26:00-06:00",
+    "text": "I witnessed several GIANT DINOSAURS wandering the streets last night. Nobody seemed remotely concerned. This municipality has lost its sense of scale. 🦖",
+    "replies": [
+      {
+        "who": "derpy",
+        "text": "HI!!!"
+      },
+      {
+        "who": "cecil",
+        "text": "Not you, darling. You're delightful."
+      },
+      {
+        "who": "webster",
+        "text": "Please do not make public statements about dinosaur liability."
+      }
+    ]
+  },
+  {
+    "id": "halloween-2026-chirp-08",
+    "who": "bette",
+    "createdAt": "2026-11-01T10:39:00-06:00",
+    "text": "A giant chicken, a talking pizza, dinosaurs, mice the size of municipal vehicles, and still nobody thought to arrange a proper red carpet. #HalloweenFashion",
+    "replies": [
+      {
+        "who": "lucy",
+        "text": "Some of us were trying to get home."
+      },
+      {
+        "who": "cecil",
+        "text": "The chicken had PRESENCE."
+      },
+      {
+        "who": "bette",
+        "text": "Finally, a critic with taste."
+      }
+    ]
+  },
+  {
+    "id": "halloween-2026-chirp-09",
+    "who": "rook",
+    "createdAt": "2026-11-01T11:00:00-06:00",
+    "text": "The giant chicken crossed the street. I am refusing to ask why. 🐔 #GnomevilleHalloween",
+    "replies": [
+      {
+        "who": "cavanaugh",
+        "text": "At last, a journalist with restraint."
+      },
+      {
+        "who": "lucy",
+        "text": "You posted about it."
+      },
+      {
+        "who": "rook",
+        "text": "Restraint is relative."
+      }
+    ]
+  },
+  {
+    "id": "halloween-2026-chirp-10",
+    "who": "mayor",
+    "createdAt": "2026-11-01T11:13:00-06:00",
+    "text": "The Mayor's Office congratulates all participants in Halloween festivities and reminds residents that a walking slice of pizza does not automatically qualify as a food vendor. 🍷",
+    "replies": [
+      {
+        "who": "duck",
+        "text": "A temporary vendor permit can be issued retroactively."
+      },
+      {
+        "who": "shirley",
+        "text": "There is no evidence the pizza offered goods for sale."
+      },
+      {
+        "who": "cecil",
+        "text": "It offered conversation. Far more valuable."
+      }
+    ]
+  },
+  {
+    "id": "halloween-2026-chirp-11",
+    "who": "duck",
+    "createdAt": "2026-11-01T11:26:00-06:00",
+    "text": "OFFICIAL NOTICE: Halloween candy distribution has exceeded projected demand. The Emergency Confectionery Committee has been convened. Please do not eat the committee. #MunicipalAffairs",
+    "replies": [
+      {
+        "who": "toni",
+        "text": "You're about six hours late."
+      },
+      {
+        "who": "milo",
+        "text": "I would like to chair the committee."
+      },
+      {
+        "who": "duck",
+        "text": "Your application has been eaten."
+      }
+    ]
+  },
+  {
+    "id": "halloween-2026-chirp-12",
+    "who": "milo",
+    "createdAt": "2026-11-01T11:39:00-06:00",
+    "text": "Management hosted an unauthorized gathering involving hundreds of small humans. No one offered me a Delectables tube. I am preparing a complaint. #MiloVsManagement",
+    "replies": [
+      {
+        "who": "toni",
+        "text": "You don't even pay rent."
+      },
+      {
+        "who": "shirley",
+        "text": "My client will respond after reviewing the treat inventory."
+      },
+      {
+        "who": "milo",
+        "text": "There is no treat inventory. That is the complaint."
+      }
+    ]
+  },
+  {
+    "id": "halloween-2026-chirp-13",
+    "who": "shirley",
+    "createdAt": "2026-11-01T12:00:00-06:00",
+    "text": "I have been asked whether a person dressed as a giant slice of pizza is legally edible. No. I cannot believe I have to clarify this. #AttorneyAtClaw",
+    "replies": [
+      {
+        "who": "cecil",
+        "text": "What if they're wearing extra cheese?"
+      },
+      {
+        "who": "webster",
+        "text": "Still no."
+      },
+      {
+        "who": "lucy",
+        "text": "Please put this in writing."
+      }
+    ]
+  },
+  {
+    "id": "halloween-2026-chirp-14",
+    "who": "gertie",
+    "createdAt": "2026-11-01T12:13:00-06:00",
+    "text": "Wonderful Halloween turnout! Paw-Paw and I posed for so many photographs. Someone asked if we were married. I declined to answer on the grounds of municipal privacy. 💀",
+    "replies": [
+      {
+        "who": "pawpaw",
+        "text": "I was not aware there was a question."
+      },
+      {
+        "who": "bette",
+        "text": "Never confirm a romance without negotiating the exclusive."
+      },
+      {
+        "who": "duck",
+        "text": "The marital-status disclosure form is available at City Hall."
+      }
+    ]
+  },
+  {
+    "id": "halloween-2026-chirp-15",
+    "who": "toni",
+    "createdAt": "2026-11-01T12:26:00-06:00",
+    "text": "A ballerina took some candy, left, reconsidered her options, came BACK, and conducted a five-minute excavation of the remaining bin. Honestly? Respect the commitment. 🩰",
+    "replies": [
+      {
+        "who": "rook",
+        "text": "A thorough investigation of the available evidence."
+      },
+      {
+        "who": "cecil",
+        "text": "That child has management potential."
+      },
+      {
+        "who": "duck",
+        "text": "The excavation was not licensed."
+      }
+    ]
+  },
+  {
+    "id": "halloween-2026-chirp-16",
+    "who": "gnomevillepd",
+    "createdAt": "2026-11-01T12:39:00-06:00",
+    "text": "OFFICER'S NOTE: Two young trick-or-treaters were observed playfully disputing candy. A nearby voice advised, 'Be careful, ladies.' Both froze, laughed, and resumed. No charges anticipated.",
+    "replies": [
+      {
+        "who": "benson",
+        "text": "We are not opening a candy dispute unit."
+      },
+      {
+        "who": "stabler",
+        "text": "Yet."
+      },
+      {
+        "who": "shirley",
+        "text": "Please delete 'yet.'"
+      }
+    ]
+  },
+  {
+    "id": "halloween-2026-chirp-17",
+    "who": "pawpaw",
+    "createdAt": "2026-11-01T13:00:00-06:00",
+    "text": "A reminder that my colleague Legless Larry was involved in an unfortunate encounter with a toddler. We request privacy while the remaining parts are inventoried. #FlamingoIncident",
+    "replies": [
+      {
+        "who": "gnomevillepd",
+        "text": "Report received. Species classification pending."
+      },
+      {
+        "who": "gertie",
+        "text": "The child was very small. Larry was very optimistic."
+      },
+      {
+        "who": "duck",
+        "text": "Inventory forms have been dispatched."
+      }
+    ]
+  },
+  {
+    "id": "halloween-2026-chirp-18",
+    "who": "captainpeanuts",
+    "createdAt": "2026-11-01T13:13:00-06:00",
+    "text": "These allegations that squirrels damaged the flamingos are defamatory. I was conducting routine structural assessments. 🐿️ #NeighborhoodWatch",
+    "replies": [
+      {
+        "who": "gnomevillepd",
+        "text": "Then why was the solar panel detached?"
+      },
+      {
+        "who": "captainpeanuts",
+        "text": "Stress testing."
+      },
+      {
+        "who": "shirley",
+        "text": "Please stop posting without your attorney."
+      }
+    ]
+  },
+  {
+    "id": "halloween-2026-chirp-19",
+    "who": "twistedsisters",
+    "createdAt": "2026-11-01T13:26:00-06:00",
+    "text": "HALLOWEEN BUFFET RECAP: taco casserole, BBQ meatballs, chili dip, skeleton dogs, pizza towers with marinara, and deviled eggs disguised as bloody eyeballs. No Bowser was harmed in the preparation. ☠️",
+    "replies": [
+      {
+        "who": "cecil",
+        "text": "The presentation was grotesque. A triumph."
+      },
+      {
+        "who": "liza",
+        "text": "I liked the eyeballs."
+      },
+      {
+        "who": "milo",
+        "text": "Were there chicken portions set aside for management?"
+      }
+    ]
+  },
+  {
+    "id": "halloween-2026-chirp-20",
+    "who": "cecil",
+    "createdAt": "2026-11-01T13:39:00-06:00",
+    "text": "The phrase 'skeleton dogs' caused unnecessary alarm in several departments. They were food. Bowser is fine. Kindly direct further inquiries to the Cake Decorating Tsar. #StandardsCheerfullyDisregarded",
+    "replies": [
+      {
+        "who": "webster",
+        "text": "Please do not direct inquiries to yourself."
+      },
+      {
+        "who": "liza",
+        "text": "I checked on Bowser."
+      },
+      {
+        "who": "cecil",
+        "text": "And the dog remains more emotionally stable than City Hall."
+      }
+    ]
+  },
+  {
+    "id": "halloween-2026-chirp-21",
+    "who": "cavanaugh",
+    "createdAt": "2026-11-01T14:00:00-06:00",
+    "text": "I encountered a towering dinosaur, two oversized mice, and a sentient pizza slice. I had only one glass of sherry at the time. I should like that entered into the record. 📚",
+    "replies": [
+      {
+        "who": "lucy",
+        "text": "One glass? That's your story?"
+      },
+      {
+        "who": "duck",
+        "text": "The record now reflects 'one glass, self-reported.'"
+      },
+      {
+        "who": "cavanaugh",
+        "text": "I regret submitting the record."
+      }
+    ]
+  },
+  {
+    "id": "halloween-2026-chirp-22",
+    "who": "liza",
+    "createdAt": "2026-11-01T14:13:00-06:00",
+    "text": "The giant dinosaurs were the best part of Halloween. Unless the giant chicken was the best part. I am still deciding. 🐉",
+    "replies": [
+      {
+        "who": "derpy",
+        "text": "DINOSAURS!!!"
+      },
+      {
+        "who": "birthdaymouse",
+        "text": "Please use your indoor voice."
+      },
+      {
+        "who": "cecil",
+        "text": "Darling, there is no indoor voice on Halloween."
+      }
+    ]
+  },
+  {
+    "id": "halloween-2026-chirp-23",
+    "who": "bette",
+    "createdAt": "2026-11-01T14:26:00-06:00",
+    "text": "To the sunglasses-wearing flamingo who appeared in a turkey disguise: darling, Halloween is OVER. Thanksgiving is not a legal defense for that outfit. 🦩",
+    "replies": [
+      {
+        "who": "lucy",
+        "text": "Leave the poor bird alone."
+      },
+      {
+        "who": "cecil",
+        "text": "I admire a performer who books the next holiday early."
+      },
+      {
+        "who": "duck",
+        "text": "Seasonal costume permits overlap by thirty days."
+      }
+    ]
+  },
+  {
+    "id": "halloween-2026-chirp-24",
+    "who": "rook",
+    "createdAt": "2026-11-01T14:39:00-06:00",
+    "text": "Halloween attendance report: candy nearly exhausted, toys distributed, giant costumes everywhere, and the porch staff eventually instituted self-service. This is what passes for a successful municipal operation. #GnomevilleHalloween",
+    "replies": [
+      {
+        "who": "toni",
+        "text": "And we would do it all again."
+      },
+      {
+        "who": "mayor",
+        "text": "The Mayor's Office endorses this sentiment in principle."
+      },
+      {
+        "who": "duck",
+        "text": "In-principle endorsements are nonbinding."
+      }
+    ]
+  },
+  {
+    "id": "halloween-2026-chirp-25",
+    "who": "saltypete",
+    "createdAt": "2026-11-01T15:00:00-06:00",
+    "text": "Saw a talking pizza on the street. Didn't trust it. Never trust a meal that introduces itself. #Halloween",
+    "replies": [
+      {
+        "who": "cavanaugh",
+        "text": "An unexpectedly sound philosophical position."
+      },
+      {
+        "who": "lucy",
+        "text": "For once, I agree."
+      },
+      {
+        "who": "cecil",
+        "text": "What an exhausting town."
+      }
+    ]
+  },
+  {
+    "id": "halloween-2026-chirp-26",
+    "who": "honeybaby",
+    "createdAt": "2026-11-01T15:13:00-06:00",
+    "text": "Somebody said the candy was almost gone and then a whole crowd arrived anyway. That's Halloween. You don't stop the parade just because the sugar budget resigns. 🎃",
+    "replies": [
+      {
+        "who": "toni",
+        "text": "Exactly!"
+      },
+      {
+        "who": "duck",
+        "text": "The sugar budget has submitted a formal resignation."
+      },
+      {
+        "who": "bette",
+        "text": "Tell it to come back for Christmas."
+      }
+    ]
+  },
+  {
+    "id": "halloween-2026-chirp-27",
+    "who": "webster",
+    "createdAt": "2026-11-01T15:26:00-06:00",
+    "text": "PUBLIC SERVICE REMINDER: A giant chicken is not automatically poultry for zoning purposes. A talking pizza is not automatically a restaurant. I will not be answering follow-up questions.",
+    "replies": [
+      {
+        "who": "shirley",
+        "text": "For once we agree."
+      },
+      {
+        "who": "cecil",
+        "text": "I have seventeen follow-up questions."
+      },
+      {
+        "who": "webster",
+        "text": "Of course you do."
+      }
+    ]
+  },
+  {
     "id": "bonesy-arrival-2026",
     "who": "lucy",
     "pinned": true,
