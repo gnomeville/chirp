@@ -6899,7 +6899,15 @@
             "who": "milo",
             "text": "Goopy! Can I have one? \n\n#i'macatidon'tspellgud",
             "createdAt": "2026-11-01T22:55:55.735Z",
-            "replies": []
+            "replies": [
+              {
+                "id": "reply-2fd98834-9a7c-4d98-bb7a-1346a5957761",
+                "who": "tiffany",
+                "text": "No.",
+                "createdAt": "2026-11-01T22:56:18.786Z",
+                "replies": []
+              }
+            ]
           }
         ]
       }
