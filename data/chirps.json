@@ -6887,6 +6887,14 @@
     "who": "milo",
     "text": "@tiffany can I have a goofy?",
     "createdAt": "2026-11-01T22:54:01.893Z",
-    "replies": []
+    "replies": [
+      {
+        "id": "reply-b79b19f6-37e6-47e8-aff4-fc04de5b9204",
+        "who": "tiffany",
+        "text": "Goofy?",
+        "createdAt": "2026-11-01T22:54:37.678Z",
+        "replies": []
+      }
+    ]
   }
 ]
