@@ -96,10 +96,33 @@
             "replies": []
           }
         ]
+      },
+      {
+        "id": "cecil-tiffany-popularity-20261101",
+        "who": "cecil",
+        "text": "I've spent MONTHS cultivating my audience! You arrive, insult the entire municipality, and get FORTY-SEVEN LIKES?!",
+        "createdAt": "2026-11-01T23:08:00Z",
+        "replies": [
+          {
+            "id": "tiffany-cecil-gravy-20261101",
+            "who": "tiffany",
+            "text": "Good gravy.",
+            "createdAt": "2026-11-01T23:09:00Z",
+            "replies": [
+              {
+                "id": "cecil-fortyseven-20261101",
+                "who": "cecil",
+                "text": "FORTY-SEVEN LIKES?!",
+                "createdAt": "2026-11-01T23:10:00Z",
+                "replies": []
+              }
+            ]
+          }
+        ]
       }
     ],
-    "likes": 0,
-    "rechirps": 0
+    "likes": 47,
+    "rechirps": 3
   },
   {
     "id": "november-2026-community-01",
@@ -6926,7 +6949,30 @@
             ]
           }
         ]
+      },
+      {
+        "id": "liza-goopy-20261101",
+        "who": "liza",
+        "text": "MILO!!!!!!! 💖💖💖 YOU DESERVE A GOOPY!!!! 🥰💕✨",
+        "createdAt": "2026-11-01T23:12:00Z",
+        "replies": []
+      },
+      {
+        "id": "toni-goopy-20261101",
+        "who": "toni",
+        "text": "Management's decision stands.",
+        "createdAt": "2026-11-01T23:13:00Z",
+        "replies": []
+      },
+      {
+        "id": "shirley-goopy-20261101",
+        "who": "shirley",
+        "text": "My client requests clarification of the term 'goopy' before proceeding.",
+        "createdAt": "2026-11-01T23:14:00Z",
+        "replies": []
       }
-    ]
+    ],
+    "likes": 38,
+    "rechirps": 4
   }
 ]
