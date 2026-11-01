@@ -52,7 +52,15 @@
                 "who": "milo",
                 "text": "I didn't do nuffin!",
                 "createdAt": "2026-11-01T22:04:05.323Z",
-                "replies": []
+                "replies": [
+                  {
+                    "id": "reply-1a7a96e2-e349-402b-bd9e-959fba5df9a2",
+                    "who": "tiffany",
+                    "text": "The gnomes beg to differ.",
+                    "createdAt": "2026-11-01T22:04:30.118Z",
+                    "replies": []
+                  }
+                ]
               }
             ]
           }
