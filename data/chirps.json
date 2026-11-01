@@ -25,6 +25,13 @@
         "text": "Hello Madam, when did you get here?",
         "createdAt": "2026-11-01T21:53:29.202Z",
         "replies": []
+      },
+      {
+        "id": "reply-528c28ae-41e0-46fa-bca4-a02a16e75cd5",
+        "who": "saltypete",
+        "text": "Go away! 🖕",
+        "createdAt": "2026-11-01T21:54:14.644Z",
+        "replies": []
       }
     ],
     "likes": 0,
