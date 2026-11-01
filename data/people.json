@@ -52,7 +52,8 @@
     "handle": "GnomevilleDA",
     "avatar": "⚖️",
     "bio": "District Attorney and Municipal Archivist. Questions in writing.",
-    "verified": true
+    "verified": true,
+    "image": "assets/toni-avatar.png"
   },
   "mayor": {
     "name": "Mayor Thimblewick",
