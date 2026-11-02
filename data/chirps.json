@@ -7008,6 +7008,14 @@
     "who": "toni",
     "text": "This is a test of the Gnomeville Chirp publishing system. District Attorney Toni has entered the building. Please govern yourselves accordingly. 🐦",
     "createdAt": "2026-11-02T06:34:12.994Z",
-    "replies": []
+    "replies": [
+      {
+        "id": "reply-95a5f945-238a-42f5-8505-32b7147e8574",
+        "who": "tiffany",
+        "text": "Never.",
+        "createdAt": "2026-11-02T07:00:48.680Z",
+        "replies": []
+      }
+    ]
   }
 ]
