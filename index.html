@@ -61,7 +61,15 @@ document.getElementById('mobileProfile').addEventListener('click',function(event
 function postDate(p){const v=p.displayAt||p.publishedAt||p.createdAt;const d=v?new Date(v):null;return d&&Number.isFinite(d.getTime())?d:null}
 function isPublished(p){const d=postDate(p);return !d||d.getTime()<=Date.now()}
 function latestActivity(p){let n=postDate(p)?.getTime()||0;function walk(rs){(rs||[]).forEach(r=>{let t=Date.parse(r.createdAt||'');if(Number.isFinite(t))n=Math.max(n,t);walk(r.replies)})}walk(p.replies);return n}
-function decorate(p){return {...p,when:postDate(p),likes:p.likes??20,rechirps:p.rechirps??2}}
+function honoraryLikes(p){
+ // Fictional Gnomeville popularity counter for the two human-operated accounts.
+ // Stable by post ID so the number does not jump on every page refresh.
+ if(p.who!=='tiffany'&&p.who!=='toni')return p.likes??20;
+ let hash=2166136261;
+ for(const ch of String(p.id)){hash^=ch.charCodeAt(0);hash=Math.imul(hash,16777619)}
+ return 20000+(hash>>>0)%80001;
+}
+function decorate(p){return {...p,when:postDate(p),likes:honoraryLikes(p),rechirps:p.rechirps??2}}
 function makeFeed(){
  const available=library.filter(isPublished).map(decorate);
  const weekAgo=Date.now()-7*24*60*60*1000;
