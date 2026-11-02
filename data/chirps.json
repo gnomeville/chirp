@@ -7175,5 +7175,72 @@
         ]
       }
     ]
+  },
+  {
+    "id": "cecil-halloween-recovery-20261102",
+    "who": "cecil",
+    "createdAt": "2026-11-02T20:40:00.000Z",
+    "text": "A STATEMENT FROM MY RECOVERY CHAISE.\n\nOn Halloween night, I was VICIOUSLY ASSAULTED by Milo Chicken. One moment I was presiding over the festivities, a vision of skeletal elegance. The next, I was DOWN. Felled. A cultural institution brought low by a house cat with absolutely no respect for the performing arts.\n\nI survived. Physically, I am intact. Artistically, I may never recover.\n\nI ask for privacy during this difficult time, except from photographers, well-wishers, and anyone prepared to bring flowers or a tasteful cake.\n\nMy publicist will be issuing no further statements until I have finished issuing this one.\n\n#CecilStrong #HalloweenIncident #TheShowMustGoOn",
+    "replies": [
+      {
+        "id": "cecil-recovery-reply-shirley",
+        "who": "shirley",
+        "createdAt": "2026-11-02T20:41:00.000Z",
+        "text": "Cecil, you have been advised that 'emotional devastation' is not, by itself, an itemized medical expense.",
+        "replies": [
+          {
+            "id": "cecil-recovery-reply-cecil-law",
+            "who": "cecil",
+            "createdAt": "2026-11-02T20:42:00.000Z",
+            "text": "Then ITEMIZE THE DEVASTATION, SHIRLEY.",
+            "replies": []
+          }
+        ]
+      },
+      {
+        "id": "cecil-recovery-reply-milo",
+        "who": "milo",
+        "createdAt": "2026-11-02T20:43:00.000Z",
+        "text": "He was in my way.",
+        "replies": [
+          {
+            "id": "cecil-recovery-reply-cecil-milo",
+            "who": "cecil",
+            "createdAt": "2026-11-02T20:44:00.000Z",
+            "text": "I WAS A CENTERPIECE.",
+            "replies": [
+              {
+                "id": "cecil-recovery-reply-milo-two",
+                "who": "milo",
+                "createdAt": "2026-11-02T20:45:00.000Z",
+                "text": "Still in my way.",
+                "replies": []
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "cecil-recovery-reply-webster",
+        "who": "webster",
+        "createdAt": "2026-11-02T20:46:00.000Z",
+        "text": "Please stop referring to this as an attempted assassination in correspondence addressed to my office.",
+        "replies": []
+      },
+      {
+        "id": "cecil-recovery-reply-cavanaugh",
+        "who": "cavanaugh",
+        "createdAt": "2026-11-02T20:47:00.000Z",
+        "text": "An affecting performance. I particularly admired the part where you requested a spotlight.",
+        "replies": []
+      },
+      {
+        "id": "cecil-recovery-reply-pawpaw",
+        "who": "pawpaw",
+        "createdAt": "2026-11-02T20:48:00.000Z",
+        "text": "Court declines to hear the matter until the complainant stops addressing the bench as 'my audience.'",
+        "replies": []
+      }
+    ]
   }
 ]
