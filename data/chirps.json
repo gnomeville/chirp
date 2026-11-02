@@ -7032,6 +7032,15 @@
     "text": "@tiffany Mom",
     "createdAt": "2026-11-02T20:09:59.864Z",
     "source": "composer",
-    "replies": []
+    "replies": [
+      {
+        "id": "reply-0a926930-32cc-4bff-91ef-642390fa1f89",
+        "who": "milo",
+        "text": "Mom",
+        "createdAt": "2026-11-02T20:10:22.323Z",
+        "source": "composer",
+        "replies": []
+      }
+    ]
   }
 ]
