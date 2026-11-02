@@ -1,0 +1,7 @@
+name = "gnomeville-chirp-publisher"
+main = "../review/worker.js"
+compatibility_date = "2026-11-02"
+workers_dev = true
+
+# Production deliberately has no STAGING_MODE variable here.
+# OAuth and GitHub credentials remain Cloudflare Worker secrets.
