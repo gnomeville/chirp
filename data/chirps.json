@@ -798,23 +798,35 @@
     "replies": [
       {
         "who": "toni",
-        "text": "You don't even pay rent."
+        "text": "You don't even pay rent.",
+        "id": "legacy-halloween-2026-chirp-12-0"
       },
       {
         "who": "shirley",
-        "text": "My client will respond after reviewing the treat inventory."
+        "text": "My client will respond after reviewing the treat inventory.",
+        "id": "legacy-halloween-2026-chirp-12-1"
       },
       {
         "who": "milo",
-        "text": "There is no treat inventory. That is the complaint."
+        "text": "There is no treat inventory. That is the complaint.",
+        "id": "legacy-halloween-2026-chirp-12-2"
       },
       {
         "who": "tony",
-        "text": "This town never fails to provide material."
+        "text": "This town never fails to provide material.",
+        "id": "legacy-halloween-2026-chirp-12-3"
       },
       {
         "who": "milford",
-        "text": "I'm glad everyone had such a lovely evening."
+        "text": "I'm glad everyone had such a lovely evening.",
+        "id": "legacy-halloween-2026-chirp-12-4"
+      },
+      {
+        "id": "reply-a9c51fec-bb80-435f-8302-91ff1c80e2b1",
+        "who": "toni",
+        "text": "Objection! You had one, and a disco stick, and a donut. I rest my case.",
+        "createdAt": "2026-11-02T06:36:46.532Z",
+        "replies": []
       }
     ],
     "likes": 24,
