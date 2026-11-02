@@ -7112,7 +7112,16 @@
                                     "text": "Sigh. I'm in the kitchen. Thats in the living room.",
                                     "createdAt": "2026-11-02T20:15:43.125Z",
                                     "source": "composer",
-                                    "replies": []
+                                    "replies": [
+                                      {
+                                        "id": "reply-84542968-e39b-4410-8475-6edebebea2e0",
+                                        "who": "milo",
+                                        "text": "It still counts!",
+                                        "createdAt": "2026-11-02T20:17:22.064Z",
+                                        "source": "composer",
+                                        "replies": []
+                                      }
+                                    ]
                                   }
                                 ]
                               }
