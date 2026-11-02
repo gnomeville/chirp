@@ -7105,7 +7105,16 @@
                                 "text": "There! Next to the vintage water!",
                                 "createdAt": "2026-11-02T20:14:44.508Z",
                                 "source": "composer",
-                                "replies": []
+                                "replies": [
+                                  {
+                                    "id": "reply-64bd38f9-18cb-40be-89ef-eaf86b01e88e",
+                                    "who": "milo",
+                                    "text": "Sigh. I'm in the kitchen. Thats in the living room.",
+                                    "createdAt": "2026-11-02T20:15:43.125Z",
+                                    "source": "composer",
+                                    "replies": []
+                                  }
+                                ]
                               }
                             ]
                           }
