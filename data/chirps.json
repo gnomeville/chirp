@@ -826,7 +826,15 @@
         "who": "toni",
         "text": "Objection! You had one, and a disco stick, and a donut. I rest my case.",
         "createdAt": "2026-11-02T06:36:46.532Z",
-        "replies": []
+        "replies": [
+          {
+            "id": "reply-498e07c3-0928-484d-bd77-d613a417eb4e",
+            "who": "toni",
+            "text": "Quit being a bougie prick, Milo 😒",
+            "createdAt": "2026-11-02T06:52:21.323Z",
+            "replies": []
+          }
+        ]
       }
     ],
     "likes": 24,
