@@ -7063,7 +7063,16 @@
         "text": "Mom",
         "createdAt": "2026-11-02T20:11:07.738Z",
         "source": "composer",
-        "replies": []
+        "replies": [
+          {
+            "id": "reply-ea6c35cd-a09c-4ddf-9f5e-84f0988c537d",
+            "who": "tiffany",
+            "text": "What?",
+            "createdAt": "2026-11-02T20:11:39.909Z",
+            "source": "composer",
+            "replies": []
+          }
+        ]
       }
     ]
   }
