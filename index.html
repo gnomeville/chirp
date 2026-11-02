@@ -67,7 +67,13 @@ function honoraryLikes(p){
  if(p.who!=='tiffany'&&p.who!=='toni')return p.likes??20;
  let hash=2166136261;
  for(const ch of String(p.id)){hash^=ch.charCodeAt(0);hash=Math.imul(hash,16777619)}
- return 20000+(hash>>>0)%80001;
+ const n=hash>>>0;
+ // Most posts look popular; a few become inexplicable viral sensations.
+ const tier=n%10;
+ if(tier<5)return 35+(n%466);            // 35–500
+ if(tier<8)return 500+(n%4501);          // 500–5,000
+ if(tier===8)return 5000+(n%15001);     // 5,000–20,000
+ return 20000+(n%80001);                // occasional 20,000–100,000
 }
 function decorate(p){return {...p,when:postDate(p),likes:honoraryLikes(p),rechirps:p.rechirps??2}}
 function makeFeed(){
