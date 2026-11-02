@@ -94,7 +94,7 @@ function timeLabel(p){if(!p.when)return 'Earlier Chirp';let m=Math.floor((Date.n
 function chirpThreadHtml(replies,postId,depth=0,path=''){return (replies||[]).map((c,i)=>{const pos=path?path+'-'+i:String(i);const replyId=c.id||'legacy-'+postId+'-'+pos;
  const who=person(c.who);const kids=Array.isArray(c.replies)?c.replies:[];const when=postDate(c);const replyStamp=when?when.toLocaleString(undefined,{month:'short',day:'numeric',year:'numeric',hour:'numeric',minute:'2-digit'}):'Earlier reply';
  const replyUrl='https://gnomeville-chirp-publisher.gnomeville-il.workers.dev/?'+new URLSearchParams({post:postId,reply:replyId}).toString();
- return '<div class="reply" style="margin-left:'+Math.min(depth,5)*12+'px;border-left:2px solid #24cbbb;padding-left:10px;margin-top:12px">'+
+ return '<div class="reply" style="margin-left:0;border-left:0;padding-left:0;margin-top:10px">'+
  '<a class="reply-author" href="#profile/'+encodeURIComponent(c.who)+'" style="font-weight:700;color:inherit;text-decoration:underline;text-underline-offset:2px">'+esc(who.name)+'</a> <span class="handle">@'+esc(who.handle)+'</span> <time class="time" title="Reply posted" datetime="'+(when?when.toISOString():'')+'">· '+esc(replyStamp)+'</time>'+ 
  '<div>'+linkify(c.text)+'</div>'+
  (replyId?'<a href="'+esc(replyUrl)+'" target="_blank" rel="noopener noreferrer" style="display:inline-block;color:var(--teal);margin-top:6px;font-size:.9em">↳ Reply to this comment</a>':'<span style="font-size:.85em;color:var(--muted)">Earlier comment · use Reply to Chirp</span>')+
