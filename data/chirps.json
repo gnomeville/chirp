@@ -7253,7 +7253,16 @@
             "who": "cecil",
             "createdAt": "2026-11-02T21:03:00.000Z",
             "text": "A STRAW?! DARLING, I WAS USING IT AS A CANE.\n\nAfter the attack, I could barely stand! That I happened to be leaning against the Dragon's Kiss pitcher is a matter of unfortunate geography, not evidence of misconduct.\n\nAnd if the pitcher was subsequently found empty, I suggest you question the CAT.\n\nI will not have my recovery turned into a cocktail investigation.",
-            "replies": []
+            "replies": [
+              {
+                "id": "reply-ef090ae4-34f4-4483-b687-f30cb611023e",
+                "who": "tiffany",
+                "text": "I'm not investigating. That would be @GnomevilleDA department...",
+                "createdAt": "2026-11-02T21:08:23.175Z",
+                "source": "composer",
+                "replies": []
+              }
+            ]
           }
         ]
       }
