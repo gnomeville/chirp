@@ -7077,7 +7077,16 @@
                 "text": "I brought you a mouse!",
                 "createdAt": "2026-11-02T20:12:12.406Z",
                 "source": "composer",
-                "replies": []
+                "replies": [
+                  {
+                    "id": "reply-ed4b0af9-6473-466f-9c78-95ab646bb3ad",
+                    "who": "tiffany",
+                    "text": "No you didn't",
+                    "createdAt": "2026-11-02T20:12:44.967Z",
+                    "source": "composer",
+                    "replies": []
+                  }
+                ]
               }
             ]
           }
