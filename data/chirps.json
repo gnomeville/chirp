@@ -7267,5 +7267,87 @@
         ]
       }
     ]
+  },
+  {
+    "id": "milo-humans-left-party-20261102",
+    "who": "milo",
+    "createdAt": "2026-11-02T22:40:00.000Z",
+    "text": "HUMANS HAVE LEFT THE BUILDING! 😈☠️👿\n\nPARTY IN THE BIG HOUSE!!!\n\nExtra goopy to anyone who brings Barry.\n\nNo grownups. No rules. Bring your own crimes.\n\n#HouseParty #MiloIsInCharge",
+    "replies": [
+      {
+        "id": "milo-party-lucy",
+        "who": "lucy",
+        "text": "Is there a dress code? And by dress code, I mean are cigarettes permitted indoors?",
+        "createdAt": "2026-11-02T22:41:00.000Z",
+        "replies": [
+          {
+            "id": "milo-party-milo-lucy",
+            "who": "milo",
+            "text": "Only if you bring Barry.",
+            "createdAt": "2026-11-02T22:42:00.000Z",
+            "replies": []
+          }
+        ]
+      },
+      {
+        "id": "milo-party-cecil",
+        "who": "cecil",
+        "text": "Absolutely NOT. I am still recovering from your LAST social engagement. Also, define 'goopy.'",
+        "createdAt": "2026-11-02T22:43:00.000Z",
+        "replies": [
+          {
+            "id": "milo-party-milo-cecil",
+            "who": "milo",
+            "text": "You weren't invited.",
+            "createdAt": "2026-11-02T22:44:00.000Z",
+            "replies": []
+          },
+          {
+            "id": "milo-party-cecil-retort",
+            "who": "cecil",
+            "text": "I WAS NOT PLANNING TO ATTEND.",
+            "createdAt": "2026-11-02T22:45:00.000Z",
+            "replies": []
+          }
+        ]
+      },
+      {
+        "id": "milo-party-shirley",
+        "who": "shirley",
+        "text": "This post is now Exhibit A. Please refrain from documenting any additional offenses.",
+        "createdAt": "2026-11-02T22:46:00.000Z",
+        "replies": [
+          {
+            "id": "milo-party-milo-shirley",
+            "who": "milo",
+            "text": "No witnesses. Humans left.",
+            "createdAt": "2026-11-02T22:47:00.000Z",
+            "replies": []
+          }
+        ]
+      },
+      {
+        "id": "milo-party-bette",
+        "who": "bette",
+        "text": "Darling, if there's a party, there had better be decent lighting and someone taking photographs.",
+        "createdAt": "2026-11-02T22:48:00.000Z",
+        "replies": []
+      },
+      {
+        "id": "milo-party-webster",
+        "who": "webster",
+        "text": "Who is Barry, and why does his attendance appear to be a condition of compensation?",
+        "createdAt": "2026-11-02T22:49:00.000Z",
+        "replies": [
+          {
+            "id": "milo-party-milo-webster",
+            "who": "milo",
+            "text": "Need-to-know basis.",
+            "createdAt": "2026-11-02T22:50:00.000Z",
+            "replies": []
+          }
+        ]
+      }
+    ]
   }
 ]
