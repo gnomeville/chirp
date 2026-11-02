@@ -134,6 +134,33 @@ function render(){
 document.addEventListener('click',async e=>{let b=e.target.closest('button[data-action]');if(!b)return;let id=b.dataset.id,action=b.dataset.action;if(action==='comment'){expanded.has(id)?expanded.delete(id):expanded.add(id)}else if(action==='like'||action==='rechirp'){let key='chirp-'+(action==='like'?'liked':'rechirped')+'-'+id;localStorage.setItem(key,localStorage.getItem(key)==='yes'?'no':'yes')}else if(action==='share'){let url=location.href.split('#')[0]+'#chirp/'+id;try{await navigator.clipboard.writeText(url);b.title='Link copied!'}catch{prompt('Copy link:',url)}}render()});document.getElementById('search').addEventListener('input',render);window.addEventListener('hashchange',()=>{profileTab='activity';document.getElementById('search').value='';render()});
 document.addEventListener('click',e=>{let t=e.target.closest('[data-profile-tab]');if(t){profileTab=t.dataset.profileTab;render()}let img=e.target.closest('[data-lightbox]');if(img){let overlay=document.createElement('div');overlay.className='lightbox';overlay.innerHTML=`<button aria-label="Close image">×</button><img src="${esc(img.dataset.lightbox)}" alt="Enlarged Chirp photo">`;overlay.addEventListener('click',()=>overlay.remove());document.body.appendChild(overlay)}});document.addEventListener('keydown',e=>{if(e.key==='Escape')document.querySelector('.lightbox')?.remove()});
 function renderTrends(){let counts={};library.forEach(p=>{for(let m of p.text.matchAll(/#[A-Za-z][A-Za-z0-9_]*/g)){let tag=m[0];counts[tag]=(counts[tag]||0)+1}});let trends=Object.entries(counts).sort((a,b)=>b[1]-a[1]).slice(0,4);let box=document.querySelector('.right .box');if(box)box.innerHTML='<h3>Trending in Gnomeville</h3>'+trends.map(([tag,n])=>`<div class="trend"><small>Local conversation</small><a href="#tag/${encodeURIComponent(tag.slice(1))}"><b class="hashtag">${esc(tag)}</b></a><small>${n} Chirps</small></div>`).join('')}
-Promise.all([fetch('data/people.json').then(r=>{if(!r.ok)throw Error('people');return r.json()}),fetch('data/chirps.json').then(r=>{if(!r.ok)throw Error('chirps');return r.json()})]).then(([p,c])=>{people=p;library=c;makeFeed();render();renderTrends()}).catch(()=>{document.getElementById('feed').innerHTML='<div class="empty">Chirp needs to be opened through a website or local web server to load its data files. See README.</div>'});
+// Fetch content independently of cached HTML; avoid redrawing unchanged conversations.
+let chirpDataSignature='',chirpRefreshBusy=false;
+async function refreshChirpData(initial=false){
+ if(chirpRefreshBusy||(!initial&&document.hidden))return;
+ chirpRefreshBusy=true;
+ try{
+  const response=await fetch('data/chirps.json?_='+Date.now(),{cache:'no-store'});
+  if(!response.ok)throw Error('chirps '+response.status);
+  const raw=await response.text();
+  if(raw===chirpDataSignature)return;
+  const updated=JSON.parse(raw);
+  if(!Array.isArray(updated))throw Error('invalid chirps data');
+  if(initial){
+   const peopleResponse=await fetch('data/people.json?_='+Date.now(),{cache:'no-store'});
+   if(!peopleResponse.ok)throw Error('people '+peopleResponse.status);
+   people=await peopleResponse.json();
+  }
+  const oldScroll=window.scrollY;
+  library=updated;chirpDataSignature=raw;makeFeed();render();renderTrends();
+  if(!initial)window.scrollTo(0,oldScroll);
+ }catch(error){
+  if(initial)document.getElementById('feed').innerHTML='<div class="empty">Chirp could not load its data. Please refresh to try again.</div>';
+  else console.warn('Chirp update check failed; keeping current feed',error);
+ }finally{chirpRefreshBusy=false}
+}
+refreshChirpData(true);
+setInterval(()=>refreshChirpData(),30000);
+document.addEventListener('visibilitychange',()=>{if(!document.hidden)refreshChirpData()});
 document.getElementById('human-activity').addEventListener('click',e=>{const b=e.target.closest('button[data-human-who],button[data-human-kind]');if(!b)return;if(b.dataset.humanWho)humanWho=b.dataset.humanWho;if(b.dataset.humanKind)humanKind=b.dataset.humanKind;render()});</script><script id="chirp-resident-directory-v1">
 (function(){const oldRender=render;render=function(){oldRender();const hash=decodeURIComponent(location.hash.slice(1));if(hash!=="explore")return;const panel=document.getElementById("explore-panel");if(!panel)return;const old=panel.querySelector("#resident-directory");if(old)old.remove();const q=(document.getElementById("search")?.value||"").toLowerCase();const entries=Object.entries(people).filter(([k,p])=>[p.name,p.handle,k].join(" ").toLowerCase().includes(q)).sort((a,b)=>a[1].name.localeCompare(b[1].name));const div=document.createElement("section");div.id="resident-directory";div.innerHTML='<h3 style="padding:0 18px">Resident directory ('+entries.length+')</h3><p style="padding:0 18px;color:var(--muted)">Select a resident to view their Chirps. Some accounts have not posted yet.</p><div style="display:grid;grid-template-columns:repeat(auto-fit,minmax(180px,1fr));gap:8px;padding:12px">'+entries.map(([k,p])=>'<a href="#profile/'+encodeURIComponent(k)+'" style="display:flex;align-items:center;gap:9px;border:1px solid var(--line);border-radius:12px;padding:10px;background:var(--card)"><span aria-hidden="true">'+esc(p.avatar||"🐦")+'</span><span><b>'+esc(p.name)+'</b><br><small style="color:var(--muted)">@'+esc(p.handle)+'</small></span></a>').join("")+'</div>';panel.appendChild(div);};window.addEventListener("load",()=>render());})();</script></body></html>
