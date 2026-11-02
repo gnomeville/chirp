@@ -832,7 +832,15 @@
             "who": "toni",
             "text": "Quit being a bougie prick, Milo 😒",
             "createdAt": "2026-11-02T06:52:21.323Z",
-            "replies": []
+            "replies": [
+              {
+                "id": "reply-e2059c17-cd8a-40cd-9044-b69e63c11021",
+                "who": "tiffany",
+                "text": "Yeah, what she said!",
+                "createdAt": "2026-11-02T06:54:21.766Z",
+                "replies": []
+              }
+            ]
           }
         ]
       }
