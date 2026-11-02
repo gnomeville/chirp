@@ -103,7 +103,7 @@ function chirpThreadHtml(replies,postId,depth=0,path=''){return (replies||[]).ma
 
 
 function humanClass(who){return ['tiffany','toni'].includes(who)?' human-'+who:''}
-function originBadge(x){return x&&(['composer','chirp-composer'].includes(x.source)||x.publishedVia==='composer'||x.origin==='composer')?'<span class="composer-badge" title="Submitted via authenticated Composer; individual wording not independently verified">🚨 UNSUPERVISED HUMAN</span>':''}
+function originBadge(x){return x&&['tiffany','toni'].includes(x.who)&&(['composer','chirp-composer'].includes(x.source)||x.publishedVia==='composer'||x.origin==='composer')?'<span class="composer-badge" title="Submitted via authenticated Composer; individual wording not independently verified">🚨 UNSUPERVISED HUMAN</span>':''}
 function humanLabel(who){return ['tiffany','toni'].includes(who)?'<span class="human-label '+who+'">'+(who==='toni'?'💖 Toni':'💜 Tiffany')+'</span>':''}
 let humanWho='both',humanKind='all';
 function humanActivityHtml(){
