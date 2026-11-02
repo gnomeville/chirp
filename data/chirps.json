@@ -6974,5 +6974,12 @@
     ],
     "likes": 38,
     "rechirps": 4
+  },
+  {
+    "id": "live-3fc27d14-d50b-41b3-bf51-616d3da5512c",
+    "who": "toni",
+    "text": "This is a test of the Gnomeville Chirp publishing system. District Attorney Toni has entered the building. Please govern yourselves accordingly. 🐦",
+    "createdAt": "2026-11-02T06:34:12.994Z",
+    "replies": []
   }
 ]
