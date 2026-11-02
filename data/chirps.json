@@ -7070,7 +7070,16 @@
             "text": "What?",
             "createdAt": "2026-11-02T20:11:39.909Z",
             "source": "composer",
-            "replies": []
+            "replies": [
+              {
+                "id": "reply-87c89f41-0b69-4fd7-baa8-227adab3397a",
+                "who": "milo",
+                "text": "I brought you a mouse!",
+                "createdAt": "2026-11-02T20:12:12.406Z",
+                "source": "composer",
+                "replies": []
+              }
+            ]
           }
         ]
       }
