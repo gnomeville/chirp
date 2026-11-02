@@ -17,7 +17,8 @@
     "handle": "MiloChicken",
     "avatar": "🐈",
     "bio": "Independent feline. Tenant advocate. Innocent of all charges.",
-    "verified": false
+    "verified": false,
+    "image": "assets/milo-avatar.png"
   },
   "shirley": {
     "name": "Shirley Bell, Esq.",
