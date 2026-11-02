@@ -7098,7 +7098,16 @@
                             "text": "Where?",
                             "createdAt": "2026-11-02T20:13:53.330Z",
                             "source": "composer",
-                            "replies": []
+                            "replies": [
+                              {
+                                "id": "reply-bec091dd-4a00-4f18-a519-8e1e23ee90d3",
+                                "who": "milo",
+                                "text": "There! Next to the vintage water!",
+                                "createdAt": "2026-11-02T20:14:44.508Z",
+                                "source": "composer",
+                                "replies": []
+                              }
+                            ]
                           }
                         ]
                       }
