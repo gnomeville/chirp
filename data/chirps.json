@@ -7356,7 +7356,199 @@
     "text": "@MiloChicken why are there flamingo feathers in the butter and gnome prints on the ceiling????\n\n#catintrouble #scaredstraightcamp",
     "createdAt": "2026-11-03T01:38:04.381Z",
     "source": "composer",
-    "replies": [],
+    "replies": [
+      {
+        "id": "rook-feathers-milo-45",
+        "who": "milo",
+        "text": "I don't know what you're talking about. The butter was like that when I got here.",
+        "createdAt": "2026-11-03T01:46:00.000Z",
+        "replies": [
+          {
+            "id": "rook-feathers-tiffany-44",
+            "who": "tiffany",
+            "text": "I haven't said anything about who did it.",
+            "createdAt": "2026-11-03T01:45:00.000Z",
+            "replies": [
+              {
+                "id": "rook-feathers-milo-43",
+                "who": "milo",
+                "text": "Then why are you interrogating me?",
+                "createdAt": "2026-11-03T01:44:00.000Z",
+                "replies": []
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "rook-feathers-vinnie-48",
+        "who": "vinnie",
+        "text": "Before anybody starts pointing feathers, I want to know exactly how many flamingos we're talking about.",
+        "createdAt": "2026-11-03T01:49:00.000Z",
+        "replies": [
+          {
+            "id": "rook-feathers-paulie-47",
+            "who": "paulie",
+            "text": "Vinnie. Why would that be your FIRST question?",
+            "createdAt": "2026-11-03T01:48:00.000Z",
+            "replies": [
+              {
+                "id": "rook-feathers-vinnie-46",
+                "who": "vinnie",
+                "text": "Because I know how investigations work, Paulie. You establish the inventory.",
+                "createdAt": "2026-11-03T01:47:00.000Z",
+                "replies": []
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "rook-feathers-saltypete-51",
+        "who": "saltypete",
+        "text": "Ceiling prints, eh? Sounds like somebody boarded the wrong vessel. I've seen a lot of strange cargo, but never a gnome delivered by chandelier.",
+        "createdAt": "2026-11-03T01:52:00.000Z",
+        "replies": [
+          {
+            "id": "rook-feathers-captainnutters-50",
+            "who": "captainnutters",
+            "text": "I can neither confirm nor deny any rooftop activity.",
+            "createdAt": "2026-11-03T01:51:00.000Z",
+            "replies": [
+              {
+                "id": "rook-feathers-saltypete-49",
+                "who": "saltypete",
+                "text": "Nobody mentioned the ROOF, Nutters.",
+                "createdAt": "2026-11-03T01:50:00.000Z",
+                "replies": []
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "rook-feathers-lucy-54",
+        "who": "lucy",
+        "text": "Excuse me. FLAMINGO feathers? In the BUTTER? I demand to know whether anyone checked the security cameras.",
+        "createdAt": "2026-11-03T01:55:00.000Z",
+        "replies": [
+          {
+            "id": "rook-feathers-bette-53",
+            "who": "bette",
+            "text": "And I demand to know whether the feathers were mine. Some of us have standards.",
+            "createdAt": "2026-11-03T01:54:00.000Z",
+            "replies": [
+              {
+                "id": "rook-feathers-lucy-52",
+                "who": "lucy",
+                "text": "This is not about your wardrobe, Bette.",
+                "createdAt": "2026-11-03T01:53:00.000Z",
+                "replies": []
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "rook-feathers-shirley-57",
+        "who": "shirley",
+        "text": "Preserve the butter. Photograph the ceiling. Do not allow the suspect to groom himself before evidence collection.",
+        "createdAt": "2026-11-03T01:58:00.000Z",
+        "replies": [
+          {
+            "id": "rook-feathers-milo-56",
+            "who": "milo",
+            "text": "OBJECTION. I am very clean.",
+            "createdAt": "2026-11-03T01:57:00.000Z",
+            "replies": [
+              {
+                "id": "rook-feathers-pawpaw-55",
+                "who": "pawpaw",
+                "text": "Objection noted. Court also requests that someone stop calling the butter 'Exhibit Brie.'",
+                "createdAt": "2026-11-03T01:56:00.000Z",
+                "replies": []
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "rook-feathers-cecil-60",
+        "who": "cecil",
+        "text": "THIS is what happens when the household refuses to take my Halloween assault seriously. Today feathers in dairy products. Tomorrow the collapse of civilization.",
+        "createdAt": "2026-11-03T01:61:00.000Z",
+        "replies": [
+          {
+            "id": "rook-feathers-milo-59",
+            "who": "milo",
+            "text": "You fell over.",
+            "createdAt": "2026-11-03T01:60:00.000Z",
+            "replies": [
+              {
+                "id": "rook-feathers-cecil-58",
+                "who": "cecil",
+                "text": "I WAS FELLED.",
+                "createdAt": "2026-11-03T01:59:00.000Z",
+                "replies": []
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "rook-feathers-gnomevillepd-62",
+        "who": "gnomevillepd",
+        "text": "Please do not file a missing-flamingo report until someone has confirmed that a flamingo is actually missing.",
+        "createdAt": "2026-11-03T01:63:00.000Z",
+        "replies": [
+          {
+            "id": "rook-feathers-vinnie-61",
+            "who": "vinnie",
+            "text": "That's what I'm TRYING to establish.",
+            "createdAt": "2026-11-03T01:62:00.000Z",
+            "replies": []
+          }
+        ]
+      },
+      {
+        "id": "rook-feathers-duck-64",
+        "who": "duck",
+        "text": "INCIDENT FORM 17-B: Please specify whether the ceiling footprints are load-bearing.",
+        "createdAt": "2026-11-03T01:65:00.000Z",
+        "replies": [
+          {
+            "id": "rook-feathers-webster-63",
+            "who": "webster",
+            "text": "I would also like to know why the butter is being retained as physical evidence.",
+            "createdAt": "2026-11-03T01:64:00.000Z",
+            "replies": []
+          }
+        ]
+      },
+      {
+        "id": "rook-feathers-toni-67",
+        "who": "toni",
+        "text": "I leave the house for ONE grocery run and come back to a dairy-based crime scene. Nobody touch anything.",
+        "createdAt": "2026-11-03T01:68:00.000Z",
+        "replies": [
+          {
+            "id": "rook-feathers-milo-66",
+            "who": "milo",
+            "text": "Can I touch the butter?",
+            "createdAt": "2026-11-03T01:67:00.000Z",
+            "replies": [
+              {
+                "id": "rook-feathers-toni-65",
+                "who": "toni",
+                "text": "NO.",
+                "createdAt": "2026-11-03T01:66:00.000Z",
+                "replies": []
+              }
+            ]
+          }
+        ]
+      }
+    ],
     "editedAt": "2026-11-03T01:41:58.142Z"
   }
 ]
