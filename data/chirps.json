@@ -7557,7 +7557,151 @@
     "text": "@GnomevilleDA Momma hissed at me! She HISSED at me! \n\nCall cat protective services!! Halp! \n\n#offended #shocked #catprotectiveservices #ididntdeserveit #ididntdonothing",
     "createdAt": "2026-11-03T06:03:27.402Z",
     "source": "composer",
-    "replies": []
+    "replies": [
+      {
+        "id": "milo-hiss-01",
+        "who": "toni",
+        "text": "Milo, are you safe? Do you need me to come over?",
+        "createdAt": "2026-11-03T09:14:00-06:00",
+        "replies": [
+          {
+            "id": "milo-hiss-02",
+            "who": "milo",
+            "text": "Bring treats. I am emotionally fragile.",
+            "createdAt": "2026-11-03T09:17:00-06:00",
+            "replies": []
+          },
+          {
+            "id": "milo-hiss-03",
+            "who": "tiffany",
+            "text": "He was attempting to climb the curtains. He's fine.",
+            "createdAt": "2026-11-03T09:22:00-06:00",
+            "replies": []
+          }
+        ]
+      },
+      {
+        "id": "milo-hiss-04",
+        "who": "cecil",
+        "text": "A HUMAN hissed at a CAT? The social order has collapsed. I demand an inquiry.",
+        "createdAt": "2026-11-03T09:31:00-06:00",
+        "replies": [
+          {
+            "id": "milo-hiss-05",
+            "who": "duck",
+            "text": "Inquiry request received. Please attach Form 17-HISS.",
+            "createdAt": "2026-11-03T09:38:00-06:00",
+            "replies": []
+          },
+          {
+            "id": "milo-hiss-06",
+            "who": "cecil",
+            "text": "YOU HAVE A FORM FOR THIS?!",
+            "createdAt": "2026-11-03T09:41:00-06:00",
+            "replies": []
+          }
+        ]
+      },
+      {
+        "id": "milo-hiss-07",
+        "who": "shirley",
+        "text": "I am appalled. I will need statements from both parties before determining whether this constitutes unlawful impersonation of a feline.",
+        "createdAt": "2026-11-03T10:02:00-06:00",
+        "replies": [
+          {
+            "id": "milo-hiss-08",
+            "who": "milo",
+            "text": "I have witnesses. The curtains saw everything.",
+            "createdAt": "2026-11-03T10:06:00-06:00",
+            "replies": []
+          },
+          {
+            "id": "milo-hiss-09",
+            "who": "shirley",
+            "text": "Curtains are not currently admissible witnesses.",
+            "createdAt": "2026-11-03T10:11:00-06:00",
+            "replies": []
+          }
+        ]
+      },
+      {
+        "id": "milo-hiss-10",
+        "who": "lucy",
+        "text": "Darling, being hissed at before coffee is simply part of living with other people.",
+        "createdAt": "2026-11-03T10:28:00-06:00",
+        "replies": [
+          {
+            "id": "milo-hiss-11",
+            "who": "milo",
+            "text": "I had not even had my breakfast tube.",
+            "createdAt": "2026-11-03T10:32:00-06:00",
+            "replies": []
+          }
+        ]
+      },
+      {
+        "id": "milo-hiss-12",
+        "who": "ollie",
+        "text": "For what it's worth, cats occasionally hiss at library patrons. I have never seen anyone file a formal complaint.",
+        "createdAt": "2026-11-03T11:09:00-06:00",
+        "replies": [
+          {
+            "id": "milo-hiss-13",
+            "who": "milo",
+            "text": "That's because you don't have my legal team.",
+            "createdAt": "2026-11-03T11:15:00-06:00",
+            "replies": []
+          }
+        ]
+      },
+      {
+        "id": "milo-hiss-14",
+        "who": "saltypete",
+        "text": "HISS BACK, YOU FURRY LANDLUBBER.",
+        "createdAt": "2026-11-03T12:21:00-06:00",
+        "replies": [
+          {
+            "id": "milo-hiss-15",
+            "who": "milo",
+            "text": "I did. She laughed at me.",
+            "createdAt": "2026-11-03T12:24:00-06:00",
+            "replies": []
+          },
+          {
+            "id": "milo-hiss-16",
+            "who": "saltypete",
+            "text": "DISGRACEFUL.",
+            "createdAt": "2026-11-03T12:28:00-06:00",
+            "replies": []
+          }
+        ]
+      },
+      {
+        "id": "milo-hiss-17",
+        "who": "rook",
+        "text": "Municipal mediation proposal: one apology, two squeeze treats, and a legally binding agreement to stop climbing the curtains.",
+        "createdAt": "2026-11-03T13:06:00-06:00",
+        "replies": [
+          {
+            "id": "milo-hiss-18",
+            "who": "tiffany",
+            "text": "I agree to the treats. He agrees to nothing.",
+            "createdAt": "2026-11-03T13:10:00-06:00",
+            "replies": []
+          },
+          {
+            "id": "milo-hiss-19",
+            "who": "milo",
+            "text": "I will consult my attorney.",
+            "createdAt": "2026-11-03T13:13:00-06:00",
+            "replies": []
+          }
+        ]
+      }
+    ],
+    "likes": 184,
+    "rechirps": 26,
+    "views": 2876
   },
   {
     "id": "live-43294a02-4cc0-4c8b-aecf-ad86d54bfa18",
