@@ -7565,6 +7565,15 @@
     "text": "@tiffany \n\n👀",
     "createdAt": "2026-11-04T22:53:49.362Z",
     "source": "composer",
-    "replies": []
+    "replies": [
+      {
+        "id": "reply-6453a061-537e-49a6-904f-1062bf5f548e",
+        "who": "tiffany",
+        "text": "Stop staring at me.",
+        "createdAt": "2026-11-05T01:13:41.813Z",
+        "source": "composer",
+        "replies": []
+      }
+    ]
   }
 ]
