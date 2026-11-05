@@ -7572,7 +7572,16 @@
         "text": "Stop staring at me.",
         "createdAt": "2026-11-05T01:13:41.813Z",
         "source": "composer",
-        "replies": []
+        "replies": [
+          {
+            "id": "reply-13988085-5644-407d-860d-7a843229007c",
+            "who": "milo",
+            "text": "No.\n\n👀",
+            "createdAt": "2026-11-05T01:14:37.404Z",
+            "source": "composer",
+            "replies": []
+          }
+        ]
       }
     ]
   }
