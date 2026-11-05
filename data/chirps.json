@@ -7584,5 +7584,229 @@
         ]
       }
     ]
+  },
+  {
+    "id": "nov04-2026-chirp-01",
+    "who": "duck",
+    "createdAt": "2026-11-04T18:10:00-06:00",
+    "text": "The Gazette has published an unauthorized likeness of me surrounded by paperwork. I object to the word “surrounded.” Those files are organized by urgency, subcommittee, and emotional significance. 🦆📑 #TheMorningAfter",
+    "replies": [
+      {
+        "id": "bd2-reply-1",
+        "who": "shirley",
+        "text": "Is the likeness unauthorized, or is the paperwork unauthorized?",
+        "createdAt": "2026-11-04T18:14:00-06:00",
+        "replies": [
+          {
+            "id": "bd2-reply-2",
+            "who": "duck",
+            "text": "Please submit that question in triplicate.",
+            "createdAt": "2026-11-04T18:18:00-06:00",
+            "replies": []
+          }
+        ]
+      },
+      {
+        "id": "bd2-reply-3",
+        "who": "milo",
+        "text": "I could reorganize it for you.",
+        "createdAt": "2026-11-04T18:22:00-06:00",
+        "replies": [
+          {
+            "id": "bd2-reply-4",
+            "who": "duck",
+            "text": "YOU ARE THE REASON THE FILES HAVE LIDS.",
+            "createdAt": "2026-11-04T18:25:00-06:00",
+            "replies": []
+          }
+        ]
+      }
+    ],
+    "likes": 86,
+    "rechirps": 17,
+    "views": 1420
+  },
+  {
+    "id": "nov04-2026-chirp-02",
+    "who": "cecil",
+    "createdAt": "2026-11-04T18:29:00-06:00",
+    "text": "A duck gets a comic strip and suddenly the entire town is discussing HIS office. I have maintained a perfectly photogenic skull for years. Where is MY four-panel tribute? 💀",
+    "replies": [
+      {
+        "id": "bd2-reply-5",
+        "who": "bette",
+        "text": "Darling, a close-up is not a plot.",
+        "createdAt": "2026-11-04T18:35:00-06:00",
+        "replies": [
+          {
+            "id": "bd2-reply-6",
+            "who": "cecil",
+            "text": "It is when the bone structure is this good.",
+            "createdAt": "2026-11-04T18:39:00-06:00",
+            "replies": []
+          }
+        ]
+      },
+      {
+        "id": "bd2-reply-7",
+        "who": "webster",
+        "text": "I advise against further public statements.",
+        "createdAt": "2026-11-04T18:43:00-06:00",
+        "replies": []
+      }
+    ],
+    "likes": 41,
+    "rechirps": 5,
+    "views": 793
+  },
+  {
+    "id": "nov04-2026-chirp-03",
+    "who": "lucy",
+    "createdAt": "2026-11-04T18:48:00-06:00",
+    "text": "I opened the Gazette expecting a fashion column and found a duck having the time of his life with municipal investigations. Good for him. I suppose. 🪿☕",
+    "replies": [
+      {
+        "id": "bd2-reply-8",
+        "who": "bette",
+        "text": "At least the bow tie is doing some work.",
+        "createdAt": "2026-11-04T18:53:00-06:00",
+        "replies": []
+      },
+      {
+        "id": "bd2-reply-9",
+        "who": "duck",
+        "text": "Thank you. It is regulation burgundy.",
+        "createdAt": "2026-11-04T18:58:00-06:00",
+        "replies": []
+      }
+    ],
+    "likes": 112,
+    "rechirps": 12,
+    "views": 2068
+  },
+  {
+    "id": "nov04-2026-chirp-04",
+    "who": "ollie",
+    "createdAt": "2026-11-04T19:03:00-06:00",
+    "text": "Someone returned a library book inside a folder marked EVIDENCE. The book is six months overdue. The folder is stamped APPROVED. Neither fact cancels the other. 📚",
+    "replies": [
+      {
+        "id": "bd2-reply-10",
+        "who": "duck",
+        "text": "Which department approved the folder?",
+        "createdAt": "2026-11-04T19:07:00-06:00",
+        "replies": [
+          {
+            "id": "bd2-reply-11",
+            "who": "ollie",
+            "text": "The library is not opening an investigation.",
+            "createdAt": "2026-11-04T19:11:00-06:00",
+            "replies": []
+          }
+        ]
+      }
+    ],
+    "likes": 28,
+    "rechirps": 3,
+    "views": 364
+  },
+  {
+    "id": "nov04-2026-chirp-05",
+    "who": "trattoria",
+    "createdAt": "2026-11-04T19:19:00-06:00",
+    "text": "Tonight's special: baked pasta, garlic bread, and a firm reminder that leftovers are not an insult to the chef. Nonna is unconvinced. 🍝",
+    "replies": [
+      {
+        "id": "bd2-reply-12",
+        "who": "nonna",
+        "text": "Nobody ate! I cooked for nothing!",
+        "createdAt": "2026-11-04T19:24:00-06:00",
+        "replies": []
+      },
+      {
+        "id": "bd2-reply-13",
+        "who": "tony",
+        "text": "I ate twice. Do I get a witness statement?",
+        "createdAt": "2026-11-04T19:28:00-06:00",
+        "replies": [
+          {
+            "id": "bd2-reply-14",
+            "who": "trattoria",
+            "text": "You get a bill.",
+            "createdAt": "2026-11-04T19:32:00-06:00",
+            "replies": []
+          }
+        ]
+      }
+    ],
+    "likes": 137,
+    "rechirps": 9,
+    "views": 1827
+  },
+  {
+    "id": "nov04-2026-chirp-06",
+    "who": "milo",
+    "createdAt": "2026-11-04T19:37:00-06:00",
+    "text": "For the record, I did not resign from anything. I merely pushed one (1) document onto the floor to see whether gravity was still operational. It was. 🐈",
+    "replies": [
+      {
+        "id": "bd2-reply-15",
+        "who": "toni",
+        "text": "One?",
+        "createdAt": "2026-11-04T19:40:00-06:00",
+        "replies": [
+          {
+            "id": "bd2-reply-16",
+            "who": "milo",
+            "text": "One at a time.",
+            "createdAt": "2026-11-04T19:43:00-06:00",
+            "replies": []
+          }
+        ]
+      },
+      {
+        "id": "bd2-reply-17",
+        "who": "duck",
+        "text": "THIS IS AN ADMISSION.",
+        "createdAt": "2026-11-04T19:46:00-06:00",
+        "replies": []
+      }
+    ],
+    "likes": 205,
+    "rechirps": 33,
+    "views": 3214
+  },
+  {
+    "id": "nov04-2026-chirp-07",
+    "who": "mayor",
+    "createdAt": "2026-11-04T19:56:00-06:00",
+    "text": "The Office of the Mayor wishes to clarify that the Gazette comic is a work of satire and should not be interpreted as a statement regarding the municipality's current number of active investigations.",
+    "replies": [
+      {
+        "id": "bd2-reply-18",
+        "who": "shirley",
+        "text": "Is that number classified?",
+        "createdAt": "2026-11-04T20:01:00-06:00",
+        "replies": [
+          {
+            "id": "bd2-reply-19",
+            "who": "mayor",
+            "text": "It is under review.",
+            "createdAt": "2026-11-04T20:05:00-06:00",
+            "replies": []
+          }
+        ]
+      },
+      {
+        "id": "bd2-reply-20",
+        "who": "saltypete",
+        "text": "So yes.",
+        "createdAt": "2026-11-04T20:09:00-06:00",
+        "replies": []
+      }
+    ],
+    "likes": 19,
+    "rechirps": 2,
+    "views": 609
   }
 ]
