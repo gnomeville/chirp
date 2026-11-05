@@ -7561,20 +7561,20 @@
       {
         "id": "milo-hiss-01",
         "who": "toni",
-        "text": "Milo, are you safe? Do you need me to come over?",
+        "text": "You deserved it",
         "createdAt": "2026-11-03T09:14:00-06:00",
         "replies": [
           {
             "id": "milo-hiss-02",
             "who": "milo",
-            "text": "Bring treats. I am emotionally fragile.",
+            "text": "Nuh-uh",
             "createdAt": "2026-11-03T09:17:00-06:00",
             "replies": []
           },
           {
             "id": "milo-hiss-03",
             "who": "tiffany",
-            "text": "He was attempting to climb the curtains. He's fine.",
+            "text": "He was attempting to climb the coffee table. He's fine.",
             "createdAt": "2026-11-03T09:22:00-06:00",
             "replies": []
           }
