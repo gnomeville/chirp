@@ -427,5 +427,33 @@
     "location": "Gnomeville",
     "image": "assets/tiffany-avatar.png",
     "tagline": "💀 Chaos Coordinator · Twisted Sisters Café"
+  },
+  "gerald": {
+    "name": "Gerald",
+    "handle": "GeraldTheMagnificent",
+    "avatar": "🦝",
+    "bio": "Monocle enthusiast. Executive producer. Founder, Rook's Meats. Charisma cannot be taught.",
+    "location": "Formerly Rook's left trouser leg · Gnomeville",
+    "following": 93,
+    "followers": 1842,
+    "tagline": "CEO · Rook's Meats · Unapologetically charismatic"
+  },
+  "arthur": {
+    "name": "Arthur",
+    "handle": "ArthurEats",
+    "avatar": "🦝",
+    "bio": "Cannoli correspondent. Trouser-dwelling food critic. Pants are a government conspiracy.",
+    "location": "Formerly Rook's waistcoat · Gnomeville",
+    "following": 47,
+    "followers": 612
+  },
+  "pickles": {
+    "name": "Pickles",
+    "handle": "PicklesNotGuilty",
+    "avatar": "🦝",
+    "bio": "Entrepreneur. Alleged gambler. All accusations are pending review. Ask my attorney.",
+    "location": "Formerly Rook's right pocket · Gnomeville",
+    "following": 308,
+    "followers": 1077
   }
 }
