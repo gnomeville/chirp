@@ -8186,5 +8186,344 @@
     "createdAt": "2026-11-05T23:29:44.218Z",
     "source": "composer",
     "replies": []
+  },
+  {
+    "id": "pants-raccoons-2026-01",
+    "who": "gerald",
+    "createdAt": "2026-10-12T09:17:00-05:00",
+    "text": "The accommodations are cramped, the landlord is metallic, and someone keeps putting a pocket watch in our breakfast nook. Nevertheless, I foresee tremendous commercial potential. #TrouserLife",
+    "likes": 29,
+    "rechirps": 3,
+    "views": 483,
+    "replies": [
+      {
+        "id": "gr1",
+        "who": "arthur",
+        "text": "The breakfast nook is my bed.",
+        "createdAt": "2026-10-12T09:25:00-05:00",
+        "replies": []
+      },
+      {
+        "id": "gr2",
+        "who": "pickles",
+        "text": "Allegedly my watch.",
+        "createdAt": "2026-10-12T09:29:00-05:00",
+        "replies": []
+      }
+    ]
+  },
+  {
+    "id": "pants-raccoons-2026-02",
+    "who": "arthur",
+    "createdAt": "2026-10-15T22:04:00-05:00",
+    "text": "Food review: one cannoli crumb recovered from the gentleman's waistcoat. 10/10. Service slow. Would nest again.",
+    "likes": 67,
+    "rechirps": 8,
+    "views": 921,
+    "replies": [
+      {
+        "id": "ar1",
+        "who": "gerald",
+        "text": "That was company inventory.",
+        "createdAt": "2026-10-15T22:15:00-05:00",
+        "replies": []
+      },
+      {
+        "id": "ar2",
+        "who": "arthur",
+        "text": "Then the company has excellent taste.",
+        "createdAt": "2026-10-15T22:18:00-05:00",
+        "replies": []
+      }
+    ]
+  },
+  {
+    "id": "pants-raccoons-2026-03",
+    "who": "pickles",
+    "createdAt": "2026-10-19T01:12:00-05:00",
+    "text": "Hypothetical question: if a pocket watch falls into a raccoon's possession, is that theft or gravity? #AskingForAFriend",
+    "likes": 14,
+    "rechirps": 2,
+    "views": 266,
+    "replies": [
+      {
+        "id": "pi1",
+        "who": "shirley",
+        "text": "Do not answer further questions without counsel.",
+        "createdAt": "2026-10-19T08:03:00-05:00",
+        "replies": []
+      },
+      {
+        "id": "pi2",
+        "who": "pickles",
+        "text": "Excellent. Retainer payable in bottle caps?",
+        "createdAt": "2026-10-19T08:09:00-05:00",
+        "replies": []
+      }
+    ]
+  },
+  {
+    "id": "pants-raccoons-2026-04",
+    "who": "gerald",
+    "createdAt": "2026-10-25T18:40:00-05:00",
+    "text": "Our landlord has begun polishing his knee joints. Morale is low. The glare is unacceptable. We demand curtains in the left trouser leg.",
+    "likes": 41,
+    "rechirps": 6,
+    "views": 705,
+    "replies": [
+      {
+        "id": "gr3",
+        "who": "rook",
+        "text": "YOU LIVE IN MY TROUSERS WITHOUT PERMISSION.",
+        "createdAt": "2026-10-25T19:01:00-05:00",
+        "replies": []
+      },
+      {
+        "id": "gr4",
+        "who": "gerald",
+        "text": "And yet you have never returned our security deposit.",
+        "createdAt": "2026-10-25T19:05:00-05:00",
+        "replies": []
+      }
+    ]
+  },
+  {
+    "id": "pants-raccoons-2026-05",
+    "who": "arthur",
+    "createdAt": "2026-10-30T12:13:00-05:00",
+    "text": "Emergency update: the robot sat down while I was eating. One cannoli lost. I will be observing a moment of silence.",
+    "likes": 103,
+    "rechirps": 13,
+    "views": 1827,
+    "replies": [
+      {
+        "id": "ar3",
+        "who": "pickles",
+        "text": "I ate the cannoli.",
+        "createdAt": "2026-10-30T12:18:00-05:00",
+        "replies": []
+      },
+      {
+        "id": "ar4",
+        "who": "arthur",
+        "text": "THEN I WILL BE OBSERVING A MOMENT OF VIOLENCE.",
+        "createdAt": "2026-10-30T12:20:00-05:00",
+        "replies": []
+      },
+      {
+        "id": "ar5",
+        "who": "milo",
+        "text": "Finally, a reasonable family member.",
+        "createdAt": "2026-10-30T12:22:00-05:00",
+        "replies": []
+      }
+    ]
+  },
+  {
+    "id": "pants-raccoons-2026-06",
+    "who": "pickles",
+    "createdAt": "2026-11-02T23:46:00-06:00",
+    "text": "I have not stolen the groom's pocket watch. Please stop searching my bedding. This statement has been approved by absolutely no attorney.",
+    "likes": 52,
+    "rechirps": 4,
+    "views": 1180,
+    "replies": [
+      {
+        "id": "pi3",
+        "who": "rook",
+        "text": "PICKLES. GIVE IT BACK.",
+        "createdAt": "2026-11-02T23:49:00-06:00",
+        "replies": []
+      },
+      {
+        "id": "pi4",
+        "who": "pickles",
+        "text": "I invoke the Fifth and the upholstery.",
+        "createdAt": "2026-11-02T23:52:00-06:00",
+        "replies": []
+      }
+    ]
+  },
+  {
+    "id": "pants-raccoons-2026-07",
+    "who": "gerald",
+    "createdAt": "2026-11-06T12:58:00-06:00",
+    "text": "IT'S CALLED CHARISMA, YOU CHROME-PLATED VIRGIN! 🦝🎩 #ThreeRaccoonsAndARook",
+    "likes": 2387,
+    "rechirps": 409,
+    "views": 42816,
+    "replies": [
+      {
+        "id": "gr5",
+        "who": "rook",
+        "text": "I AM LITERALLY ENGAGED.",
+        "createdAt": "2026-11-06T13:00:00-06:00",
+        "replies": [
+          {
+            "id": "gr5a",
+            "who": "gerald",
+            "text": "And yet here we are, selling sausages.",
+            "createdAt": "2026-11-06T13:01:00-06:00",
+            "replies": []
+          }
+        ]
+      },
+      {
+        "id": "gr6",
+        "who": "tiffany",
+        "text": "I am framing this.",
+        "createdAt": "2026-11-06T13:03:00-06:00",
+        "replies": []
+      },
+      {
+        "id": "gr7",
+        "who": "pickles",
+        "text": "Bro got ratioed by his own pants.",
+        "createdAt": "2026-11-06T13:04:00-06:00",
+        "replies": []
+      },
+      {
+        "id": "gr8",
+        "who": "arthur",
+        "text": "Anyone know if the cannoli machine is still working?",
+        "createdAt": "2026-11-06T13:06:00-06:00",
+        "replies": []
+      },
+      {
+        "id": "gr9",
+        "who": "duck",
+        "text": "Public indecency complaints require Form 27-B.",
+        "createdAt": "2026-11-06T13:08:00-06:00",
+        "replies": []
+      }
+    ]
+  },
+  {
+    "id": "pants-raccoons-2026-08",
+    "who": "pickles",
+    "createdAt": "2026-11-06T13:05:00-06:00",
+    "text": "BREAKING: Three Raccoons and a Rook has been optioned by Gnomeflix. I negotiated the rights. No, I cannot explain how.",
+    "likes": 421,
+    "rechirps": 55,
+    "views": 9540,
+    "replies": [
+      {
+        "id": "pi5",
+        "who": "rook",
+        "text": "WE OWN GNOMEFLIX, YOU LITTLE SHIT.",
+        "createdAt": "2026-11-06T13:07:00-06:00",
+        "replies": []
+      },
+      {
+        "id": "pi6",
+        "who": "pickles",
+        "text": "Vertical integration, father.",
+        "createdAt": "2026-11-06T13:09:00-06:00",
+        "replies": []
+      },
+      {
+        "id": "pi7",
+        "who": "gerald",
+        "text": "I demand executive producer credit.",
+        "createdAt": "2026-11-06T13:11:00-06:00",
+        "replies": []
+      }
+    ]
+  },
+  {
+    "id": "pants-raccoons-2026-09",
+    "who": "arthur",
+    "createdAt": "2026-11-06T13:10:00-06:00",
+    "text": "ROOK'S MEATS IS OPEN. I request a cannoli fountain and a walk-in freezer. My colleagues are discussing margins. I am discussing lunch. #RooksMeats",
+    "likes": 189,
+    "rechirps": 27,
+    "views": 3912,
+    "replies": [
+      {
+        "id": "ar6",
+        "who": "nonna",
+        "text": "You didn't eat! I cooked for nothing!",
+        "createdAt": "2026-11-06T13:12:00-06:00",
+        "replies": []
+      },
+      {
+        "id": "ar7",
+        "who": "arthur",
+        "text": "NONNA I AM ON MY WAY.",
+        "createdAt": "2026-11-06T13:13:00-06:00",
+        "replies": []
+      },
+      {
+        "id": "ar8",
+        "who": "duck",
+        "text": "WHERE IS YOUR COMMERCIAL OPERATING PERMIT?",
+        "createdAt": "2026-11-06T13:14:00-06:00",
+        "replies": []
+      }
+    ]
+  },
+  {
+    "id": "pants-raccoons-2026-10",
+    "who": "gerald",
+    "createdAt": "2026-11-06T13:17:00-06:00",
+    "text": "OFFICIAL: Rook's Meats. We've got the biggest sausage in Gnomeville! Introducing the Mrs. Grey Special: EXTRA SPICY. Ownership: 60% Mrs. Grey & Rook, 40% raccoon management. Dental negotiations ongoing.",
+    "likes": 912,
+    "rechirps": 147,
+    "views": 19344,
+    "replies": [
+      {
+        "id": "gr10",
+        "who": "tiffany",
+        "text": "The Mrs. Grey Special is APPROVED. Sixty percent. Nonnegotiable.",
+        "createdAt": "2026-11-06T13:19:00-06:00",
+        "replies": []
+      },
+      {
+        "id": "gr11",
+        "who": "rook",
+        "text": "I would like it noted that I did not approve the slogan.",
+        "createdAt": "2026-11-06T13:20:00-06:00",
+        "replies": []
+      },
+      {
+        "id": "gr12",
+        "who": "pickles",
+        "text": "Does the dental plan cover all twelve of our teeth?",
+        "createdAt": "2026-11-06T13:21:00-06:00",
+        "replies": []
+      },
+      {
+        "id": "gr13",
+        "who": "duck",
+        "text": "WITCHCRAFT IS NOT A RECOGNIZED BUSINESS ENTITY.",
+        "createdAt": "2026-11-06T13:22:00-06:00",
+        "replies": []
+      }
+    ]
+  },
+  {
+    "id": "pants-raccoons-2026-11",
+    "who": "pickles",
+    "createdAt": "2026-11-06T13:24:00-06:00",
+    "text": "Our first health inspection is pending. Betting pool opens at noon. I am not taking bets. This is a hypothetical public opinion survey.",
+    "likes": 78,
+    "rechirps": 9,
+    "views": 2011,
+    "replies": [
+      {
+        "id": "pi8",
+        "who": "shirley",
+        "text": "Please stop posting evidence.",
+        "createdAt": "2026-11-06T13:25:00-06:00",
+        "replies": []
+      },
+      {
+        "id": "pi9",
+        "who": "duck",
+        "text": "I CAN SEE THIS.",
+        "createdAt": "2026-11-06T13:26:00-06:00",
+        "replies": []
+      }
+    ]
   }
 ]
