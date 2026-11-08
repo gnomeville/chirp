@@ -2,7 +2,7 @@
 
 Target repository: `gnomeville/chirp`, default branch `main`.
 
-The workflow and script publish **at most one** preapproved installment on Monday, Wednesday, and Friday in `America/Chicago`. GitHub Actions checks daily at 18:17 UTC; execution may be delayed. Existing `index.html`, `data/chirps.json`, and `data/people.json` are preserved.
+The workflow and script publish **multiple** preapproved installment on Monday, Wednesday, and Friday in `America/Chicago`. GitHub Actions checks daily at 18:17 UTC; execution may be delayed. Existing `index.html`, `data/chirps.json`, and `data/people.json` are preserved.
 
 ## Adding a preapproved batch
 
@@ -19,7 +19,7 @@ Edit `data/approved-story-queue.json` with an array of items shaped like:
 }
 ```
 
-Only place explicitly approved, public-safe text in this queue. This is a **public repository**, so queue entries are visible even before they publish. Keep private drafts, secrets, and disputed canon in Notion. Items are ordered by `not_before` then `id`. Assign dates to preserve story order. The system does not generate new text or canon. Empty queue means no publishing.
+The queue currently contains 26 explicitly approved Chirps, dated November 9 through December 9, 2026. Multiple independent storylines may publish on the same day. The workflow runs once daily, so those posts will appear together rather than at individually staggered hours. Tony's four promotions are scheduled for Fridays. The publisher does not yet automatically create new weekly promotions after this batch ends.\n\nOnly place explicitly approved, public-safe text in this queue. This is a **public repository**, so queue entries are visible even before they publish. Keep private drafts, secrets, and disputed canon in Notion. Items are ordered by `not_before` then `id`. Assign dates to preserve story order. The system does not generate new text or canon. Empty queue means no publishing.
 
 ## Safeguards and checks
 
