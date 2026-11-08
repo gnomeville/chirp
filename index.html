@@ -75,7 +75,20 @@ function honoraryLikes(p){
  if(tier===8)return 5000+(n%15001);     // 5,000–20,000
  return 20000+(n%80001);                // occasional 20,000–100,000
 }
-function decorate(p){return {...p,when:postDate(p),likes:honoraryLikes(p),rechirps:p.rechirps??2}}
+// Stable fictional activity for editorially scheduled story posts, not site analytics.
+function fictionalNumber(id,salt){let h=2166136261;for(const c of String(id)+'|'+salt){h=Math.imul(h^c.charCodeAt(0),16777619)}return h>>>0}
+function fictionalEngagement(p){
+ if(!p.storyId)return null;
+ const n=fictionalNumber(p.id,'reach'),v=fictionalNumber(p.id,'views'),r=fictionalNumber(p.id,'rechirps');
+ // Different accounts have different audiences; individual posts vary widely.
+ const scale={milo:2.3,cecil:1.7,lucy:1.9,bette:1.6,tony:1.35,chateau:1.5,mayor:1.45,gnomevillepd:1.3,duck:0.9,ollie:0.65,shirley:1.1}[p.who]||1;
+ const breakout=n%17===0?5:n%7===0?2.3:1;
+ const likes=Math.max(3,Math.round((12+(n%210))*scale*breakout));
+ const rechirps=Math.max(1,Math.round(likes*(0.035+(r%135)/1000)));
+ const views=Math.max(likes+rechirps+20,Math.round(likes*(8+(v%23))));
+ return {likes,rechirps,views};
+}
+function decorate(p){const fiction=fictionalEngagement(p);return {...p,when:postDate(p),likes:fiction?fiction.likes:honoraryLikes(p),rechirps:fiction?fiction.rechirps:(p.rechirps??2),views:Number.isFinite(p.views)?p.views:(fiction?fiction.views:undefined)}}
 function makeFeed(){
  const available=library.filter(isPublished).map(decorate);
  const weekAgo=Date.now()-7*24*60*60*1000;
