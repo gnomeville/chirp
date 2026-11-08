@@ -8185,7 +8185,16 @@
     "text": "@tiffany \n\n👀\n\n\n\n👀\n\n\n\n\n👀",
     "createdAt": "2026-11-05T23:29:44.218Z",
     "source": "composer",
-    "replies": []
+    "replies": [
+      {
+        "id": "reply-7bf318dc-7618-46fa-8cfd-87a5432511fc",
+        "who": "toni",
+        "text": "👀",
+        "createdAt": "2026-11-08T05:35:18.195Z",
+        "source": "composer",
+        "replies": []
+      }
+    ]
   },
   {
     "id": "pants-raccoons-2026-01",
