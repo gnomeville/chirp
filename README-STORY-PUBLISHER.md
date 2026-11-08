@@ -32,3 +32,7 @@ The queue currently contains 26 explicitly approved Chirps, dated November 9 thr
 - Pause by disabling the workflow or emptying the queue.
 
 **Status:** Workflow installed; queue intentionally empty pending editorial approval. No story installment has been published by this workflow yet.
+
+## Engagement display
+
+Scheduled story posts receive stable, post-specific fictional starting likes, rechirps and views, calculated client-side from post ID and account. These are **fictional presentation numbers**, not real analytics or server-synchronized activity. Existing posts retain their existing engagement behavior. Each visitor's like and rechirp toggles continue to use localStorage, so visitor interactions do not synchronize across browsers. Genuine reply data remains untouched. To add shared real engagement in the future, a persistent backend and abuse controls are required.
