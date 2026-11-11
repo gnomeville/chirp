@@ -36,3 +36,13 @@ The queue currently contains 26 explicitly approved Chirps, dated November 9 thr
 ## Engagement display
 
 Scheduled story posts receive stable, post-specific fictional starting likes, rechirps and views, calculated client-side from post ID and account. These are **fictional presentation numbers**, not real analytics or server-synchronized activity. Existing posts retain their existing engagement behavior. Each visitor's like and rechirp toggles continue to use localStorage, so visitor interactions do not synchronize across browsers. Genuine reply data remains untouched. To add shared real engagement in the future, a persistent backend and abuse controls are required.
+
+## Surprise Reserve (approved one-offs)
+
+Add a fully approved standalone Chirp to `data/surprise-reserve.json` once. Required fields: `id` (unique immutable ID), `who` (existing person key), `text` (exact approved public copy), `approved_on` (Chicago calendar date YYYY-MM-DD), `approval: "approved"`. Optional `canon_status` is editorial context, not automatically new canon. Do not place unapproved material in the public repository.
+
+The existing daily GitHub Actions workflow runs the surprise publisher **after** scheduled story posts. Surprise releases are eligible seven days after approval, chosen by a deterministic date-based gate (roughly two candidate days weekly), capped at one surprise per day and two per Chicago calendar week. It may be silent for a week. The algorithm never invents text, repeats a published ID, or requires a second approval. Random-looking timing is intentionally not displayed in Chirp's editorial feed; GitHub's public repository and workflow remain inspectable. Scheduled stories are unaffected. A public repository cannot hide unpublished approved surprise copy from someone inspecting GitHub.
+
+Initial approved item: Milo's Domestic Intelligence Operations surveillance Chirp, approved November 11, 2026. Earliest eligibility November 18, 2026. No guaranteed publication date.
+
+Validation: check Actions for successful workflow, confirm a surprise appears at most once, and ensure the existing story queue continues to publish. No live surprise has been published or verified yet.
