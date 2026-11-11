@@ -1,5 +1,27 @@
 [
   {
+    "id": "story-cheese-2026-01",
+    "who": "ollie",
+    "createdAt": "2026-11-11T13:13:47-06:00",
+    "text": "Whoever is putting cheese in the library return slot:\n\nPlease stop.\n\nWe have a perfectly good suggestion box.\n\nActually, don't put it there either.\n\n#LibraryNotice",
+    "replies": [],
+    "likes": 0,
+    "rechirps": 0,
+    "storyId": "cheese",
+    "storyPublishedOn": "2026-11-11"
+  },
+  {
+    "id": "story-cecil-2026-01",
+    "who": "cecil",
+    "createdAt": "2026-11-11T13:13:47-06:00",
+    "text": "Someone has described my buttercream as \"a bit much.\"\n\nI have contacted Webster.\n\n#LegalProceedings",
+    "replies": [],
+    "likes": 0,
+    "rechirps": 0,
+    "storyId": "cecil",
+    "storyPublishedOn": "2026-11-11"
+  },
+  {
     "id": "story-party-2026-01",
     "who": "milo",
     "createdAt": "2026-11-09T13:08:57-06:00",
