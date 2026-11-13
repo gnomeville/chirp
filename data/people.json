@@ -455,5 +455,12 @@
     "location": "Formerly Rook's right pocket · Gnomeville",
     "following": 308,
     "followers": 1077
+  },
+  "raven": {
+    "name": "Raven",
+    "handle": "RavenOfThePecan",
+    "avatar": "🐦‍⬛",
+    "bio": "Custodian of the Original Pecan. Patron of the Museum of Strategic Pecan History. Unnecessary dramatic flair is a necessity.",
+    "verified": false
   }
 }
