@@ -8727,7 +8727,16 @@
         "who": "gerald",
         "text": "Three delegates and not one thought to negotiate lodging for the raccoons. Typical.",
         "createdAt": "2026-11-13T01:05:00-06:00",
-        "replies": []
+        "replies": [
+          {
+            "id": "reply-245f22de-6120-4080-8e4c-cb766a89c16b",
+            "who": "tiffany",
+            "text": "You live in the Quackhouse with BD! Don't make me send you to Siberia again, Gerald!",
+            "createdAt": "2026-11-13T12:06:28.697Z",
+            "source": "composer",
+            "replies": []
+          }
+        ]
       },
       {
         "id": "reply-pecan-nov13-rook-summit-2026-01-2",
