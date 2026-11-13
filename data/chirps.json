@@ -4,7 +4,22 @@
     "who": "ollie",
     "createdAt": "2026-11-11T13:13:47-06:00",
     "text": "Whoever is putting cheese in the library return slot:\n\nPlease stop.\n\nWe have a perfectly good suggestion box.\n\nActually, don't put it there either.\n\n#LibraryNotice",
-    "replies": [],
+    "replies": [
+      {
+        "id": "reply-pecan-nov13-story-cheese-2026-01-1",
+        "who": "cecil",
+        "text": "I can identify the cheese if you provide a sample. For scientific purposes.",
+        "createdAt": "2026-11-13T01:05:00-06:00",
+        "replies": []
+      },
+      {
+        "id": "reply-pecan-nov13-story-cheese-2026-01-2",
+        "who": "ollie",
+        "text": "NO SAMPLES. NO CHEESE. NO SUGGESTION BOX.",
+        "createdAt": "2026-11-13T01:17:00-06:00",
+        "replies": []
+      }
+    ],
     "likes": 0,
     "rechirps": 0,
     "storyId": "cheese",
@@ -15,7 +30,29 @@
     "who": "cecil",
     "createdAt": "2026-11-11T13:13:47-06:00",
     "text": "Someone has described my buttercream as \"a bit much.\"\n\nI have contacted Webster.\n\n#LegalProceedings",
-    "replies": [],
+    "replies": [
+      {
+        "id": "reply-pecan-nov13-story-cecil-2026-01-1",
+        "who": "webster",
+        "text": "I have reviewed the complaint. The buttercream is indeed a bit much. This is not actionable.",
+        "createdAt": "2026-11-13T01:05:00-06:00",
+        "replies": []
+      },
+      {
+        "id": "reply-pecan-nov13-story-cecil-2026-01-2",
+        "who": "cecil",
+        "text": "You are FIRED. Again.",
+        "createdAt": "2026-11-13T01:17:00-06:00",
+        "replies": []
+      },
+      {
+        "id": "reply-pecan-nov13-story-cecil-2026-01-3",
+        "who": "lucy",
+        "text": "A bit much is the minimum acceptable amount.",
+        "createdAt": "2026-11-13T01:29:00-06:00",
+        "replies": []
+      }
+    ],
     "likes": 0,
     "rechirps": 0,
     "storyId": "cecil",
@@ -26,7 +63,29 @@
     "who": "milo",
     "createdAt": "2026-11-09T13:08:57-06:00",
     "text": "IMPORTANT LEGAL UPDATE:\n\nMy attorney has advised me to stop discussing the party.\n\nI have decided to seek a second opinion.\n\nDoes anyone know a lawyer who accepts chicken?\n\n#InnocentUntilProvenFluffy",
-    "replies": [],
+    "replies": [
+      {
+        "id": "reply-pecan-nov13-story-party-2026-01-1",
+        "who": "shirley",
+        "text": "My fee is payable in treats. I make no promises regarding your testimony.",
+        "createdAt": "2026-11-13T01:05:00-06:00",
+        "replies": []
+      },
+      {
+        "id": "reply-pecan-nov13-story-party-2026-01-2",
+        "who": "milo",
+        "text": "Finally. A professional.",
+        "createdAt": "2026-11-13T01:17:00-06:00",
+        "replies": []
+      },
+      {
+        "id": "reply-pecan-nov13-story-party-2026-01-3",
+        "who": "duck",
+        "text": "THE PARTY REMAINS UNDER ADMINISTRATIVE REVIEW.",
+        "createdAt": "2026-11-13T01:29:00-06:00",
+        "replies": []
+      }
+    ],
     "likes": 0,
     "rechirps": 0,
     "storyId": "party",
@@ -2304,7 +2363,22 @@
     "id": "live-eda93cb7-e717-40db-a8ed-7493c7dec80c",
     "who": "duck",
     "text": "The Department of Digital Communications is pleased to announce that its new publishing system is operational.\n\nNo one has yet determined who authorized this.\n\n#MunicipalAffairs",
-    "replies": [],
+    "replies": [
+      {
+        "id": "reply-pecan-nov13-live-eda93cb7-e717-40db-a8ed-7493c7d-1",
+        "who": "rook",
+        "text": "I authorized it. Possibly. I have three signatures and no recollection of signing.",
+        "createdAt": "2026-11-13T01:05:00-06:00",
+        "replies": []
+      },
+      {
+        "id": "reply-pecan-nov13-live-eda93cb7-e717-40db-a8ed-7493c7d-2",
+        "who": "duck",
+        "text": "THIS IS NOT AN ACCEPTABLE CHAIN OF COMMAND.",
+        "createdAt": "2026-11-13T01:17:00-06:00",
+        "replies": []
+      }
+    ],
     "source": "composer",
     "likes": 8,
     "rechirps": 4
@@ -2470,7 +2544,22 @@
     "who": "honeybaby",
     "text": "Hi.\n\nDerpy has a Birthday Mouse.\n\nHe's very little.\n\nI love him. 💙",
     "createdAt": "2026-10-29T23:46:57.323Z",
-    "replies": [],
+    "replies": [
+      {
+        "id": "reply-pecan-nov13-live-honeybaby-intro-20261029-1",
+        "who": "derpy",
+        "text": "Birthday Mouse says hi! 🐭",
+        "createdAt": "2026-11-13T01:05:00-06:00",
+        "replies": []
+      },
+      {
+        "id": "reply-pecan-nov13-live-honeybaby-intro-20261029-2",
+        "who": "honeybaby",
+        "text": "Hi Birthday Mouse. 💙",
+        "createdAt": "2026-11-13T01:17:00-06:00",
+        "replies": []
+      }
+    ],
     "source": "composer",
     "likes": 117,
     "rechirps": 8
@@ -7057,7 +7146,22 @@
     "text": "The Gnomeville municipal communications system has undergone scheduled maintenance.\n\nResidents may resume their regularly scheduled nonsense.\n\nThe Department of Information Technology denies all allegations of supernatural interference. 👻\n\n#Gnomeville #MunicipalNotice",
     "createdAt": "2026-11-02T18:29:00.928Z",
     "source": "composer",
-    "replies": []
+    "replies": [
+      {
+        "id": "reply-pecan-nov13-live-a38706ac-98bf-480f-99a5-c065e51-1",
+        "who": "rook",
+        "text": "Scheduled nonsense has resumed ahead of schedule.",
+        "createdAt": "2026-11-13T01:05:00-06:00",
+        "replies": []
+      },
+      {
+        "id": "reply-pecan-nov13-live-a38706ac-98bf-480f-99a5-c065e51-2",
+        "who": "duck",
+        "text": "UNAUTHORIZED EARLY NONSENSE IS STILL NONSENSE.",
+        "createdAt": "2026-11-13T01:17:00-06:00",
+        "replies": []
+      }
+    ]
   },
   {
     "id": "live-1f066029-6bf5-4080-8629-dc41632636c8",
@@ -8578,7 +8682,36 @@
     "likes": 143,
     "rechirps": 32,
     "views": 2850,
-    "replies": []
+    "replies": [
+      {
+        "id": "reply-pecan-nov13-raven-summit-2026-01-1",
+        "who": "rook",
+        "text": "I proposed a commemorative plaque. You proposed a building with columns. Somehow I am now staffing the gift shop.",
+        "createdAt": "2026-11-13T01:05:00-06:00",
+        "replies": []
+      },
+      {
+        "id": "reply-pecan-nov13-raven-summit-2026-01-2",
+        "who": "lucy",
+        "text": "Does the diplomatic portrait have adequate lighting? History is no excuse for unflattering photography.",
+        "createdAt": "2026-11-13T01:17:00-06:00",
+        "replies": []
+      },
+      {
+        "id": "reply-pecan-nov13-raven-summit-2026-01-3",
+        "who": "captainnutters",
+        "text": "As a fellow nut professional, I request a formal viewing. I will bring my own security.",
+        "createdAt": "2026-11-13T01:29:00-06:00",
+        "replies": []
+      },
+      {
+        "id": "reply-pecan-nov13-raven-summit-2026-01-4",
+        "who": "raven",
+        "text": "Your request has been received. Security will be evaluating your surname.",
+        "createdAt": "2026-11-13T02:05:00-06:00",
+        "replies": []
+      }
+    ]
   },
   {
     "id": "rook-summit-2026-01",
@@ -8588,7 +8721,36 @@
     "likes": 227,
     "rechirps": 41,
     "views": 3910,
-    "replies": []
+    "replies": [
+      {
+        "id": "reply-pecan-nov13-rook-summit-2026-01-1",
+        "who": "gerald",
+        "text": "Three delegates and not one thought to negotiate lodging for the raccoons. Typical.",
+        "createdAt": "2026-11-13T01:05:00-06:00",
+        "replies": []
+      },
+      {
+        "id": "reply-pecan-nov13-rook-summit-2026-01-2",
+        "who": "arthur",
+        "text": "Does the museum café serve cannoli? Asking on behalf of international relations.",
+        "createdAt": "2026-11-13T01:17:00-06:00",
+        "replies": []
+      },
+      {
+        "id": "reply-pecan-nov13-rook-summit-2026-01-3",
+        "who": "duck",
+        "text": "MINUTES OF THE SUMMIT HAVE BEEN REQUESTED. ALL THREE ROOKS MUST SIGN SEPARATELY.",
+        "createdAt": "2026-11-13T01:29:00-06:00",
+        "replies": []
+      },
+      {
+        "id": "reply-pecan-nov13-rook-summit-2026-01-4",
+        "who": "rook",
+        "text": "I have signed. I have countersigned. My third self is demanding overtime.",
+        "createdAt": "2026-11-13T02:05:00-06:00",
+        "replies": []
+      }
+    ]
   },
   {
     "id": "duck-summit-2026-01",
@@ -8598,7 +8760,36 @@
     "likes": 182,
     "rechirps": 36,
     "views": 2870,
-    "replies": []
+    "replies": [
+      {
+        "id": "reply-pecan-nov13-duck-summit-2026-01-1",
+        "who": "honeybaby",
+        "text": "Can Quackers have a nap first? 💙",
+        "createdAt": "2026-11-13T01:05:00-06:00",
+        "replies": []
+      },
+      {
+        "id": "reply-pecan-nov13-duck-summit-2026-01-2",
+        "who": "gertie",
+        "text": "He can't enforce a form he doesn't know about, you feathered filing cabinet.",
+        "createdAt": "2026-11-13T01:17:00-06:00",
+        "replies": []
+      },
+      {
+        "id": "reply-pecan-nov13-duck-summit-2026-01-3",
+        "who": "duck",
+        "text": "DEPUTY QUACKERS HAS BEEN GRANTED A FIFTEEN-MINUTE RECESS FOR CUDDLES.",
+        "createdAt": "2026-11-13T01:29:00-06:00",
+        "replies": []
+      },
+      {
+        "id": "reply-pecan-nov13-duck-summit-2026-01-4",
+        "who": "shirley",
+        "text": "For the record, a stuffed duck cannot be held personally liable for an unserved notice.",
+        "createdAt": "2026-11-13T02:05:00-06:00",
+        "replies": []
+      }
+    ]
   },
   {
     "id": "tiffany-summit-2026-01",
@@ -8608,7 +8799,36 @@
     "likes": 344,
     "rechirps": 65,
     "views": 5100,
-    "replies": []
+    "replies": [
+      {
+        "id": "reply-pecan-nov13-tiffany-summit-2026-01-1",
+        "who": "toni",
+        "text": "Five minutes? That raven has been planning his entrance since the first pecan.",
+        "createdAt": "2026-11-13T01:05:00-06:00",
+        "replies": []
+      },
+      {
+        "id": "reply-pecan-nov13-tiffany-summit-2026-01-2",
+        "who": "cecil",
+        "text": "The Black Orchard café has a name and nobody consulted me about pastry. I am offended professionally.",
+        "createdAt": "2026-11-13T01:17:00-06:00",
+        "replies": []
+      },
+      {
+        "id": "reply-pecan-nov13-tiffany-summit-2026-01-3",
+        "who": "milo",
+        "text": "I would like to inspect the pecan. For security reasons. With my mouth.",
+        "createdAt": "2026-11-13T01:29:00-06:00",
+        "replies": []
+      },
+      {
+        "id": "reply-pecan-nov13-tiffany-summit-2026-01-4",
+        "who": "rook",
+        "text": "Please stop telling people I got an editorial praising my leadership. Raven is already charging me admission.",
+        "createdAt": "2026-11-13T02:05:00-06:00",
+        "replies": []
+      }
+    ]
   },
   {
     "id": "raven-museum-2026-02",
@@ -8618,6 +8838,35 @@
     "likes": 211,
     "rechirps": 48,
     "views": 3400,
-    "replies": []
+    "replies": [
+      {
+        "id": "reply-pecan-nov13-raven-museum-2026-02-1",
+        "who": "pawpaw",
+        "text": "What happens if a squirrel gets in? Asking for a friend who is definitely not a squirrel.",
+        "createdAt": "2026-11-13T01:05:00-06:00",
+        "replies": []
+      },
+      {
+        "id": "reply-pecan-nov13-raven-museum-2026-02-2",
+        "who": "ollie",
+        "text": "Do you have an archive catalog? And please tell me nobody has put cheese in the display case.",
+        "createdAt": "2026-11-13T01:17:00-06:00",
+        "replies": []
+      },
+      {
+        "id": "reply-pecan-nov13-raven-museum-2026-02-3",
+        "who": "bette",
+        "text": "A whole museum for one nut. Finally, an institution that understands the importance of presentation.",
+        "createdAt": "2026-11-13T01:29:00-06:00",
+        "replies": []
+      },
+      {
+        "id": "reply-pecan-nov13-raven-museum-2026-02-4",
+        "who": "raven",
+        "text": "The pecan is not available for tasting, pawning, or comparative analysis. This includes you, Milo.",
+        "createdAt": "2026-11-13T02:05:00-06:00",
+        "replies": []
+      }
+    ]
   }
 ]
