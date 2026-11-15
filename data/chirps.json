@@ -94,28 +94,6 @@
         ]
       },
       {
-        "id": "reply-bribe-special-toni",
-        "who": "toni",
-        "text": "Is there an appeals process when the 'maybe' turns into a 'no'?",
-        "createdAt": "2026-11-15T12:23:00-06:00",
-        "replies": [
-          {
-            "id": "reply-bribe-special-office-toni",
-            "who": "unsolicitedgenerosity",
-            "text": "Certainly! Appeals are reviewed upon receipt of a third bribe.",
-            "createdAt": "2026-11-15T12:24:00-06:00",
-            "replies": []
-          },
-          {
-            "id": "reply-bribe-special-toni-again",
-            "who": "toni",
-            "text": "I'll be preserving this exchange for discovery.",
-            "createdAt": "2026-11-15T12:25:00-06:00",
-            "replies": []
-          }
-        ]
-      },
-      {
         "id": "reply-bribe-special-raven",
         "who": "raven",
         "text": "I presume the Original Pecan is categorically exempt from all forms of collateral, donation, and inducement.",
