@@ -4,7 +4,162 @@
     "who": "unsolicitedgenerosity",
     "createdAt": "2026-11-15T12:00:00-06:00",
     "text": "🦋🎁 2 FOR 1 BRIBE SPECIAL! 🎁🦋\n\nPay two bribes, get one result.\n\nMaybe.\n\nTerms and conditions apply. Results not guaranteed. Bribes nonrefundable.\n\nThank you, bribe again.\n\n#Gnomeville #MunicipalExcellence",
-    "replies": [],
+    "replies": [
+      {
+        "id": "reply-bribe-special-milo",
+        "who": "milo",
+        "text": "Can I pay in catnip? I require the immediate dismissal of all outstanding grievances against Management.",
+        "createdAt": "2026-11-15T12:03:00-06:00",
+        "replies": [
+          {
+            "id": "reply-bribe-special-office-milo",
+            "who": "unsolicitedgenerosity",
+            "text": "Catnip is accepted. Dismissal is not included in the promotional offer.",
+            "createdAt": "2026-11-15T12:04:00-06:00",
+            "replies": []
+          },
+          {
+            "id": "reply-bribe-special-shirley-milo",
+            "who": "shirley",
+            "text": "My client requests a written explanation of the difference between a bribe and a treat.",
+            "createdAt": "2026-11-15T12:05:00-06:00",
+            "replies": []
+          }
+        ]
+      },
+      {
+        "id": "reply-bribe-special-duck",
+        "who": "duck",
+        "text": "FORM 17B-2B MUST BE FILED IN TRIPLICATE BEFORE ANY SECOND BRIBE CAN BE ACKNOWLEDGED.",
+        "createdAt": "2026-11-15T12:07:00-06:00",
+        "replies": [
+          {
+            "id": "reply-bribe-special-office-duck",
+            "who": "unsolicitedgenerosity",
+            "text": "Thank you. The third copy is for the butterfly.",
+            "createdAt": "2026-11-15T12:08:00-06:00",
+            "replies": []
+          },
+          {
+            "id": "reply-bribe-special-duck-again",
+            "who": "duck",
+            "text": "THE BUTTERFLY HAS NOT COMPLETED ITS MANDATORY SIGNATURE TRAINING.",
+            "createdAt": "2026-11-15T12:09:00-06:00",
+            "replies": []
+          }
+        ]
+      },
+      {
+        "id": "reply-bribe-special-mayor",
+        "who": "mayor",
+        "text": "I trust this promotion has been reviewed by the appropriate ethics committee.",
+        "createdAt": "2026-11-15T12:12:00-06:00",
+        "replies": [
+          {
+            "id": "reply-bribe-special-rook-mayor",
+            "who": "rook",
+            "text": "The committee reviewed the ethics. They were deemed surplus to requirements.",
+            "createdAt": "2026-11-15T12:13:00-06:00",
+            "replies": []
+          },
+          {
+            "id": "reply-bribe-special-mayor-again",
+            "who": "mayor",
+            "text": "I see. Please remove my name from the minutes.",
+            "createdAt": "2026-11-15T12:14:00-06:00",
+            "replies": []
+          }
+        ]
+      },
+      {
+        "id": "reply-bribe-special-rocky",
+        "who": "rocky",
+        "text": "Do the two bribes have to be in the same paper bag? Asking for a client.",
+        "createdAt": "2026-11-15T12:17:00-06:00",
+        "replies": [
+          {
+            "id": "reply-bribe-special-office-rocky",
+            "who": "unsolicitedgenerosity",
+            "text": "Separate bags preferred. We also accept unmarked envelopes and unusually generous compliments.",
+            "createdAt": "2026-11-15T12:18:00-06:00",
+            "replies": []
+          },
+          {
+            "id": "reply-bribe-special-rocky-again",
+            "who": "rocky",
+            "text": "Excellent. The Archives will be in touch. Allegedly.",
+            "createdAt": "2026-11-15T12:19:00-06:00",
+            "replies": []
+          }
+        ]
+      },
+      {
+        "id": "reply-bribe-special-toni",
+        "who": "toni",
+        "text": "Is there an appeals process when the 'maybe' turns into a 'no'?",
+        "createdAt": "2026-11-15T12:23:00-06:00",
+        "replies": [
+          {
+            "id": "reply-bribe-special-office-toni",
+            "who": "unsolicitedgenerosity",
+            "text": "Certainly! Appeals are reviewed upon receipt of a third bribe.",
+            "createdAt": "2026-11-15T12:24:00-06:00",
+            "replies": []
+          },
+          {
+            "id": "reply-bribe-special-toni-again",
+            "who": "toni",
+            "text": "I'll be preserving this exchange for discovery.",
+            "createdAt": "2026-11-15T12:25:00-06:00",
+            "replies": []
+          }
+        ]
+      },
+      {
+        "id": "reply-bribe-special-raven",
+        "who": "raven",
+        "text": "I presume the Original Pecan is categorically exempt from all forms of collateral, donation, and inducement.",
+        "createdAt": "2026-11-15T12:28:00-06:00",
+        "replies": [
+          {
+            "id": "reply-bribe-special-office-raven",
+            "who": "unsolicitedgenerosity",
+            "text": "Confirmed. The pecan is protected. The velvet display cushion, however, remains subject to appraisal.",
+            "createdAt": "2026-11-15T12:29:00-06:00",
+            "replies": []
+          },
+          {
+            "id": "reply-bribe-special-raven-again",
+            "who": "raven",
+            "text": "I beg your pardon.",
+            "createdAt": "2026-11-15T12:30:00-06:00",
+            "replies": []
+          }
+        ]
+      },
+      {
+        "id": "reply-bribe-special-rook",
+        "who": "rook",
+        "text": "As Executive of All This Mess, I must ask: what exactly counts as one result?",
+        "createdAt": "2026-11-15T12:33:00-06:00",
+        "replies": [
+          {
+            "id": "reply-bribe-special-office-rook",
+            "who": "unsolicitedgenerosity",
+            "text": "That determination is made after payment, at Management's sole discretion.",
+            "createdAt": "2026-11-15T12:34:00-06:00",
+            "replies": []
+          },
+          {
+            "id": "reply-bribe-special-rook-again",
+            "who": "rook",
+            "text": "Outstanding. The ambiguity is now load-bearing.",
+            "createdAt": "2026-11-15T12:35:00-06:00",
+            "replies": []
+          }
+        ]
+      }
+    ],
     "likes": 0,
     "rechirps": 0
   },
