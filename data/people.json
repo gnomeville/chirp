@@ -462,5 +462,14 @@
     "avatar": "🐦‍⬛",
     "bio": "Custodian of the Original Pecan. Patron of the Museum of Strategic Pecan History. Unnecessary dramatic flair is a necessity.",
     "verified": false
+  },
+  "unsolicitedgenerosity": {
+    "name": "Office of Unsolicited Bribes, Gifts & Butterfly Infrastructure",
+    "handle": "DeptOfUnsolicitedGenerosity",
+    "avatar": "🦋",
+    "bio": "Municipal gift acceptance, discretionary disappointment, and butterfly infrastructure. Bribes nonrefundable. Results not guaranteed. 🦋",
+    "verified": true,
+    "location": "Gnomeville, Department of Questionable Generosity",
+    "tagline": "🦋 Official Municipal Bribe Reception"
   }
 }
