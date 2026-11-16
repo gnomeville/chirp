@@ -378,7 +378,8 @@
     "location": "Château Gnomeville · Gnomeville",
     "following": 114,
     "followers": 4862,
-    "tagline": "🍷 Estate winery since 1823 · Official"
+    "tagline": "🍷 Estate winery since 1823 · Official",
+    "image": "assets/monogram.jpg"
   },
   "paulie": {
     "name": "Paulie Moretti",
@@ -416,7 +417,8 @@
     "location": "14 Garlic Lane · Gnomeville",
     "following": 119,
     "followers": 4160,
-    "tagline": "🍅 A century of family hospitality · Est. 1926"
+    "tagline": "🍅 A century of family hospitality · Est. 1926",
+    "image": "assets/trattoria-della-nonna-sign.png"
   },
   "tiffany": {
     "name": "Tiffany",
