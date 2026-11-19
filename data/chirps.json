@@ -1,5 +1,38 @@
 [
   {
+    "id": "surprise-milo-domestic-intelligence-2026-11",
+    "who": "milo",
+    "createdAt": "2026-11-18T18:24:50-06:00",
+    "text": "My human has begun documenting every time I look at her.\n\nShe has accomplished nothing else today.\n\nSurveillance successful. 👀",
+    "replies": [],
+    "likes": 0,
+    "rechirps": 0,
+    "storyId": "surprise-reserve",
+    "surpriseReserve": true
+  },
+  {
+    "id": "story-cheese-2026-02",
+    "who": "mayor",
+    "createdAt": "2026-11-18T18:24:50-06:00",
+    "text": "My office has received several inquiries regarding the so-called Cheese Emergency.\n\nWe wish to reassure residents that there is currently no evidence of a cheese shortage.\n\n#MunicipalUpdate",
+    "replies": [],
+    "likes": 0,
+    "rechirps": 0,
+    "storyId": "cheese",
+    "storyPublishedOn": "2026-11-18"
+  },
+  {
+    "id": "story-chateau-2026-01",
+    "who": "chateau",
+    "createdAt": "2026-11-18T18:24:50-06:00",
+    "text": "Some evenings deserve to linger.\n\nDiscover The Blue Hour, our blueberry dessert wine, crafted for conversations that refuse to end.\n\nA little indulgence. A little elegance. Absolutely no municipal paperwork.\n\n#TheBlueHour #ChateauGnomeville",
+    "replies": [],
+    "likes": 0,
+    "rechirps": 0,
+    "storyId": "chateau",
+    "storyPublishedOn": "2026-11-18"
+  },
+  {
     "id": "story-party-2026-02",
     "who": "shirley",
     "createdAt": "2026-11-16T19:52:42-06:00",
